@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="2a298523-c317-4aa7-a9a6-0fdd427744ae" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Odysseia</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ÚVOD K PRVNÍMU VYDÁNÍ</text>
+      </navLabel>
+      <content src="Text/odysseia_007.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>1. Homéros</text>
+        </navLabel>
+        <content src="Text/odysseia_007.html#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>2. Odysseia</text>
+        </navLabel>
+        <content src="Text/odysseia_007.html#sigil_toc_id_2"/>
+        <navPoint id="navPoint-4" playOrder="4">
+          <navLabel>
+            <text>Obsah</text>
+          </navLabel>
+          <content src="Text/odysseia_007.html#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>Hlavní myšlenka</text>
+          </navLabel>
+          <content src="Text/odysseia_007.html#sigil_toc_id_4"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>Rozdělení Odysseie</text>
+          </navLabel>
+          <content src="Text/odysseia_007.html#sigil_toc_id_5"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>Umělecká kompozice</text>
+          </navLabel>
+          <content src="Text/odysseia_007.html#sigil_toc_id_6"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>TÉLEMACHOS</text>
+      </navLabel>
+      <content src="Text/odysseia_008.html"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>ZPĚV I</text>
+        </navLabel>
+        <content src="Text/odysseia_009.html"/>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>V domě Odysséově</text>
+          </navLabel>
+          <content src="Text/odysseia_009.html#sigil_toc_id_7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>ZPĚV II</text>
+        </navLabel>
+        <content src="Text/odysseia_010.html"/>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>Sněm na Ithace</text>
+          </navLabel>
+          <content src="Text/odysseia_010.html#sigil_toc_id_8"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>Télemachova cesta</text>
+          </navLabel>
+          <content src="Text/odysseia_010.html#sigil_toc_id_9"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>ZPĚV III</text>
+        </navLabel>
+        <content src="Text/odysseia_011.html"/>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>U Nestora, krále pylského</text>
+          </navLabel>
+          <content src="Text/odysseia_011.html#sigil_toc_id_10"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>ZPĚV IV</text>
+        </navLabel>
+        <content src="Text/odysseia_012.html"/>
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>U Meneláa, krále spartského</text>
+          </navLabel>
+          <content src="Text/odysseia_012.html#sigil_toc_id_11"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>Úklady ženichů</text>
+          </navLabel>
+          <content src="Text/odysseia_012.html#sigil_toc_id_12"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>NÁVRAT ODYSSÉŮV</text>
+      </navLabel>
+      <content src="Text/odysseia_013.html"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>ZPĚV V</text>
+        </navLabel>
+        <content src="Text/odysseia_014.html"/>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>Odysseus odplul od nymfy Kalypsy k Faiékům</text>
+          </navLabel>
+          <content src="Text/odysseia_014.html#sigil_toc_id_13"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>ZPĚV VI</text>
+        </navLabel>
+        <content src="Text/odysseia_015.html"/>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>Odysseus u Faiéků. Nausikaá</text>
+          </navLabel>
+          <content src="Text/odysseia_015.html#sigil_toc_id_14"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>ZPĚV VII</text>
+        </navLabel>
+        <content src="Text/odysseia_016.html"/>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>Odysseus hostem krále Alkinoa</text>
+          </navLabel>
+          <content src="Text/odysseia_016.html#sigil_toc_id_15"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>ZPĚV VIII</text>
+        </navLabel>
+        <content src="Text/odysseia_017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>ZPĚV IX</text>
+        </navLabel>
+        <content src="Text/odysseia_018.html"/>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>Příhody Odysséovy</text>
+          </navLabel>
+          <content src="Text/odysseia_018.html#sigil_toc_id_16"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>Kikonové</text>
+          </navLabel>
+          <content src="Text/odysseia_018.html#sigil_toc_id_17"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>Lótofagové</text>
+          </navLabel>
+          <content src="Text/odysseia_018.html#sigil_toc_id_18"/>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>Kyklóps Polyfémos</text>
+          </navLabel>
+          <content src="Text/odysseia_018.html#sigil_toc_id_19"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>ZPĚV X</text>
+        </navLabel>
+        <content src="Text/odysseia_019.html"/>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>Aiolos, král větrů</text>
+          </navLabel>
+          <content src="Text/odysseia_019.html#sigil_toc_id_20"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>Laistrýgoni</text>
+          </navLabel>
+          <content src="Text/odysseia_019.html#sigil_toc_id_21"/>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>Kirké</text>
+          </navLabel>
+          <content src="Text/odysseia_019.html#sigil_toc_id_22"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>Odysseus v podsvětí</text>
+          </navLabel>
+          <content src="Text/odysseia_019.html#sigil_toc_id_23"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>ZPĚV XI</text>
+        </navLabel>
+        <content src="Text/odysseia_020.html"/>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>Rozmluvy Odysséovy s dušemi mrtvých v podsvětí. Elpénór</text>
+          </navLabel>
+          <content src="Text/odysseia_020.html#sigil_toc_id_24"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>Teiresiés</text>
+          </navLabel>
+          <content src="Text/odysseia_020.html#sigil_toc_id_25"/>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+          <navLabel>
+            <text>Matka</text>
+          </navLabel>
+          <content src="Text/odysseia_020.html#sigil_toc_id_26"/>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>Slavné ženy starověku</text>
+          </navLabel>
+          <content src="Text/odysseia_020.html#sigil_toc_id_27"/>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text>Agamemnón, Achilleus, Aiás</text>
+          </navLabel>
+          <content src="Text/odysseia_020.html#sigil_toc_id_28"/>
+        </navPoint>
+        <navPoint id="navPoint-43" playOrder="43">
+          <navLabel>
+            <text>Agamemnón</text>
+          </navLabel>
+          <content src="Text/odysseia_020.html#sigil_toc_id_29"/>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+          <navLabel>
+            <text>Achilleus</text>
+          </navLabel>
+          <content src="Text/odysseia_020.html#sigil_toc_id_30"/>
+        </navPoint>
+        <navPoint id="navPoint-45" playOrder="45">
+          <navLabel>
+            <text>Aiás, syn Telamónův</text>
+          </navLabel>
+          <content src="Text/odysseia_020.html#sigil_toc_id_31"/>
+        </navPoint>
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>Mínós</text>
+          </navLabel>
+          <content src="Text/odysseia_020.html#sigil_toc_id_32"/>
+        </navPoint>
+        <navPoint id="navPoint-47" playOrder="47">
+          <navLabel>
+            <text>Óríón</text>
+          </navLabel>
+          <content src="Text/odysseia_020.html#sigil_toc_id_33"/>
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>Muka Tityova, Tantalova a Sisyfova</text>
+          </navLabel>
+          <content src="Text/odysseia_020.html#sigil_toc_id_34"/>
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>Héráklés</text>
+          </navLabel>
+          <content src="Text/odysseia_020.html#sigil_toc_id_35"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>Návrat. Pohřeb Elpénorův</text>
+          </navLabel>
+          <content src="Text/odysseia_020.html#sigil_toc_id_36"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>ZPĚV XII</text>
+        </navLabel>
+        <content src="Text/odysseia_021.html"/>
+        <navPoint id="navPoint-52" playOrder="52">
+          <navLabel>
+            <text>Rady Kirčiny</text>
+          </navLabel>
+          <content src="Text/odysseia_021.html#sigil_toc_id_37"/>
+        </navPoint>
+        <navPoint id="navPoint-53" playOrder="53">
+          <navLabel>
+            <text>Seirény</text>
+          </navLabel>
+          <content src="Text/odysseia_021.html#sigil_toc_id_38"/>
+        </navPoint>
+        <navPoint id="navPoint-54" playOrder="54">
+          <navLabel>
+            <text>Odrazné skály (Plankty)</text>
+          </navLabel>
+          <content src="Text/odysseia_021.html#sigil_toc_id_39"/>
+        </navPoint>
+        <navPoint id="navPoint-55" playOrder="55">
+          <navLabel>
+            <text>Skyllé a Charybdis</text>
+          </navLabel>
+          <content src="Text/odysseia_021.html#sigil_toc_id_40"/>
+        </navPoint>
+        <navPoint id="navPoint-56" playOrder="56">
+          <navLabel>
+            <text>Stáda Héliova na Thrínakii. Smrt soudruhů Odysséových</text>
+          </navLabel>
+          <content src="Text/odysseia_021.html#sigil_toc_id_41"/>
+        </navPoint>
+        <navPoint id="navPoint-57" playOrder="57">
+          <navLabel>
+            <text>Odysseus zahnán k nymfě Kalypse</text>
+          </navLabel>
+          <content src="Text/odysseia_021.html#sigil_toc_id_42"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>ZPĚV XIII</text>
+        </navLabel>
+        <content src="Text/odysseia_022.html"/>
+        <navPoint id="navPoint-59" playOrder="59">
+          <navLabel>
+            <text>Faiéci dovezli Odysséa do jeho vlasti na ostrov Ithaku</text>
+          </navLabel>
+          <content src="Text/odysseia_022.html#sigil_toc_id_43"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>POMSTA NAD ŽENICHY</text>
+      </navLabel>
+      <content src="Text/odysseia_023.html"/>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Odysseus doma</text>
+        </navLabel>
+        <content src="Text/odysseia_024.html"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>ZPĚV XIV</text>
+        </navLabel>
+        <content src="Text/odysseia_025.html"/>
+        <navPoint id="navPoint-63" playOrder="63">
+          <navLabel>
+            <text>Odysseus u pastýře Eumaia</text>
+          </navLabel>
+          <content src="Text/odysseia_025.html#sigil_toc_id_44"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>ZPĚV XV</text>
+        </navLabel>
+        <content src="Text/odysseia_026.html"/>
+        <navPoint id="navPoint-65" playOrder="65">
+          <navLabel>
+            <text>Návrat Télemachův</text>
+          </navLabel>
+          <content src="Text/odysseia_026.html#sigil_toc_id_45"/>
+        </navPoint>
+        <navPoint id="navPoint-66" playOrder="66">
+          <navLabel>
+            <text>Rozmluvy Odysséovy s Eumaiem</text>
+          </navLabel>
+          <content src="Text/odysseia_026.html#sigil_toc_id_46"/>
+        </navPoint>
+        <navPoint id="navPoint-67" playOrder="67">
+          <navLabel>
+            <text>Télemachos u Eumaia. Setkání s otcem</text>
+          </navLabel>
+          <content src="Text/odysseia_026.html#sigil_toc_id_47"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>ZPĚV XVI</text>
+        </navLabel>
+        <content src="Text/odysseia_027.html"/>
+        <navPoint id="navPoint-69" playOrder="69">
+          <navLabel>
+            <text>Nové úklady ženichů</text>
+          </navLabel>
+          <content src="Text/odysseia_027.html#sigil_toc_id_48"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>ZPĚV XVII</text>
+        </navLabel>
+        <content src="Text/odysseia_028.html"/>
+        <navPoint id="navPoint-71" playOrder="71">
+          <navLabel>
+            <text>Odysseus ve svém domě. Řádění ženichů</text>
+          </navLabel>
+          <content src="Text/odysseia_028.html#sigil_toc_id_49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>ZPĚV XVIII</text>
+        </navLabel>
+        <content src="Text/odysseia_029.html"/>
+        <navPoint id="navPoint-73" playOrder="73">
+          <navLabel>
+            <text>Žebrák Íros</text>
+          </navLabel>
+          <content src="Text/odysseia_029.html#sigil_toc_id_50"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>ZPĚV XIX</text>
+        </navLabel>
+        <content src="Text/odysseia_030.html"/>
+        <navPoint id="navPoint-75" playOrder="75">
+          <navLabel>
+            <text>Rozmluva Odysséa-žebráka s Pénelopeiou. Noc. Ráno</text>
+          </navLabel>
+          <content src="Text/odysseia_030.html#sigil_toc_id_51"/>
+        </navPoint>
+        <navPoint id="navPoint-76" playOrder="76">
+          <navLabel>
+            <text>Odysseus poznán od služky Eurykleie</text>
+          </navLabel>
+          <content src="Text/odysseia_030.html#sigil_toc_id_52"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>ZPĚV XX</text>
+        </navLabel>
+        <content src="Text/odysseia_031.html"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>ZPĚV XXI</text>
+        </navLabel>
+        <content src="Text/odysseia_032.html"/>
+        <navPoint id="navPoint-79" playOrder="79">
+          <navLabel>
+            <text>Zápas v lukostřelbě</text>
+          </navLabel>
+          <content src="Text/odysseia_032.html#sigil_toc_id_53"/>
+        </navPoint>
+        <navPoint id="navPoint-80" playOrder="80">
+          <navLabel>
+            <text>Pobití ženichů</text>
+          </navLabel>
+          <content src="Text/odysseia_032.html#sigil_toc_id_54"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>ZPĚV XXII</text>
+        </navLabel>
+        <content src="Text/odysseia_033.html"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>ZPĚV XXIII</text>
+        </navLabel>
+        <content src="Text/odysseia_034.html"/>
+        <navPoint id="navPoint-83" playOrder="83">
+          <navLabel>
+            <text>Odysseus a Pénelopeia se poznají</text>
+          </navLabel>
+          <content src="Text/odysseia_034.html#sigil_toc_id_55"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>ZPĚV XXIV</text>
+        </navLabel>
+        <content src="Text/odysseia_035.html"/>
+        <navPoint id="navPoint-85" playOrder="85">
+          <navLabel>
+            <text>Duše padlých ženichů v podsvětí</text>
+          </navLabel>
+          <content src="Text/odysseia_035.html#sigil_toc_id_56"/>
+        </navPoint>
+        <navPoint id="navPoint-86" playOrder="86">
+          <navLabel>
+            <text>Setkání s otcem Láertem</text>
+          </navLabel>
+          <content src="Text/odysseia_035.html#sigil_toc_id_57"/>
+        </navPoint>
+        <navPoint id="navPoint-87" playOrder="87">
+          <navLabel>
+            <text>Boj s povstalými Ithačany a smír</text>
+          </navLabel>
+          <content src="Text/odysseia_035.html#sigil_toc_id_58"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-88" playOrder="88">
+      <navLabel>
+        <text>Poznámky pod čarou</text>
+      </navLabel>
+      <content src="Text/odysseia_036.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
