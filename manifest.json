@@ -1,0 +1,1207 @@
+{
+  "author": "Homéros",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "homeros-odysseia-0aaf20e",
+  "languagecode": "cs",
+  "modified": "2022-02-28T12:53:33.824Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Odysseia",
+  "revision": "0aaf20e",
+  "generatedAt": {
+    "date": "Mon Feb 28 2022 13:35:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1646055340094
+  },
+  "documents": [
+    {
+      "title": "Odysseia",
+      "file": "odysseia_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "odysseia_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odysseia",
+      "file": "odysseia_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "odysseia_001.html",
+      "next": "odysseia_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odysseia",
+      "file": "odysseia_003.html",
+      "words": 5,
+      "chars": 37,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "odysseia_002.html",
+      "next": "odysseia_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odysseia",
+      "file": "odysseia_004.html",
+      "words": 78,
+      "chars": 519,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "odysseia_003.html",
+      "next": "odysseia_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odysseia",
+      "file": "odysseia_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 4,
+      "prev": "odysseia_004.html",
+      "next": "odysseia_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odysseia",
+      "file": "odysseia_006.html",
+      "words": 16,
+      "chars": 84,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 5,
+      "prev": "odysseia_005.html",
+      "next": "odysseia_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ÚVOD\nK PRVNÍMU VYDÁNÍ • Odysseia",
+      "file": "odysseia_007.html",
+      "words": 5663,
+      "chars": 35435,
+      "ideas": 126,
+      "role": "chapter",
+      "order": 6,
+      "prev": "odysseia_006.html",
+      "next": "odysseia_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ÚVOD\nK PRVNÍMU VYDÁNÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. Homéros",
+              "id": "1-homéros",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2. Odysseia",
+              "id": "2-odysseia",
+              "children": [
+                {
+                  "index": 3,
+                  "level": 3,
+                  "name": "Obsah",
+                  "id": "obsah",
+                  "children": []
+                },
+                {
+                  "index": 4,
+                  "level": 3,
+                  "name": "Hlavní myšlenka",
+                  "id": "hlavní-myšlenka",
+                  "children": []
+                },
+                {
+                  "index": 5,
+                  "level": 3,
+                  "name": "Rozdělení Odysseie",
+                  "id": "rozdělení-odysseie",
+                  "children": []
+                },
+                {
+                  "index": 6,
+                  "level": 3,
+                  "name": "Umělecká kompozice",
+                  "id": "umělecká-kompozice",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "TÉLEMACHOS • Odysseia",
+      "file": "odysseia_008.html",
+      "words": 1,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 7,
+      "prev": "odysseia_007.html",
+      "next": "odysseia_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TÉLEMACHOS",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV I • Odysseia",
+      "file": "odysseia_009.html",
+      "words": 4081,
+      "chars": 22237,
+      "ideas": 456,
+      "role": "chapter",
+      "order": 8,
+      "prev": "odysseia_008.html",
+      "next": "odysseia_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV I",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "V domě Odysséově",
+              "id": "vnbspdomě-odysséově",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV II • Odysseia",
+      "file": "odysseia_010.html",
+      "words": 3946,
+      "chars": 21680,
+      "ideas": 452,
+      "role": "chapter",
+      "order": 9,
+      "prev": "odysseia_009.html",
+      "next": "odysseia_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV II",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Sněm na Ithace",
+              "id": "sněm-nanbspithace",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Télemachova cesta[6]",
+              "id": "télemachova-cesta6resourcesundefined",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV III • Odysseia",
+      "file": "odysseia_011.html",
+      "words": 4429,
+      "chars": 24757,
+      "ideas": 508,
+      "role": "chapter",
+      "order": 10,
+      "prev": "odysseia_010.html",
+      "next": "odysseia_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV III",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "U Nestora, krále pylského",
+              "id": "unbspnestora-krále-pylského",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV\nIV • Odysseia",
+      "file": "odysseia_012.html",
+      "words": 7725,
+      "chars": 42527,
+      "ideas": 869,
+      "role": "chapter",
+      "order": 11,
+      "prev": "odysseia_011.html",
+      "next": "odysseia_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV\nIV",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "U Meneláa, krále spartského",
+              "id": "unbspmeneláa-krále-spartského",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Úklady ženichů",
+              "id": "úklady-ženichů",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "NÁVRAT\nODYSSÉŮV • Odysseia",
+      "file": "odysseia_013.html",
+      "words": 2,
+      "chars": 14,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 12,
+      "prev": "odysseia_012.html",
+      "next": "odysseia_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "NÁVRAT\nODYSSÉŮV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV V • Odysseia",
+      "file": "odysseia_014.html",
+      "words": 4465,
+      "chars": 24488,
+      "ideas": 499,
+      "role": "chapter",
+      "order": 13,
+      "prev": "odysseia_013.html",
+      "next": "odysseia_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV V",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Odysseus odplul od nymfy Kalypsy k Faiékům",
+              "id": "odysseus-odplul-odnbspnymfy-kalypsy-knbspfaiékům",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV VI • Odysseia",
+      "file": "odysseia_015.html",
+      "words": 3022,
+      "chars": 16577,
+      "ideas": 343,
+      "role": "chapter",
+      "order": 14,
+      "prev": "odysseia_014.html",
+      "next": "odysseia_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV VI",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Odysseus u Faiéků.",
+              "id": "odysseus-unbspfaiéků",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV VII • Odysseia",
+      "file": "odysseia_016.html",
+      "words": 3081,
+      "chars": 17316,
+      "ideas": 354,
+      "role": "chapter",
+      "order": 15,
+      "prev": "odysseia_015.html",
+      "next": "odysseia_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV VII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Odysseus hostem krále Alkinoa[7]",
+              "id": "_odysseus-hostem-krále-alkinoa_7resourcesundefined",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV VIII • Odysseia",
+      "file": "odysseia_017.html",
+      "words": 5217,
+      "chars": 29111,
+      "ideas": 601,
+      "role": "chapter",
+      "order": 16,
+      "prev": "odysseia_016.html",
+      "next": "odysseia_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV\nIX • Odysseia",
+      "file": "odysseia_018.html",
+      "words": 5218,
+      "chars": 28640,
+      "ideas": 586,
+      "role": "chapter",
+      "order": 17,
+      "prev": "odysseia_017.html",
+      "next": "odysseia_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV\nIX",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Příhody Odysséovy[8]",
+              "id": "příhody-odysséovy8resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Kikonové",
+              "id": "kikonové",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Lótofagové",
+              "id": "lótofagové",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Kyklóps Polyfémos",
+              "id": "kyklóps-polyfémos",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV X • Odysseia",
+      "file": "odysseia_019.html",
+      "words": 5291,
+      "chars": 28939,
+      "ideas": 589,
+      "role": "chapter",
+      "order": 18,
+      "prev": "odysseia_018.html",
+      "next": "odysseia_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV X",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Aiolos, král větrů",
+              "id": "aiolos-král-větrů",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Laistrýgoni",
+              "id": "laistrýgoni",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Kirké",
+              "id": "kirké",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Odysseus v podsvětí[9]",
+              "id": "odysseus-vnbsppodsvětí9resourcesundefined",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV XI • Odysseia",
+      "file": "odysseia_020.html",
+      "words": 5774,
+      "chars": 32150,
+      "ideas": 663,
+      "role": "chapter",
+      "order": 19,
+      "prev": "odysseia_019.html",
+      "next": "odysseia_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV XI",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Rozmluvy Odysséovy s dušemi mrtvých v podsvětí.[10]Elpénór",
+              "id": "rozmluvy-odysséovy-snbspdušemi-mrtvých-vnbsppodsvětí10resourcesundefinedelpénór",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Teiresiés",
+              "id": "teiresiés",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Matka",
+              "id": "matka",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Slavné ženy starověku",
+              "id": "slavné-ženy-starověku",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Agamemnón, Achilleus, Aiás",
+              "id": "agamemnón-achilleus-aiás",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Agamemnón",
+              "id": "agamemnón",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Achilleus",
+              "id": "achilleus",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Aiás, syn Telamónův",
+              "id": "aiás-syn-telamónův",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Mínós",
+              "id": "mínós",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Óríón",
+              "id": "óríón",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Muka Tityova, Tantalova a Sisyfova",
+              "id": "muka-tityova-tantalova-anbspsisyfova",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "Héráklés",
+              "id": "héráklés",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "Návrat. Pohřeb Elpénorův[11]",
+              "id": "návrat-pohřeb-elpénorův11resourcesundefined",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV\nXII • Odysseia",
+      "file": "odysseia_021.html",
+      "words": 4093,
+      "chars": 22728,
+      "ideas": 467,
+      "role": "chapter",
+      "order": 20,
+      "prev": "odysseia_020.html",
+      "next": "odysseia_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV\nXII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Rady Kirčiny",
+              "id": "rady-kirčiny",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Seirény",
+              "id": "seirény",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Odrazné skály (Plankty)",
+              "id": "odrazné-skály-plankty",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Skyllé a Charybdis",
+              "id": "skyllé-anbspcharybdis",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Stáda Héliova na Thrínakii.",
+              "id": "stáda-héliova-nanbspthrínakii",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Odysseus zahnán k nymfě Kalypse",
+              "id": "odysseus-zahnán-knbspnymfě-kalypse",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV\nXIII • Odysseia",
+      "file": "odysseia_022.html",
+      "words": 1675,
+      "chars": 9347,
+      "ideas": 198,
+      "role": "chapter",
+      "order": 21,
+      "prev": "odysseia_021.html",
+      "next": "odysseia_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV\nXIII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Faiéci dovezli Odysséa do jeho vlasti na ostrov Ithaku",
+              "id": "faiéci-dovezli-odysséa-donbspjeho-vlasti-nanbspostrov-ithaku",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "POMSTA\nNAD ŽENICHY • Odysseia",
+      "file": "odysseia_023.html",
+      "words": 3,
+      "chars": 17,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 22,
+      "prev": "odysseia_022.html",
+      "next": "odysseia_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "POMSTA\nNAD ŽENICHY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odysseia",
+      "file": "odysseia_024.html",
+      "words": 2312,
+      "chars": 12737,
+      "ideas": 262,
+      "role": "chapter",
+      "order": 23,
+      "prev": "odysseia_023.html",
+      "next": "odysseia_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Odysseus doma",
+              "id": "odysseus-doma",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV XIV • Odysseia",
+      "file": "odysseia_025.html",
+      "words": 4967,
+      "chars": 26942,
+      "ideas": 568,
+      "role": "chapter",
+      "order": 24,
+      "prev": "odysseia_024.html",
+      "next": "odysseia_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV XIV",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Odysseus u pastýře Eumaia",
+              "id": "odysseus-unbsppastýře-eumaia",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV XV • Odysseia",
+      "file": "odysseia_026.html",
+      "words": 5095,
+      "chars": 27884,
+      "ideas": 578,
+      "role": "chapter",
+      "order": 25,
+      "prev": "odysseia_025.html",
+      "next": "odysseia_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV XV",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Návrat Télemachův",
+              "id": "návrat-télemachův",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Rozmluvy Odysséovy s Eumaiem",
+              "id": "rozmluvy-odysséovy-snbspeumaiem",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Télemachos u Eumaia. Setkání s otcem[12]",
+              "id": "télemachos-unbspeumaia-setkání-snbspotcem12resourcesundefined",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV XVI • Odysseia",
+      "file": "odysseia_027.html",
+      "words": 4381,
+      "chars": 24048,
+      "ideas": 500,
+      "role": "chapter",
+      "order": 26,
+      "prev": "odysseia_026.html",
+      "next": "odysseia_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV XVI",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Nové úklady ženichů",
+              "id": "nové-úklady-ženichů",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV XVII • Odysseia",
+      "file": "odysseia_028.html",
+      "words": 5531,
+      "chars": 30466,
+      "ideas": 619,
+      "role": "chapter",
+      "order": 27,
+      "prev": "odysseia_027.html",
+      "next": "odysseia_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV XVII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Odysseus ve svém domě.[13]Řádění ženichů",
+              "id": "odysseus-venbspsvém-domě13resourcesundefinedřádění-ženichů",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV\nXVIII • Odysseia",
+      "file": "odysseia_029.html",
+      "words": 3885,
+      "chars": 21403,
+      "ideas": 440,
+      "role": "chapter",
+      "order": 28,
+      "prev": "odysseia_028.html",
+      "next": "odysseia_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV\nXVIII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Žebrák Íros",
+              "id": "žebrák-íros",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV XIX • Odysseia",
+      "file": "odysseia_030.html",
+      "words": 5527,
+      "chars": 30265,
+      "ideas": 635,
+      "role": "chapter",
+      "order": 29,
+      "prev": "odysseia_029.html",
+      "next": "odysseia_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV XIX",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Rozmluva Odysséa-žebráka s Pénelopeiou.",
+              "id": "rozmluva-odysséa-žebráka-snbsppénelopeiou",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Odysseus poznán od služky Eurykleie",
+              "id": "odysseus-poznán-odnbspslužky-eurykleie",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV XX • Odysseia",
+      "file": "odysseia_031.html",
+      "words": 3498,
+      "chars": 19486,
+      "ideas": 404,
+      "role": "chapter",
+      "order": 30,
+      "prev": "odysseia_030.html",
+      "next": "odysseia_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV XX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV\nXXI • Odysseia",
+      "file": "odysseia_032.html",
+      "words": 3909,
+      "chars": 21704,
+      "ideas": 460,
+      "role": "chapter",
+      "order": 31,
+      "prev": "odysseia_031.html",
+      "next": "odysseia_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV\nXXI",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Zápas v lukostřelbě",
+              "id": "zápas-vnbsplukostřelbě",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Pobití ženichů",
+              "id": "pobití-ženichů",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV XXII • Odysseia",
+      "file": "odysseia_033.html",
+      "words": 4427,
+      "chars": 24913,
+      "ideas": 511,
+      "role": "chapter",
+      "order": 32,
+      "prev": "odysseia_032.html",
+      "next": "odysseia_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV XXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV\nXXIII • Odysseia",
+      "file": "odysseia_034.html",
+      "words": 3340,
+      "chars": 18510,
+      "ideas": 388,
+      "role": "chapter",
+      "order": 33,
+      "prev": "odysseia_033.html",
+      "next": "odysseia_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV\nXXIII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Odysseus a Pénelopeia se poznají",
+              "id": "odysseus-anbsppénelopeia-senbsppoznají",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV XXIV • Odysseia",
+      "file": "odysseia_035.html",
+      "words": 4908,
+      "chars": 27478,
+      "ideas": 569,
+      "role": "chapter",
+      "order": 34,
+      "prev": "odysseia_034.html",
+      "next": "odysseia_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV XXIV",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Duše padlých ženichů v podsvětí",
+              "id": "duše-padlých-ženichů-vnbsppodsvětí",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Setkání s otcem Láertem",
+              "id": "setkání-snbspotcem-láertem",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Boj s povstalými Ithačany a smír",
+              "id": "boj-snbsppovstalými-ithačany-anbspsmír",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Poznámky pod čarou • Odysseia",
+      "file": "odysseia_036.html",
+      "words": 519,
+      "chars": 3042,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 35,
+      "prev": "odysseia_035.html",
+      "next": "odysseia_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámky pod čarou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odysseia",
+      "file": "odysseia_037.html",
+      "words": 46,
+      "chars": 293,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 36,
+      "prev": "odysseia_036.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 116135,
+      "chars": 645815,
+      "ideas": 12723
+    },
+    "chapters": {
+      "words": 116130,
+      "chars": 645784,
+      "ideas": 12718
+    }
+  }
+}
