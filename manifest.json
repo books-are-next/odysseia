@@ -2,38 +2,18 @@
   "author": "Homéros",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "homeros-odysseia-0aaf20e",
+  "identifier": "homeros-odysseia-055b645",
   "languagecode": "cs",
   "modified": "2022-02-28T12:53:33.824Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Odysseia",
-  "revision": "0aaf20e",
+  "revision": "055b645",
   "generatedAt": {
-    "date": "Mon Feb 28 2022 13:35:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1646055340094
+    "date": "Mon Feb 28 2022 13:49:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1646056198353
   },
   "documents": [
-    {
-      "title": "Odysseia",
-      "file": "odysseia_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "odysseia_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Odysseia",
       "file": "odysseia_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "odysseia_001.html",
-      "next": "odysseia_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Odysseia",
-      "file": "odysseia_003.html",
-      "words": 5,
-      "chars": 37,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "odysseia_002.html",
-      "next": "odysseia_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Odysseia",
-      "file": "odysseia_004.html",
-      "words": 78,
-      "chars": 519,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "odysseia_003.html",
+      "order": 0,
+      "prev": null,
       "next": "odysseia_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 4,
-      "prev": "odysseia_004.html",
+      "order": 1,
+      "prev": "odysseia_002.html",
       "next": "odysseia_006.html",
       "toc": [
         {
@@ -121,7 +61,7 @@
       "chars": 84,
       "ideas": 3,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "odysseia_005.html",
       "next": "odysseia_007.html",
       "toc": [
@@ -141,7 +81,7 @@
       "chars": 35435,
       "ideas": 126,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "odysseia_006.html",
       "next": "odysseia_008.html",
       "toc": [
@@ -205,7 +145,7 @@
       "chars": 10,
       "ideas": 1,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "odysseia_007.html",
       "next": "odysseia_009.html",
       "toc": [
@@ -225,7 +165,7 @@
       "chars": 22237,
       "ideas": 456,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "odysseia_008.html",
       "next": "odysseia_010.html",
       "toc": [
@@ -253,7 +193,7 @@
       "chars": 21680,
       "ideas": 452,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "odysseia_009.html",
       "next": "odysseia_011.html",
       "toc": [
@@ -288,7 +228,7 @@
       "chars": 24757,
       "ideas": 508,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "odysseia_010.html",
       "next": "odysseia_012.html",
       "toc": [
@@ -316,7 +256,7 @@
       "chars": 42527,
       "ideas": 869,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "odysseia_011.html",
       "next": "odysseia_013.html",
       "toc": [
@@ -351,7 +291,7 @@
       "chars": 14,
       "ideas": 2,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "odysseia_012.html",
       "next": "odysseia_014.html",
       "toc": [
@@ -371,7 +311,7 @@
       "chars": 24488,
       "ideas": 499,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "odysseia_013.html",
       "next": "odysseia_015.html",
       "toc": [
@@ -399,7 +339,7 @@
       "chars": 16577,
       "ideas": 343,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "odysseia_014.html",
       "next": "odysseia_016.html",
       "toc": [
@@ -427,7 +367,7 @@
       "chars": 17316,
       "ideas": 354,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "odysseia_015.html",
       "next": "odysseia_017.html",
       "toc": [
@@ -455,7 +395,7 @@
       "chars": 29111,
       "ideas": 601,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "odysseia_016.html",
       "next": "odysseia_018.html",
       "toc": [
@@ -475,7 +415,7 @@
       "chars": 28640,
       "ideas": 586,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "odysseia_017.html",
       "next": "odysseia_019.html",
       "toc": [
@@ -524,7 +464,7 @@
       "chars": 28939,
       "ideas": 589,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "odysseia_018.html",
       "next": "odysseia_020.html",
       "toc": [
@@ -573,7 +513,7 @@
       "chars": 32150,
       "ideas": 663,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "odysseia_019.html",
       "next": "odysseia_021.html",
       "toc": [
@@ -685,7 +625,7 @@
       "chars": 22728,
       "ideas": 467,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "odysseia_020.html",
       "next": "odysseia_022.html",
       "toc": [
@@ -748,7 +688,7 @@
       "chars": 9347,
       "ideas": 198,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "odysseia_021.html",
       "next": "odysseia_023.html",
       "toc": [
@@ -776,7 +716,7 @@
       "chars": 17,
       "ideas": 2,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "odysseia_022.html",
       "next": "odysseia_024.html",
       "toc": [
@@ -796,7 +736,7 @@
       "chars": 12737,
       "ideas": 262,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "odysseia_023.html",
       "next": "odysseia_025.html",
       "toc": [
@@ -824,7 +764,7 @@
       "chars": 26942,
       "ideas": 568,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "odysseia_024.html",
       "next": "odysseia_026.html",
       "toc": [
@@ -852,7 +792,7 @@
       "chars": 27884,
       "ideas": 578,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "odysseia_025.html",
       "next": "odysseia_027.html",
       "toc": [
@@ -894,7 +834,7 @@
       "chars": 24048,
       "ideas": 500,
       "role": "chapter",
-      "order": 26,
+      "order": 23,
       "prev": "odysseia_026.html",
       "next": "odysseia_028.html",
       "toc": [
@@ -922,7 +862,7 @@
       "chars": 30466,
       "ideas": 619,
       "role": "chapter",
-      "order": 27,
+      "order": 24,
       "prev": "odysseia_027.html",
       "next": "odysseia_029.html",
       "toc": [
@@ -950,7 +890,7 @@
       "chars": 21403,
       "ideas": 440,
       "role": "chapter",
-      "order": 28,
+      "order": 25,
       "prev": "odysseia_028.html",
       "next": "odysseia_030.html",
       "toc": [
@@ -978,7 +918,7 @@
       "chars": 30265,
       "ideas": 635,
       "role": "chapter",
-      "order": 29,
+      "order": 26,
       "prev": "odysseia_029.html",
       "next": "odysseia_031.html",
       "toc": [
@@ -1013,7 +953,7 @@
       "chars": 19486,
       "ideas": 404,
       "role": "chapter",
-      "order": 30,
+      "order": 27,
       "prev": "odysseia_030.html",
       "next": "odysseia_032.html",
       "toc": [
@@ -1033,7 +973,7 @@
       "chars": 21704,
       "ideas": 460,
       "role": "chapter",
-      "order": 31,
+      "order": 28,
       "prev": "odysseia_031.html",
       "next": "odysseia_033.html",
       "toc": [
@@ -1068,7 +1008,7 @@
       "chars": 24913,
       "ideas": 511,
       "role": "chapter",
-      "order": 32,
+      "order": 29,
       "prev": "odysseia_032.html",
       "next": "odysseia_034.html",
       "toc": [
@@ -1088,7 +1028,7 @@
       "chars": 18510,
       "ideas": 388,
       "role": "chapter",
-      "order": 33,
+      "order": 30,
       "prev": "odysseia_033.html",
       "next": "odysseia_035.html",
       "toc": [
@@ -1116,7 +1056,7 @@
       "chars": 27478,
       "ideas": 569,
       "role": "chapter",
-      "order": 34,
+      "order": 31,
       "prev": "odysseia_034.html",
       "next": "odysseia_036.html",
       "toc": [
@@ -1158,9 +1098,9 @@
       "chars": 3042,
       "ideas": 42,
       "role": "chapter",
-      "order": 35,
+      "order": 32,
       "prev": "odysseia_035.html",
-      "next": "odysseia_037.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -1172,20 +1112,20 @@
       ]
     },
     {
-      "title": "Odysseia",
-      "file": "odysseia_037.html",
-      "words": 46,
-      "chars": 293,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 36,
+      "title": "Tiráž • Odysseia",
+      "file": "colophon.html",
+      "words": 130,
+      "chars": 854,
+      "ideas": 24,
+      "role": "colophon",
+      "order": null,
       "prev": "odysseia_036.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -1199,9 +1139,9 @@
       "ideas": 12723
     },
     "chapters": {
-      "words": 116130,
-      "chars": 645784,
-      "ideas": 12718
+      "words": 116001,
+      "chars": 644935,
+      "ideas": 12695
     }
   }
 }

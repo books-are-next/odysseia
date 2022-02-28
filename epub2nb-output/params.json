@@ -34,14 +34,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "odysseia_001.md",
             "xhtml": "odysseia_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -51,9 +52,9 @@
             "filename": "odysseia_002.md",
             "xhtml": "odysseia_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -63,9 +64,9 @@
             "filename": "odysseia_003.md",
             "xhtml": "odysseia_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -75,9 +76,9 @@
             "filename": "odysseia_004.md",
             "xhtml": "odysseia_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -92,8 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Drahému rodišti svému,..."
           },
           {
             "filename": "odysseia_006.md",
@@ -104,8 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Ó KRÁSNÉ ŘECKO,..."
           },
           {
             "filename": "odysseia_007.md",
@@ -117,7 +120,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ÚVOD\nK PRVNÍMU VYDÁNÍ"
           },
           {
             "filename": "odysseia_008.md",
@@ -129,7 +133,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "TÉLEMACHOS"
           },
           {
             "filename": "odysseia_009.md",
@@ -141,7 +146,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV I"
           },
           {
             "filename": "odysseia_010.md",
@@ -153,7 +159,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV II"
           },
           {
             "filename": "odysseia_011.md",
@@ -165,7 +172,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV III"
           },
           {
             "filename": "odysseia_012.md",
@@ -177,7 +185,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV\nIV"
           },
           {
             "filename": "odysseia_013.md",
@@ -189,7 +198,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "NÁVRAT\nODYSSÉŮV"
           },
           {
             "filename": "odysseia_014.md",
@@ -201,7 +211,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV V"
           },
           {
             "filename": "odysseia_015.md",
@@ -213,7 +224,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV VI"
           },
           {
             "filename": "odysseia_016.md",
@@ -225,7 +237,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV VII"
           },
           {
             "filename": "odysseia_017.md",
@@ -237,7 +250,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV VIII"
           },
           {
             "filename": "odysseia_018.md",
@@ -249,7 +263,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV\nIX"
           },
           {
             "filename": "odysseia_019.md",
@@ -261,7 +276,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV X"
           },
           {
             "filename": "odysseia_020.md",
@@ -273,7 +289,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV XI"
           },
           {
             "filename": "odysseia_021.md",
@@ -285,7 +302,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV\nXII"
           },
           {
             "filename": "odysseia_022.md",
@@ -297,7 +315,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV\nXIII"
           },
           {
             "filename": "odysseia_023.md",
@@ -309,7 +328,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "POMSTA\nNAD ŽENICHY"
           },
           {
             "filename": "odysseia_024.md",
@@ -320,8 +340,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Odysseus doma"
           },
           {
             "filename": "odysseia_025.md",
@@ -333,7 +354,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV XIV"
           },
           {
             "filename": "odysseia_026.md",
@@ -345,7 +367,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV XV"
           },
           {
             "filename": "odysseia_027.md",
@@ -357,7 +380,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV XVI"
           },
           {
             "filename": "odysseia_028.md",
@@ -369,7 +393,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV XVII"
           },
           {
             "filename": "odysseia_029.md",
@@ -381,7 +406,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV\nXVIII"
           },
           {
             "filename": "odysseia_030.md",
@@ -393,7 +419,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV XIX"
           },
           {
             "filename": "odysseia_031.md",
@@ -405,7 +432,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV XX"
           },
           {
             "filename": "odysseia_032.md",
@@ -417,7 +445,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV\nXXI"
           },
           {
             "filename": "odysseia_033.md",
@@ -429,7 +458,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV XXII"
           },
           {
             "filename": "odysseia_034.md",
@@ -441,7 +471,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV\nXXIII"
           },
           {
             "filename": "odysseia_035.md",
@@ -453,7 +484,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV XXIV"
           },
           {
             "filename": "odysseia_036.md",
@@ -465,15 +497,16 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "odysseia_037.md",
             "xhtml": "odysseia_037.html",
             "id": 36,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -490,7 +523,7 @@
       "identifier": "2a298523-c317-4aa7-a9a6-0fdd427744ae",
       "author": "Homéros",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-28T13:34:43.140Z"
+      "modified": "2022-02-28T13:49:01.052Z"
     },
     "chapters": [
       {
@@ -814,6 +847,6 @@
       "user": "books-are-next",
       "repo": "odysseia"
     },
-    "generatedAt": 1646055284326
+    "generatedAt": 1646056142236
   }
 }
