@@ -1,1 +1,334 @@
-{}
+{
+  "epub": {
+    "metadata": {
+      "title": "Odysseia",
+      "identifier": "2a298523-c317-4aa7-a9a6-0fdd427744ae",
+      "author": "Homéros",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-02-28T12:53:33.824Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_001.md",
+        "xhtml": "odysseia_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_002.md",
+        "xhtml": "odysseia_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_003.md",
+        "xhtml": "odysseia_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_004.md",
+        "xhtml": "odysseia_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_005.md",
+        "xhtml": "odysseia_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_006.md",
+        "xhtml": "odysseia_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_007.md",
+        "xhtml": "odysseia_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_008.md",
+        "xhtml": "odysseia_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_009.md",
+        "xhtml": "odysseia_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_010.md",
+        "xhtml": "odysseia_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_011.md",
+        "xhtml": "odysseia_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_012.md",
+        "xhtml": "odysseia_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_013.md",
+        "xhtml": "odysseia_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_014.md",
+        "xhtml": "odysseia_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_015.md",
+        "xhtml": "odysseia_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_016.md",
+        "xhtml": "odysseia_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_017.md",
+        "xhtml": "odysseia_017.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_018.md",
+        "xhtml": "odysseia_018.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_019.md",
+        "xhtml": "odysseia_019.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_020.md",
+        "xhtml": "odysseia_020.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_021.md",
+        "xhtml": "odysseia_021.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_022.md",
+        "xhtml": "odysseia_022.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_023.md",
+        "xhtml": "odysseia_023.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_024.md",
+        "xhtml": "odysseia_024.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_025.md",
+        "xhtml": "odysseia_025.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_026.md",
+        "xhtml": "odysseia_026.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_027.md",
+        "xhtml": "odysseia_027.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_028.md",
+        "xhtml": "odysseia_028.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_029.md",
+        "xhtml": "odysseia_029.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_030.md",
+        "xhtml": "odysseia_030.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_031.md",
+        "xhtml": "odysseia_031.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_032.md",
+        "xhtml": "odysseia_032.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_033.md",
+        "xhtml": "odysseia_033.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_034.md",
+        "xhtml": "odysseia_034.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_035.md",
+        "xhtml": "odysseia_035.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_036.md",
+        "xhtml": "odysseia_036.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseia_037.md",
+        "xhtml": "odysseia_037.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image003.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "calibre12",
+      "calibre13",
+      "calibre14",
+      "calibre15",
+      "calibre16",
+      "calibre17",
+      "calibre18",
+      "calibre19",
+      "calibre20",
+      "calibre22",
+      "calibre4",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "mlpcitat",
+      "mlpcitatautor",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlptext",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptextbez1radkui",
+      "mlptextbez1radkui1",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlptitulkaprekladatel",
+      "mlpuroven1cast",
+      "mlpuroven1zvlastnipripady",
+      "mlpuroven2odyssea",
+      "mlpuroven3nadpis",
+      "mlpuroven3odysseia",
+      "mlpuroven4nadpis",
+      "mlpvenovanicxspfirst",
+      "mlpversehomer",
+      "mlpversei",
+      "mlpznakkurziva11b",
+      "mlpznaktucne",
+      "msofootnotereference",
+      "msofootnotetext",
+      "msofootnotetext1",
+      "msonormal",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection10",
+      "wordsection11",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8",
+      "wordsection9"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "odysseia"
+    },
+    "generatedAt": 1646052814657
+  }
+}
