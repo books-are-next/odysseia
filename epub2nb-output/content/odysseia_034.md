@@ -1,7 +1,5 @@
 ---
-title: |-
-  ZPĚV
-  XXIII
+title: ZPĚV XXIII
 contentType: prose
 ---
 

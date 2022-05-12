@@ -1,22 +1,59 @@
 {
-  "author": "Homéros",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "homeros-odysseia-055b645",
-  "languagecode": "cs",
-  "modified": "2022-02-28T12:53:33.824Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Odysseia",
-  "revision": "055b645",
+  "author": "Homéros",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "homeros-odysseia-6919d1d",
+  "revision": "6919d1d",
+  "readingOrder": [
+    "promo.html",
+    "odysseia_005.html",
+    "odysseia_006.html",
+    "odysseia_007.html",
+    "odysseia_008.html",
+    "odysseia_009.html",
+    "odysseia_010.html",
+    "odysseia_011.html",
+    "odysseia_012.html",
+    "odysseia_013.html",
+    "odysseia_014.html",
+    "odysseia_015.html",
+    "odysseia_016.html",
+    "odysseia_017.html",
+    "odysseia_018.html",
+    "odysseia_019.html",
+    "odysseia_020.html",
+    "odysseia_021.html",
+    "odysseia_022.html",
+    "odysseia_023.html",
+    "odysseia_024.html",
+    "odysseia_025.html",
+    "odysseia_026.html",
+    "odysseia_027.html",
+    "odysseia_028.html",
+    "odysseia_029.html",
+    "odysseia_030.html",
+    "odysseia_031.html",
+    "odysseia_032.html",
+    "odysseia_033.html",
+    "odysseia_034.html",
+    "odysseia_035.html",
+    "odysseia_036.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Feb 28 2022 13:49:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1646056198353
+    "date": "Thu May 12 2022 10:39:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351959979
   },
   "documents": [
     {
-      "title": "Odysseia",
-      "file": "odysseia_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +61,7 @@
       "order": 0,
       "prev": null,
       "next": "odysseia_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Odysseia",
@@ -42,7 +71,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "odysseia_002.html",
+      "prev": "promo.html",
       "next": "odysseia_006.html",
       "toc": [
         {
@@ -75,11 +104,11 @@
       ]
     },
     {
-      "title": "ÚVOD\nK PRVNÍMU VYDÁNÍ • Odysseia",
+      "title": "ÚVOD K PRVNÍMU VYDÁNÍ",
       "file": "odysseia_007.html",
       "words": 5663,
-      "chars": 35435,
-      "ideas": 126,
+      "chars": 35436,
+      "ideas": 125,
       "role": "chapter",
       "order": 3,
       "prev": "odysseia_006.html",
@@ -88,7 +117,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ÚVOD\nK PRVNÍMU VYDÁNÍ",
+          "name": "ÚVOD K PRVNÍMU VYDÁNÍ",
           "id": null,
           "children": [
             {
@@ -139,7 +168,7 @@
       ]
     },
     {
-      "title": "TÉLEMACHOS • Odysseia",
+      "title": "TÉLEMACHOS",
       "file": "odysseia_008.html",
       "words": 1,
       "chars": 10,
@@ -159,7 +188,7 @@
       ]
     },
     {
-      "title": "ZPĚV I • Odysseia",
+      "title": "ZPĚV I",
       "file": "odysseia_009.html",
       "words": 4081,
       "chars": 22237,
@@ -187,7 +216,7 @@
       ]
     },
     {
-      "title": "ZPĚV II • Odysseia",
+      "title": "ZPĚV II",
       "file": "odysseia_010.html",
       "words": 3946,
       "chars": 21680,
@@ -222,7 +251,7 @@
       ]
     },
     {
-      "title": "ZPĚV III • Odysseia",
+      "title": "ZPĚV III",
       "file": "odysseia_011.html",
       "words": 4429,
       "chars": 24757,
@@ -250,11 +279,11 @@
       ]
     },
     {
-      "title": "ZPĚV\nIV • Odysseia",
+      "title": "ZPĚV IV",
       "file": "odysseia_012.html",
       "words": 7725,
-      "chars": 42527,
-      "ideas": 869,
+      "chars": 42528,
+      "ideas": 868,
       "role": "chapter",
       "order": 8,
       "prev": "odysseia_011.html",
@@ -263,7 +292,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nIV",
+          "name": "ZPĚV IV",
           "id": null,
           "children": [
             {
@@ -285,11 +314,11 @@
       ]
     },
     {
-      "title": "NÁVRAT\nODYSSÉŮV • Odysseia",
+      "title": "NÁVRAT ODYSSÉŮV",
       "file": "odysseia_013.html",
       "words": 2,
-      "chars": 14,
-      "ideas": 2,
+      "chars": 15,
+      "ideas": 1,
       "role": "chapter",
       "order": 9,
       "prev": "odysseia_012.html",
@@ -298,14 +327,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "NÁVRAT\nODYSSÉŮV",
+          "name": "NÁVRAT ODYSSÉŮV",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ZPĚV V • Odysseia",
+      "title": "ZPĚV V",
       "file": "odysseia_014.html",
       "words": 4465,
       "chars": 24488,
@@ -333,7 +362,7 @@
       ]
     },
     {
-      "title": "ZPĚV VI • Odysseia",
+      "title": "ZPĚV VI",
       "file": "odysseia_015.html",
       "words": 3022,
       "chars": 16577,
@@ -361,7 +390,7 @@
       ]
     },
     {
-      "title": "ZPĚV VII • Odysseia",
+      "title": "ZPĚV VII",
       "file": "odysseia_016.html",
       "words": 3081,
       "chars": 17316,
@@ -389,7 +418,7 @@
       ]
     },
     {
-      "title": "ZPĚV VIII • Odysseia",
+      "title": "ZPĚV VIII",
       "file": "odysseia_017.html",
       "words": 5217,
       "chars": 29111,
@@ -409,11 +438,11 @@
       ]
     },
     {
-      "title": "ZPĚV\nIX • Odysseia",
+      "title": "ZPĚV IX",
       "file": "odysseia_018.html",
       "words": 5218,
-      "chars": 28640,
-      "ideas": 586,
+      "chars": 28641,
+      "ideas": 585,
       "role": "chapter",
       "order": 14,
       "prev": "odysseia_017.html",
@@ -422,7 +451,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nIX",
+          "name": "ZPĚV IX",
           "id": null,
           "children": [
             {
@@ -458,7 +487,7 @@
       ]
     },
     {
-      "title": "ZPĚV X • Odysseia",
+      "title": "ZPĚV X",
       "file": "odysseia_019.html",
       "words": 5291,
       "chars": 28939,
@@ -507,7 +536,7 @@
       ]
     },
     {
-      "title": "ZPĚV XI • Odysseia",
+      "title": "ZPĚV XI",
       "file": "odysseia_020.html",
       "words": 5774,
       "chars": 32150,
@@ -619,11 +648,11 @@
       ]
     },
     {
-      "title": "ZPĚV\nXII • Odysseia",
+      "title": "ZPĚV XII",
       "file": "odysseia_021.html",
       "words": 4093,
-      "chars": 22728,
-      "ideas": 467,
+      "chars": 22729,
+      "ideas": 466,
       "role": "chapter",
       "order": 17,
       "prev": "odysseia_020.html",
@@ -632,7 +661,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nXII",
+          "name": "ZPĚV XII",
           "id": null,
           "children": [
             {
@@ -682,11 +711,11 @@
       ]
     },
     {
-      "title": "ZPĚV\nXIII • Odysseia",
+      "title": "ZPĚV XIII",
       "file": "odysseia_022.html",
       "words": 1675,
-      "chars": 9347,
-      "ideas": 198,
+      "chars": 9348,
+      "ideas": 197,
       "role": "chapter",
       "order": 18,
       "prev": "odysseia_021.html",
@@ -695,7 +724,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nXIII",
+          "name": "ZPĚV XIII",
           "id": null,
           "children": [
             {
@@ -710,11 +739,11 @@
       ]
     },
     {
-      "title": "POMSTA\nNAD ŽENICHY • Odysseia",
+      "title": "POMSTA NAD ŽENICHY",
       "file": "odysseia_023.html",
       "words": 3,
-      "chars": 17,
-      "ideas": 2,
+      "chars": 18,
+      "ideas": 1,
       "role": "chapter",
       "order": 19,
       "prev": "odysseia_022.html",
@@ -723,7 +752,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "POMSTA\nNAD ŽENICHY",
+          "name": "POMSTA NAD ŽENICHY",
           "id": null,
           "children": []
         }
@@ -758,7 +787,7 @@
       ]
     },
     {
-      "title": "ZPĚV XIV • Odysseia",
+      "title": "ZPĚV XIV",
       "file": "odysseia_025.html",
       "words": 4967,
       "chars": 26942,
@@ -786,7 +815,7 @@
       ]
     },
     {
-      "title": "ZPĚV XV • Odysseia",
+      "title": "ZPĚV XV",
       "file": "odysseia_026.html",
       "words": 5095,
       "chars": 27884,
@@ -828,7 +857,7 @@
       ]
     },
     {
-      "title": "ZPĚV XVI • Odysseia",
+      "title": "ZPĚV XVI",
       "file": "odysseia_027.html",
       "words": 4381,
       "chars": 24048,
@@ -856,7 +885,7 @@
       ]
     },
     {
-      "title": "ZPĚV XVII • Odysseia",
+      "title": "ZPĚV XVII",
       "file": "odysseia_028.html",
       "words": 5531,
       "chars": 30466,
@@ -884,11 +913,11 @@
       ]
     },
     {
-      "title": "ZPĚV\nXVIII • Odysseia",
+      "title": "ZPĚV XVIII",
       "file": "odysseia_029.html",
       "words": 3885,
-      "chars": 21403,
-      "ideas": 440,
+      "chars": 21404,
+      "ideas": 439,
       "role": "chapter",
       "order": 25,
       "prev": "odysseia_028.html",
@@ -897,7 +926,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nXVIII",
+          "name": "ZPĚV XVIII",
           "id": null,
           "children": [
             {
@@ -912,7 +941,7 @@
       ]
     },
     {
-      "title": "ZPĚV XIX • Odysseia",
+      "title": "ZPĚV XIX",
       "file": "odysseia_030.html",
       "words": 5527,
       "chars": 30265,
@@ -947,7 +976,7 @@
       ]
     },
     {
-      "title": "ZPĚV XX • Odysseia",
+      "title": "ZPĚV XX",
       "file": "odysseia_031.html",
       "words": 3498,
       "chars": 19486,
@@ -967,11 +996,11 @@
       ]
     },
     {
-      "title": "ZPĚV\nXXI • Odysseia",
+      "title": "ZPĚV XXI",
       "file": "odysseia_032.html",
       "words": 3909,
-      "chars": 21704,
-      "ideas": 460,
+      "chars": 21705,
+      "ideas": 459,
       "role": "chapter",
       "order": 28,
       "prev": "odysseia_031.html",
@@ -980,7 +1009,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nXXI",
+          "name": "ZPĚV XXI",
           "id": null,
           "children": [
             {
@@ -1002,7 +1031,7 @@
       ]
     },
     {
-      "title": "ZPĚV XXII • Odysseia",
+      "title": "ZPĚV XXII",
       "file": "odysseia_033.html",
       "words": 4427,
       "chars": 24913,
@@ -1022,11 +1051,11 @@
       ]
     },
     {
-      "title": "ZPĚV\nXXIII • Odysseia",
+      "title": "ZPĚV XXIII",
       "file": "odysseia_034.html",
       "words": 3340,
-      "chars": 18510,
-      "ideas": 388,
+      "chars": 18511,
+      "ideas": 387,
       "role": "chapter",
       "order": 30,
       "prev": "odysseia_033.html",
@@ -1035,7 +1064,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nXXIII",
+          "name": "ZPĚV XXIII",
           "id": null,
           "children": [
             {
@@ -1050,7 +1079,7 @@
       ]
     },
     {
-      "title": "ZPĚV XXIV • Odysseia",
+      "title": "ZPĚV XXIV",
       "file": "odysseia_035.html",
       "words": 4908,
       "chars": 27478,
@@ -1092,7 +1121,7 @@
       ]
     },
     {
-      "title": "Poznámky pod čarou • Odysseia",
+      "title": "Poznámky pod čarou",
       "file": "odysseia_036.html",
       "words": 519,
       "chars": 3042,
@@ -1112,11 +1141,11 @@
       ]
     },
     {
-      "title": "Tiráž • Odysseia",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 130,
-      "chars": 854,
-      "ideas": 24,
+      "words": 104,
+      "chars": 689,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "odysseia_036.html",
@@ -1134,14 +1163,14 @@
   ],
   "totals": {
     "all": {
-      "words": 116135,
-      "chars": 645815,
-      "ideas": 12723
+      "words": 116109,
+      "chars": 645660,
+      "ideas": 12704
     },
     "chapters": {
       "words": 116001,
-      "chars": 644935,
-      "ideas": 12695
+      "chars": 644945,
+      "ideas": 12685
     }
   }
 }

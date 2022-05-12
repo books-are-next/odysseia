@@ -1,7 +1,5 @@
 ---
-title: |-
-  POMSTA
-  NAD ŽENICHY
+title: POMSTA NAD ŽENICHY
 contentType: prose
 ---
 

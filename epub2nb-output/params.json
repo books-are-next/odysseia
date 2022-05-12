@@ -52,7 +52,7 @@
             "filename": "odysseia_002.md",
             "xhtml": "odysseia_002.html",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -514,8 +514,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -523,7 +522,7 @@
       "identifier": "2a298523-c317-4aa7-a9a6-0fdd427744ae",
       "author": "Homéros",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-28T13:49:01.052Z"
+      "modified": "2018-11-22T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -563,7 +562,7 @@
         "xhtml": "odysseia_006.html"
       },
       {
-        "titleSuggest": "ÚVOD\nK PRVNÍMU VYDÁNÍ",
+        "titleSuggest": "ÚVOD K PRVNÍMU VYDÁNÍ",
         "subtitleSuggest": "",
         "filename": "odysseia_007.md",
         "xhtml": "odysseia_007.html"
@@ -593,13 +592,13 @@
         "xhtml": "odysseia_011.html"
       },
       {
-        "titleSuggest": "ZPĚV\nIV",
+        "titleSuggest": "ZPĚV IV",
         "subtitleSuggest": "",
         "filename": "odysseia_012.md",
         "xhtml": "odysseia_012.html"
       },
       {
-        "titleSuggest": "NÁVRAT\nODYSSÉŮV",
+        "titleSuggest": "NÁVRAT ODYSSÉŮV",
         "subtitleSuggest": "",
         "filename": "odysseia_013.md",
         "xhtml": "odysseia_013.html"
@@ -629,7 +628,7 @@
         "xhtml": "odysseia_017.html"
       },
       {
-        "titleSuggest": "ZPĚV\nIX",
+        "titleSuggest": "ZPĚV IX",
         "subtitleSuggest": "",
         "filename": "odysseia_018.md",
         "xhtml": "odysseia_018.html"
@@ -647,19 +646,19 @@
         "xhtml": "odysseia_020.html"
       },
       {
-        "titleSuggest": "ZPĚV\nXII",
+        "titleSuggest": "ZPĚV XII",
         "subtitleSuggest": "",
         "filename": "odysseia_021.md",
         "xhtml": "odysseia_021.html"
       },
       {
-        "titleSuggest": "ZPĚV\nXIII",
+        "titleSuggest": "ZPĚV XIII",
         "subtitleSuggest": "",
         "filename": "odysseia_022.md",
         "xhtml": "odysseia_022.html"
       },
       {
-        "titleSuggest": "POMSTA\nNAD ŽENICHY",
+        "titleSuggest": "POMSTA NAD ŽENICHY",
         "subtitleSuggest": "",
         "filename": "odysseia_023.md",
         "xhtml": "odysseia_023.html"
@@ -695,7 +694,7 @@
         "xhtml": "odysseia_028.html"
       },
       {
-        "titleSuggest": "ZPĚV\nXVIII",
+        "titleSuggest": "ZPĚV XVIII",
         "subtitleSuggest": "",
         "filename": "odysseia_029.md",
         "xhtml": "odysseia_029.html"
@@ -713,7 +712,7 @@
         "xhtml": "odysseia_031.html"
       },
       {
-        "titleSuggest": "ZPĚV\nXXI",
+        "titleSuggest": "ZPĚV XXI",
         "subtitleSuggest": "",
         "filename": "odysseia_032.md",
         "xhtml": "odysseia_032.html"
@@ -725,7 +724,7 @@
         "xhtml": "odysseia_033.html"
       },
       {
-        "titleSuggest": "ZPĚV\nXXIII",
+        "titleSuggest": "ZPĚV XXIII",
         "subtitleSuggest": "",
         "filename": "odysseia_034.md",
         "xhtml": "odysseia_034.html"
@@ -847,6 +846,6 @@
       "user": "books-are-next",
       "repo": "odysseia"
     },
-    "generatedAt": 1646056142236
+    "generatedAt": 1652351448519
   }
 }
