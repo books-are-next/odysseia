@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - odysseia_002.html
+  - promo.html
   - odysseia_005.html
   - odysseia_006.html
   - odysseia_007.html

@@ -1,7 +1,5 @@
 ---
-title: |-
-  NÁVRAT
-  ODYSSÉŮV
+title: NÁVRAT ODYSSÉŮV
 contentType: prose
 ---
 

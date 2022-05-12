@@ -1,7 +1,5 @@
 ---
-title: |-
-  ÚVOD
-  K PRVNÍMU VYDÁNÍ
+title: ÚVOD K PRVNÍMU VYDÁNÍ
 contentType: prose
 ---
 
