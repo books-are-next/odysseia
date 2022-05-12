@@ -17,7 +17,7 @@ jobs:
 
       - uses: actions/setup-node@v2
         with:
-          node-version: "14"
+          node-version: "16"
 
       - name: Check if there is an EPUB waiting for conversion
         id: epub-exists
@@ -66,7 +66,7 @@ jobs:
 
       - name: Push converted content 🚀
         if: ${{ steps.should-extract.outputs.extract == 'true' }}
-        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: main
           folder: epub/content
@@ -183,7 +183,7 @@ jobs:
           [ ! -d previous/epub2nb-output ] || mv previous/epub2nb-output _book/epub2nb-output
 
       - name: Deploy the book 🚀
-        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: docs
           folder: _book
