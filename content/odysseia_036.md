@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Laichterova sbírka krásného písemnictví XI. _Povídky_ Bjørnstjerna Bjørnsona. Řada II. Str. 171.
 
 [\[2\]](./resources/undefined) A. Roemer v _Homerische Aufsatze_ 1913 dovozuje, že Odysseia má ráz demokratický a dělnický a že byla určena drobnému lidu, nikoli šlechtě.
@@ -74,3 +76,5 @@ Z těchto míst je vidět, že básník měl na mysli též ideu státní.
 [\[12\]](./resources/undefined) Zpěv XV, XVI.
 
 [\[13\]](./resources/undefined) Zpěv XVII–XXIII.
+
+</section>

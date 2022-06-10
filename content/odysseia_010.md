@@ -3,6 +3,8 @@ title: ZPĚV II
 contentType: prose
 ---
 
+<section>
+
 ## Sněm na Ithace
 
 Zora když, s jitrem se rodíc, se zjevila růžovoprstá,  
@@ -487,3 +489,5 @@ ze kterých oběť lili všem bohům žijícím věčně,
 Palladě jiskrných zraků však nejvíce, Diově dceři.
 
      Po celou noc pak koráb, i za jitra, dráhu si razil.
+
+</section>

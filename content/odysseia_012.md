@@ -3,6 +3,8 @@ title: ZPĚV IV
 contentType: prose
 ---
 
+<section>
+
 ## U Meneláa, krále spartského
 
 Přijeli do země spartské, jež plna je roklin a nízká.  
@@ -923,3 +925,5 @@ mezi skalnatým Samem a Ithakou, uprostřed obou,
 Asteris, nevelký sic, však po obou ostrova stranách  
 ochranné zátoky jsou.  
                                            Tam Danajci číhali na něj.
+
+</section>

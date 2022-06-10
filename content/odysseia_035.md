@@ -3,6 +3,8 @@ title: ZPĚV XXIV
 contentType: prose
 ---
 
+<section>
+
 ## Duše padlých ženichů v podsvětí
 
 Hermés, kyllénský bůh, již volal z paláce duše  
@@ -612,3 +614,5 @@ aby se Kronovec Zeus pak nehněval, vidoucí v dálku!“
      Avšak nedlouho potom jim oběma sjednala smlouvu  
 bohyně, Athénská Pallas, jež bouřného Dia je dcera,  
 Mentoru podobna jsouc jak postavou těla, tak hlasem.
+
+</section>

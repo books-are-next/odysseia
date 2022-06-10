@@ -3,6 +3,8 @@ title: ÚVOD K PRVNÍMU VYDÁNÍ
 contentType: prose
 ---
 
+<section>
+
 ## 1\. Homéros
 
 Ještě byla Evropa, nynější sídlo kultury, většinou porostlá hustými lesy, plnými divoké zvěře, ještě obyvatelstvo její žilo kočovnicky, jsouc na velmi nízkém stupni vzdělanosti, když už u Řeků, hlavně maloasijských, byla pěstována ušlechtilá dcera Mús, vznešená poesie. Blahobyt a vysoká kultura obyvatelstva vedly k vyšší, ušlechtilé zábavě. Na dvorech knížat zpívali pěvci o hrdinských činech reků, a zpěvy jejich byly poslouchány s napjatou pozorností a divné kouzlo jímalo posluchače.
@@ -247,3 +249,5 @@ Krátká tato úvaha je důkazem, že Odysseia je pevný, zaokrouhlený, soustř
 Jak malicherné proti těmto vývodům jsou snahy oněch kritiků, kteří z neporozumění nadělali v básních Homérových pravé spousty. Místo aby je hleděli vyložit tak, jak jsou, pochopit celkový smysl a stavbu plánu a vysvětlit některé nedostatky z povahy básníkovy tvorby, trhali báseň na části, z nichž některé vylučovali, jiné přestavovali atd. Nehleděli básně vyložit z nich samých, nýbrž posuzovali je podle požadavků odjinud přinesených, hlavně podle pravidel logiky a vyspělé tvorby moderní. Udělali si již napřed představu, jak by báseň měla vypadat, a když tam nenalezli, co tam sami vložili, zavrhovali básně, vytýkali chyby a přičítali je vybájeným pořadatelům a zpracovatelům. Zapomněliť, že řecká poesie epická vyrostla sama ze sebe, bez jakýchkoli vzorů, a že tedy se tam leccos jeví, co se neshoduje s požadavky přísné kritiky. Nebylať básnická technika ještě dokonale vyspělá. A přece jak snadno lze si některé nedostatky vyložit!
 
 Posudky kritiků bývají subjektivní. Části, které jsou od jedněch naprosto zavrhovány, jiní vychvalují, přičítajíce jim všecky možné krásy a dokonalosti. Kritických spisů o Homérovi je veliké množství, ale cena jejich je celkem malá. Studium jich bývá trapné i samým klasickým filologům – neodborníkům by zkazily veškeren požitek z četby. Škoda času! Komu jde jen o požitek z četby, nekaz si ho četbou kritiků! Ponech je odborným badatelům! Čti báseň jako báseň, a oddej se jejímu kouzlu, a snad ani neshledáš nedostatků tak často vytýkaných!
+
+</section>

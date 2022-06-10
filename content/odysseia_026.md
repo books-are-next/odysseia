@@ -3,6 +3,8 @@ title: ZPĚV XV
 contentType: prose
 ---
 
+<section>
+
 ## Návrat Télemachův
 
 Bohyně Athénská Pallas se vydala v prostornou Spartu  
@@ -621,3 +623,5 @@ milený Télemachos, jejž božský Odysseus zplodil.
      Nohy, jak kráčel rychle, jej nesly až do jeho dvorce,  
 ve kterém množství vepřů měl nesmírné. Bydlil tam u nich  
 pastýř, vzácný to muž, jenž láskou pánům byl oddán.
+
+</section>

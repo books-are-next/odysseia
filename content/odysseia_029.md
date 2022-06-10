@@ -3,6 +3,8 @@ title: ZPĚV XVIII
 contentType: prose
 ---
 
+<section>
+
 ## Žebrák Íros
 
 Přišel tam potulný žebrák, jenž po městě ithackém denně  
@@ -458,3 +460,5 @@ potom je, přistoupiv k nim, hned roznesl. Oni pak v oběť
 ulili blaženým bohům a sladké vypili víno.  
      Ale když ulili bohům a pili dle libosti srdce,  
 všichni pak odešli k spánku a každý k domovu spěchal.
+
+</section>

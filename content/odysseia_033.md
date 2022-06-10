@@ -3,6 +3,8 @@ title: ZPĚV XXII
 contentType: prose
 ---
 
+<section>
+
 Důvtipný Láertův syn však shodiv se sebe hadry,  
 skočil k velkému prahu a luk měl v rukou a toulec,  
 který plný byl střel, pak rychlé vysypal šípy  
@@ -546,3 +548,5 @@ ihned ruce mu tiskly a líbaly hlavu a plece,
 vlídně ho pozdravujíce.  
                                               Tu sladká ho jímala touha,  
 že až vzlykal a slzel a všecky je poznával v mysli.
+
+</section>

@@ -3,6 +3,8 @@ title: ZPĚV XX
 contentType: prose
 ---
 
+<section>
+
 Odysseus, slavný rek, však lehl si v předsíni domu,  
 syrovou hovězí kůži si podestlav, na kterou ještě  
 množství roun dal z ovcí, jež Achajci napořád kláli,  
@@ -429,3 +431,5 @@ lahodný, velice hojný, a množství zabili zvířat,
 večeře žádná jiná jim nemohla nastati trpčí,  
 jakou za krátký čas jim Pallas a hrdina silný  
 připravit měl, vždyť mrzké dřív tam páchali skutky.
+
+</section>

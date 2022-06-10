@@ -3,6 +3,8 @@ title: ZPĚV VII
 contentType: prose
 ---
 
+<section>
+
 ## _Odysseus hostem krále Alkinoa_[\[7\]](./resources/undefined)
 
 Prosil tak Odysseus slavný, jenž tolik zápasů přestál,  
@@ -378,3 +380,5 @@ přistouply k hostovi blíže a touto jej pobídly řečí:
 na lůžku zdobeném řezbou, jež v ozvučném podloubí stálo.  
 Avšak Faiéků král spal v pozadí vysoké síně,  
 v které mu královská choť již chystala postel a lůžko.
+
+</section>
