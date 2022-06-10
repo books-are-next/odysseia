@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "homeros-odysseia-af73ad6",
-  "revision": "af73ad6",
+  "identifier": "homeros-odysseia-8813979",
+  "revision": "8813979",
   "readingOrder": [
     "promo.html",
     "odysseia_005.html",
@@ -47,8 +47,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:18:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870713496
+    "date": "Fri Jun 10 2022 17:53:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883595044
   },
   "documents": [
     {
@@ -66,9 +66,9 @@
     {
       "title": "Odysseia",
       "file": "odysseia_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 20,
+      "chars": 113,
+      "ideas": 6,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -1143,9 +1143,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 99,
-      "chars": 657,
-      "ideas": 14,
+      "words": 42,
+      "chars": 315,
+      "ideas": 5,
       "role": "colophon",
       "order": null,
       "prev": "odysseia_036.html",
@@ -1163,14 +1163,14 @@
   ],
   "totals": {
     "all": {
-      "words": 116104,
-      "chars": 645628,
-      "ideas": 12703
+      "words": 116067,
+      "chars": 645399,
+      "ideas": 12700
     },
     "chapters": {
-      "words": 116001,
-      "chars": 644945,
-      "ideas": 12685
+      "words": 116021,
+      "chars": 645058,
+      "ideas": 12691
     }
   }
 }

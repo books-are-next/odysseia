@@ -3,6 +3,8 @@ title: ZPĚV XVI
 contentType: prose
 ---
 
+<section>
+
 Odysseus za té doby a vzorný pastucha v chýši  
 za jitra vznítili oheň a strojili k snídani jídlo,  
 načež poslali ven své pastuchy se stády vepřů.  
@@ -535,3 +537,5 @@ na otce obrátiv zrak, však střehl se pastuchy vepřů.
 jedli, a z hostiny duch měl radost, dělené stejně.  
      Když pak žízeň a hlad již nadobro zahnali všichni,  
 ihned se na lůžka brali, by užili lahody spánku.
+
+</section>

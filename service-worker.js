@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-af73ad6';
+const CACHE = 'cache-8813979';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./odysseia_005.html","./odysseia_006.html","./odysseia_007.html","./odysseia_008.html","./odysseia_009.html","./odysseia_010.html","./odysseia_011.html","./odysseia_012.html","./odysseia_013.html","./odysseia_014.html","./odysseia_015.html","./odysseia_016.html","./odysseia_017.html","./odysseia_018.html","./odysseia_019.html","./odysseia_020.html","./odysseia_021.html","./odysseia_022.html","./odysseia_023.html","./odysseia_024.html","./odysseia_025.html","./odysseia_026.html","./odysseia_027.html","./odysseia_028.html","./odysseia_029.html","./odysseia_030.html","./odysseia_031.html","./odysseia_032.html","./odysseia_033.html","./odysseia_034.html","./odysseia_035.html","./odysseia_036.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.png","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./odysseia_005.html","./odysseia_006.html","./odysseia_007.html","./odysseia_008.html","./odysseia_009.html","./odysseia_010.html","./odysseia_011.html","./odysseia_012.html","./odysseia_013.html","./odysseia_014.html","./odysseia_015.html","./odysseia_016.html","./odysseia_017.html","./odysseia_018.html","./odysseia_019.html","./odysseia_020.html","./odysseia_021.html","./odysseia_022.html","./odysseia_023.html","./odysseia_024.html","./odysseia_025.html","./odysseia_026.html","./odysseia_027.html","./odysseia_028.html","./odysseia_029.html","./odysseia_030.html","./odysseia_031.html","./odysseia_032.html","./odysseia_033.html","./odysseia_034.html","./odysseia_035.html","./odysseia_036.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./scripts/bundle.js","./style/style.min.css","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.png","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

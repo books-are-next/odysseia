@@ -3,6 +3,8 @@ title: ZPĚV XII
 contentType: prose
 ---
 
+<section>
+
 Αle když vyjela loď již z proudův Ókeanových,  
 mořem jsme širokých cest zas mořskými vlnami přišli  
 nazpět k aiajské výspě, kde s jitrem se rodící Zora  
@@ -507,3 +509,5 @@ která mě hostila vlídně a pěstila.
 líčil, když včerejší den jsem v paláci vyprávěl o tom  
 tobě i mocné choti — a již se mi opravdu příčí  
 znova to vyprávět zas, když zřejmě to řečeno bylo.“
+
+</section>

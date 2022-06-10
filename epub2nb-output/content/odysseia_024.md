@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ## Odysseus doma
 
                                          Tu procitl Odysseus slavný  
@@ -285,3 +287,5 @@ děravou na mnohých místech, a provaz mu za popruh sloužil.
      Oba se po radě té zas rozešli.  
                                                               Athéna potom  
 pro syna Télemacha se vydala do skvělé Sparty.
+
+</section>

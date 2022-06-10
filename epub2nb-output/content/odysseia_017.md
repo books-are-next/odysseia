@@ -3,6 +3,8 @@ title: ZPĚV VIII
 contentType: prose
 ---
 
+<section>
+
 Zora když, s jitrem se rodíc, se zjevila růžovoprstá,  
 vladař bujaré síly se zvedal se svého lůžka.  
 Odysseus, bořitel měst, vstal také, vládyka jasný.  
@@ -638,3 +640,5 @@ po vlastní krvi a rodu nám bývají nejdražší v duši?
      Či snad některý druh, tvůj přítel laskavé mysli,  
 zdatný? Neníť míň než rodný bratr nám vzácný,  
 kdo je náš důvěrný druh, jenž dobrým je rozumem nadán.“
+
+</section>

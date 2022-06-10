@@ -3,6 +3,8 @@ title: ZPĚV XIII
 contentType: prose
 ---
 
+<section>
+
 ## Faiéci dovezli Odysséa do jeho vlasti na ostrov Ithaku
 
 Pravil, i umlkli všichni a úplné nastalo ticho  
@@ -214,3 +216,5 @@ město pak s obou stran nám nesvíral pohořím velkým!“
      Tak se tam modlili všichni a prosili vladaře moře  
 národa faiéckého i vládci i vůdcové lidu,  
 stojíce okolo žertev.
+
+</section>

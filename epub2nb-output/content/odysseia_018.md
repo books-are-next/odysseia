@@ -3,6 +3,8 @@ title: ZPĚV IX
 contentType: prose
 ---
 
+<section>
+
 Důvtipný Láertův syn zas těmito odvětil slovy:  
 „Mocný ty Alkinoe a nad lidi veškery slavný,  
 krásná věru je věc být přítomen pěvcově písni,  
@@ -618,3 +620,5 @@ Druhové vstoupili kvapně a k veslovým kolíkům sedli,
 veslem zpěněnou tůň pak tepali, sedíce řadou.  
 Pak jsme se na cestu dál zas vydali, sklíčeni v srdci,  
 rádi, že znikli jsme smrti — však milých pozbyvše druhů.
+
+</section>

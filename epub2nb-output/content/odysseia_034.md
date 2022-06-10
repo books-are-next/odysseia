@@ -3,6 +3,8 @@ title: ZPĚV XXIII
 contentType: prose
 ---
 
+<section>
+
 ## Odysseus a Pénelopeia se poznají
 
 Stařena v komnatu horní tu vstoupila, jásotu plná,  
@@ -416,3 +418,5 @@ Oni ho poslechli rádi a ihned se oděli ve zbroj.
 Odemkli potom vrata a kráčeli — Odysseus v čele.  
      Na zem svítil už den — z té příčiny bohyně Pallas  
 v husté je zakryla temno a nakvap z města je vedla.
+
+</section>
