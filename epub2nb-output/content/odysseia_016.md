@@ -94,7 +94,7 @@ v dům svůj s vysokým stropem a do své otcovské země.“
 po mořské nezmorné pláni, když z luzné Scherie vyšla.  
 Přišla pak do Marathónu, pak do Athén širokých ulic  
 v pevný dům Erechthéův.  
-                                                   Tou dobou Odysseus kráčel  
+             Tou dobou Odysseus kráčel  
 v slavný dům Alkinoův a počal přemýšlet v duši,  
 před domem zastaviv krok, než na práh kovový vstoupil.
 
@@ -163,11 +163,11 @@ až již k Árétě přišel a ke králi Alkinoovi.
 když se vtom božský mrak zas rozptýlil okolo něho.  
 Všichni se ztišili v ráz, když v paláci uzřeli muže,  
 s podivem hledíce naň. —  
-                                                 Vtom snažně ji Odysseus prosil:  
+             Vtom snažně ji Odysseus prosil:  
 „Áréto, jejíž otec jest Rhéxénór podobný bohům,  
 k choti a kolenům tvým, když mnoho jsem zkusil, jdu s prosbou,  
 jakož i ke tvým hostům.  
-                                               Těm bohové požehnat račtež  
+             Těm bohové požehnat račtež  
 v žití, a každý z nich nechť vlastním zanechá dítkám  
 hojný majetek v domě a úděl národem daný!  
 Průvod mi připravte, prosím, bych přišel do země rodné,  
@@ -250,7 +250,7 @@ z paměti, co jsem kdy zkusil, a káže mi dosyta pojíst.
      Vy však popilte sobě, hned po ránu, s úsvitem Zory,  
 byste mě nešťastného zas do země zavezli rodné,  
 třeba i po dlouhých strastech!  
-                                                           Ať zahynu, jenom když uzřím  
+             Ať zahynu, jenom když uzřím  
 majetek svůj, svou čeleď i palác s vysokým krytem!“  
 Řekl, a všichni tu řeč hned schválili, každý byl pro to,  
 aby byl vypraven host, jenž řádná promluvil slova.

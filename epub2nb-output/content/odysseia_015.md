@@ -10,7 +10,7 @@ Nausikaá
 
 Takto tam Odysseus spal, jenž tolik zápasů přestál,  
 úplně přemožen spánkem a únavou.  
-                                                                       Athéna zatím  
+             Athéna zatím  
 odešla v kraj, v němž faiécký lid má zemi a město.
 
      V prostranné Hypereii kdys bydlil faiécký národ,  
@@ -44,7 +44,7 @@ chvalná, a potěchu má jak velebná matka, tak otec.
 Pročež půjdeme prát hned po ránu s úsvitem Zory.  
 Já pak s tebou chci jít, bych pomohla, abys co nejdřív  
 prádlo zas v pořádku měla.  
-                                                     Již nebudeš svobodná dlouho,  
+                    Již nebudeš svobodná dlouho,  
 ježto již šlechtici přední se hlásí o tvoji ruku  
 z celé faiécké země, kde též máš kolébku svoji.  
 Hned, jak vysvitne jitro, jdi požádat slavného otce,  
@@ -62,13 +62,13 @@ Na něm blažení bozi den ze dne jsou v radosti živi.
 Tamo šla Jiskrnozraká, když pokyn dívčině dala.
 
      Zora vtom krásnotrůnná se zjevila.  
-                                                                         Procitla ihned  
+             Procitla ihned  
 dívčina oděná krásně, a nad snem pojal ji podiv.  
 Kráčela rodným domem, by podala rodičům zprávu,  
 milému otci i matce, a uvnitř oba je stihla.  
 U krbu seděla máť — kol ní též služebné ženy —  
 předivo nachové barvy tam spřádajíc.  
-                                                                          Otce však zhlédla,  
+             Otce však zhlédla,  
 právě když ze dveří kráčel a do schůze slovutných vládců  
 k poradě jejich se bral, kam zvali jej Faiéci statní.
 
@@ -107,7 +107,7 @@ krásný zdroj, v němž vyprat by moh’ byť sebevíc prádla,
 ihned služebné ženy šly vypřáhnout zpode jha mezky,  
 načež je zahnaly dále, by na břehu mírného proudu  
 pásli se na chutné trávě.  
-                                                A potom s povozu dívky  
+                         A potom s povozu dívky  
 oděvy rukama vzaly a do temné snášely vody,  
 kdežto je šlapaly v jamkách a o závod konaly práci.  
      Když pak vypraly všecko a vymyly veškeru špínu,  
@@ -137,7 +137,7 @@ jež by mu vůdkyní byla až do města faiéckých mužů.
      Míčem po jedné z děv vtom hodila králova dcera,  
 ten však služky se chybil a sletěl v hlubinu víru.  
 Ony tu hlasitě vzkřikly.  
-                                              I procitl Odysseus slavný.  
+             I procitl Odysseus slavný.  
      Sedaje, přemýšlet počal i ve svém srdci i v mysli:  
 „Pro boha! Jakých to lidí jsem opět do země přišel!  
 Jsou to snad násilníci a divoši nedbalí práva,  
@@ -163,7 +163,7 @@ Každá jinam z těch dívek se rozprchly po strmých březích.
      Čekala králova dcera, z nich jediná, neboť jí vdechla  
 Athéna odvahu v mysl a bázeň sňala jí s údů.  
 Klidně mu stanula vstříc.  
-                                                 On rozjímal, zdali by neměl  
+             On rozjímal, zdali by neměl  
 obejmout kolena její a prosit spanilé dívky,  
 či snad jenom tak zdálky ji prosit lichotnou řečí,  
 zdali by dala mu šaty a do města cestu mu řekla.  
@@ -266,7 +266,7 @@ taký mu rozlila vděk kol hlavy i okolo plecí.
 
      Odysseus odešel stranou a sedl si na břehu mořském,  
 krásou a půvabem záře.  
-                                               I hledíc s podivem na něj,  
+             I hledíc s podivem na něj,  
 k dívkám pletenců krásných se dívčina ozvala takto:  
 „Děvčata bělostných loktů, teď poslyšte — něco vám řeknu!  
 S knížaty rovnými bohům ten cizinec nepřijde ve styk  

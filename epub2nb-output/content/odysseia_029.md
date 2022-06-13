@@ -76,7 +76,7 @@ Hostitel přece jsem já, jest zajedno Antinoos
 se mnou, i Eurymachos, dva mužové velice moudří.“  
 Řekl, a všichni tu řeč hned schválili.
 
-                                                                      Odysseus ihned  
+             Odysseus ihned  
 uvázav z hadrů si pás kol kyčlí, odhalil stehna  
 velice krásná a velká. I vystoupla ramena silná,  
 široké plece a mocná hruď. Též bohyně Pallas  
@@ -88,7 +88,7 @@ Jaká to objemná bedra ten stařec tu odkrývá z hadrů!“
      Řekli, a Írův duch byl rázem zachvácen hrůzou.  
 Přec však jej oděli pásem a mocí ho k zápasu vedli  
 sluhové.  
-                 Strachem se chvěl, kol těla se maso mu třáslo.  
+             Strachem se chvěl, kol těla se maso mu třáslo.  
      Antinoos ho plísnil a těmito slovy ho káral:  
 „Neměl bys naživu býti, ty chlubiči, ani se zrodit,  
 vskutku-li takhle se třeseš a takou hrůzu máš před ním,  
@@ -111,7 +111,7 @@ slabou jen ránu mu dáti, by nebyl Danajci poznán.
 vrazil a rudá krev v té chvíli mu vyhrkla ústy.  
 Zachroptěv do prachu padl a zaťal bolestí zuby,  
 kopaje do země patou.  
-                                            Tu ženiši, pozdvihše ruce,  
+                         Tu ženiši, pozdvihše ruce,  
 bezmála zmírali smíchem. Však Odysseus žebráka ihned,  
 padlého, za nohu chopil a na dvůr předsíní vlekl  
 k samým průjezdu vratům a posadil k ohradní stěně  
@@ -124,7 +124,7 @@ bídný jsa tvor, sic ještě bys hůř moh’ postižen býti!“
 děravou na četných místech, a provaz mu za popruh sloužil.  
 Pak šel ku prahu nazpět a sedl si.
 
-                                                                 V komnatu oni  
+             V komnatu oni  
 vcházeli s veselým smíchem a touto jej vítali řečí:  
 „Zeus ti rač, cizinče, dáti, i druzí nesmrtní bozi,  
 čeho si nejvíc přeješ, a co se ti zlíbilo v mysli!  
@@ -163,7 +163,7 @@ mrhají vládcovo jmění a manželku v neúctě mají
 muže, jenž od svých přátel a od své otcovské země  
 nebude vzdálen už dlouho. — Jest nablízku! — Tebe však božstvo  
 vyvést k domovu rač! —  
-                                              Ty hleď však jemu se vyhnout,  
+             Ty hleď však jemu se vyhnout,  
 až by se vrátil domů a do milé otcovské země!  
 Neboť se sotva, jak mním, pak rozejdou bez mnohé krve  
 záletníci a on, jak jednou pod střechu vstoupí!“  
@@ -208,7 +208,7 @@ K mužům nemohu přec jít samotna, neboť se stydím.“
 na dceru Íkariovu že sladký rozlije spánek.  
 Usnula, klesnuvši zpět, když všecky jí ochably údy,  
 tak, jak seděla v křesle.  
-                                              A zatím bohyně jasná  
+             A zatím bohyně jasná  
 božské jí dávala dary, by Achajci užasli nad ní:  
 líčidlem z ambrosie jí nejdřív obličej sličný  
 zkrášlila, jakým právě se Kypřanka s čelenkou krásnou  
@@ -218,7 +218,7 @@ jasnější běl než řezaná sloň jí na líce vdechla.
 Když pak to skončila všecko, zas odešla bohyně jasná.  
      Komorné bělostných loktů se přihnaly z komnaty ženské,  
 s hlukem běžíce k ní.  
-                                         Vtom sladký ji opustil spánek:  
+             Vtom sladký ji opustil spánek:  
 rukou si otřela tváře a potom pravila toto:  
 „Jaký to lahodný spánek mě objal, sklíčenou trpce!  
 Kéž by tak lahodnou smrt ctná Artemis poslala na mne,  
@@ -288,7 +288,7 @@ s vozů válčiti rychlých, jež velký s odpůrci zápas
 každé společné války vždy rozhodnou za krátkou dobu.  
 Nevím, zdali mě bůh zas propustí, čili zda tamo  
 zahynu v trójské zemi.  
-                                             Ty tady zas opatruj všecko,  
+                         Ty tady zas opatruj všecko,  
 pečuj mi o mou matku i o otce v paláci našem,  
 stejně jak teď, snad ještě i víc, když já budu vzdálen!  
      Avšak jakmile spatříš, že synovi narostly vousy,  
@@ -425,7 +425,7 @@ Nebo snad dokonce třeštíš, že skolil jsi žebráka Íra?“
      Tak tedy promluviv k němu, vzal podnožku — Odysseus k nohám  
 sedl si Amfinomovým, jenž vladařil nad Dúlichiem,  
 zhroziv se Eurymacha.  
-                                             Ten udeřil do pravé ruky  
+             Ten udeřil do pravé ruky  
 číšníka — konev mu spadla, a řinkot se po zemi ozval.  
 Číšník bolestí zalkal a naznak do prachu padl.
 

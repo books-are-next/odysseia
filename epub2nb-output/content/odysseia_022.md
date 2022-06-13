@@ -37,7 +37,7 @@ Diovi v temných mračnech, jenž panuje nad celým světem.
 Spálili ze stehen maso a skvostné slavili hody,  
 sedíce, radostni v duších, a božský pěvec jim zpíval  
 Démodokos, jenž v lidu byl ctěn.  
-                                                                Však hrdina přece  
+             Však hrdina přece  
 k slunci, jež zářilo jasně, svým zrakem se obracel často,  
 přeje si, aby už zašlo — vždyť odplout velice dychtil.  
      Jako si rolník přeje, by pojedl, kterému hnědí  
@@ -68,7 +68,7 @@ vzdáme a milého hosta ať do země otcovské pošlem!“
 Potom je po řadě všem hned roznesl, oni pak v oběť  
 ulili blaženým bohům, co sídlí na nebi širém,  
 každý se svého místa.  
-                                           Tu vstávaje Odysseus slavný,  
+             Tu vstávaje Odysseus slavný,  
 chopil dvouuchý pohár a kněžně jej do ruky dával,  
 potom se ozval takto a pravil perutná slova:  
 „Šťastna tu, královno, žij čas veškeren, až by tě jednou  
@@ -131,7 +131,7 @@ k severu jeden je z nich, jímž lidé vcházeti mohou,
 jižní vchod jen pro bohy jest — jím nemůže vstoupit  
 žádný smrtelný muž — jen bohům tudy je přístup.  
 V přístav, jejž znali už dřív, loď vehnali.  
-                                                                             K suché tu zemi  
+             K suché tu zemi  
 kvapně se přihnal koráb a téměř do půle délky  
 vyjel na suchou zem — vždyť tací jej veslaři hnali.  
      Vyšli pak z přepevné lodi a vystoupše na suchou zemi,  
@@ -144,10 +144,10 @@ ke kmeni olivy, na zem, je hromadně složili všecky,
 poněkud od cesty dále, by z lidí pocestných někdo,  
 přijda, ho neobral o vše, než hrdinu opustí spánek,  
 sami se k domovu zpět zas vraceli.  
-                                                                    Zemětřas vládce  
+                       Zemětřas vládce  
 nepustil z paměti hrozbu, jíž rekovi rovnému bohům  
 rozhněván pohrozil dřív.  
-                                                 Teď zkoumal Diovu vůli:  
+             Teď zkoumal Diovu vůli:  
 „Budoucně, otče ty Zéve, už nebudu požívat pocty  
 ve sboru nesmrtných bohů, když nectí mne smrtelní lidé,  
 Faiéci, jejichžto rod přec pochází z plemene mého.  
@@ -186,7 +186,7 @@ město pak s obou stran jim velkým pohořím sevři!“
 ihned k Scherii šel, jež Faiékům rodnou je vlastí,  
 čekaje. Nablízku loď vtom připlula, hladinu brázdíc,  
 střelhbitě puzena vpřed.  
-                                                K ní přistoupiv Zemětřas vládce,  
+             K ní přistoupiv Zemětřas vládce,  
 skalinu učinil z lodi a vespod ji upevnil na dně,  
 shora ji udeřiv dlaní, a opět potom se vzdálil.
 
@@ -208,7 +208,7 @@ Takto mi kmet ten pravil, a teď se to splňuje všecko.
 Pročež nyní se tím, jak poradím, spravujme všichni!  
 Přestaňte převážet již, ať kdokoli v budoucnu přijde  
 z lidí do města k nám!  
-                                           Teď dvanáct vybraných býků  
+             Teď dvanáct vybraných býků  
 zabijme Poseidonu, zda chtěl by nám milostiv býti,  
 město pak s obou stran nám nesvíral pohořím velkým!“  
      Pravil, je pojala hrůza, i počali chystati býky.

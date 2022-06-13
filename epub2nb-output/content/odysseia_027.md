@@ -10,7 +10,7 @@ za jitra vznítili oheň a strojili k snídani jídlo,
 načež poslali ven své pastuchy se stády vepřů.  
      Okolo Télemacha se lísali štěkaví psové,  
 neštěkajíce, když šel.  
-                                         Hned postřehl Odysseus slavný,  
+             Hned postřehl Odysseus slavný,  
 kterak se lísají psové, a kroky mu pronikly k sluchu.  
 Rychle se k pastýři ozval a pravil perutná slova:  
 „Jistěže nějaký druh, sem návštěvou, Eumaie, přijde,  
@@ -18,10 +18,10 @@ nebo i jiný známý, vždyť ze psů neštěká žádný,
 nýbrž se lísají k němu, a slyším zároveň kroky.“  
      Nebyla skončena řeč, když milý rozenec jeho  
 stanul v předsíni chýše.  
-                                               Tu, užasnuv, vyskočil pastýř,  
+             Tu, užasnuv, vyskočil pastýř,  
 rázem nádoby z rukou mu vypadly — směšovalť právě  
 s vodou jiskrný mok.  
-                                          Hned naproti pánovi běžel,  
+                         Hned naproti pánovi běžel,  
 na hlavě zlíbal ho vřele a na obou spanilých očích,  
 jakož i na obou rukou, a proudem mu vytryskly slzy.  
      Jako když vítá otec, pln něžnosti, vlastního syna,  
@@ -114,7 +114,7 @@ v boji se spoléhá muž, byť velký zápas mu nastal?
 Při této statnosti své bych _tvá_ chtěl mladá mít léta,  
 vládcovým synem tu být, neb hrdinským vládykou samým.  
 Kéž by již ze světa přišel!  
-                                                  — A možná ještě v to doufat.  
+             — A možná ještě v to doufat.  
      Ha! Nechť na místě hned muž cizí srubne mi hlavu,  
 kdybych se ženichům těm pak nestal záhubou všechněm,  
 jakmile v králův dům bych zavítal — Láertovcův!  
@@ -148,7 +148,7 @@ Avšak tahleta věc jest ovšem v pravici boží.
      Ty však, tatíčku, pospěš a rozumné Pénelopeii  
 vyřiď, že docela zdráv jsem domů se navrátil z Pylu!  
 Já však zůstanu tady. —  
-                                             Ty oznam to jedině matce,  
+             Ty oznam to jedině matce,  
 hned však domů se vrať! — Nechť žádný z Achaiů druhých  
 nezví docela nic! — Z nich mnozí strojí mi zhoubu.“
 
@@ -173,9 +173,9 @@ aby ses plahočil za ním kdes po polích, matce však řekni,
 že má klíčnici služku co nejdřív poslati k němu,  
 tajně, a _ta_ by ten vzkaz pak kmetovi vyřídit mohla.“  
 Taký rozkaz mu dal.  
-                                        Ten do rukou opánky chopil,  
+             Ten do rukou opánky chopil,  
 načež, rychle je obuv, šel do města.  
-                                                                    Postřehla dobře  
+             Postřehla dobře  
 Pallas, jak od chýše své šel do města pastucha vepřů.  
 Přistoupši k chatrči jeho, jsouc podobna postavou těla  
 krásné a velké ženě a skvostná znající díla,  
@@ -183,13 +183,13 @@ stanula před vchodem chýše, však zjevná jen Odysséovi,
 zato však vladařův syn jí neviděl, aniž co tušil,  
 neboť nikterak všechněm se bohové nedají vidět.  
      Sám ji jen Odysseus spatřil — a psové.  
-                                                                              Ti neštěkajíce,  
+                         Ti neštěkajíce,  
 dvorem se v opačný směr kams rozběhli, kňučíce strachem.  
 Bohyně obrvím kývla.  
-                                           To postřehl Odysseus slavný.  
+             To postřehl Odysseus slavný.  
 Vyšed z pastýřské chaty dle vysoké ohrady dvora,  
 přímo se postavil před ni.  
-                                                   Tu Athéna pravila k němu:  
+             Tu Athéna pravila k němu:  
 „Zchytralý Odyssée, ty z Láerta vládyko jasný,  
 vše teď synovi pověz a docela nic mu již netaj,  
 abyste zhoubu a smrt všem ženichům umluvit mohli!  
@@ -202,10 +202,10 @@ Na lících ztmavěla barva a vrásek pozbyly tváře,
 okolo brady mu vous hned ztemněl černavou barvou.  
   
      Když pak to skončila všecko, zas odešla.  
-                                                                                   Odysseus vešel  
+             Odysseus vešel  
 do chýše zas.
 
-                           Hned milený syn, pln strnutí nad tím,  
+                    Hned milený syn, pln strnutí nad tím,  
 zrak svůj obrátil stranou, jsa polekán, že to snad bůh jest,  
 načež takto se ozval a pravil perutná slova:  
 „Jiným nyní se jevíš, ó cizinče, nežli’s byl dříve,  
@@ -245,7 +245,7 @@ Neboť snadno je bohům, co sídlí na nebi širém,
 vzezření smrtných lidí buď zvelebit nebo je zhyzdit.“  
 Taková promluviv slova, zas usedl.
 
-                                                                    Pak teprv otci  
+             Pak teprv otci  
 statnému v náručí padl, a vzlykaje, proléval slzy.  
      Tehdáž v srdci jich obou se vznítila po nářku touha,  
 plakali hlasitým pláčem, a zvučnějším, nežli je ptáků,  
@@ -337,7 +337,7 @@ zhanobil, poněvadž kov sám sebou strhuje muže.‘
      Jenom tam oběma nám dvou kopí a také dvou mečů  
 ponechej, též dvou štítův, ať rukám našim jsou blízko,  
 abychom vzít si je mohli a útočit.  
-                                                                Odpůrce potom  
+             Odpůrce potom  
 oslabí Athénská Pallas a všemoudrý rozenec Kronův.
 
      Jinou ti věc teď povím, ty na mysli přemýšlej o ní:  
@@ -346,7 +346,7 @@ Jsi-li ty syn můj vskutku a z naší pocházíš krve,
 nesmí ni Láertés otec ni pastýř vepřů to vědět,  
 také z čeládky nikdo, ni máť tvá, Pénelopeia,  
 nýbrž ty jen a já.  
-                                 Dřív poznáme smýšlení služek,  
+             Dřív poznáme smýšlení služek,  
 také prozkoumat můžem i leckoho z čeledi mužské,  
 kdo si nás obou váží, a kdo se nás obává v mysli,  
 nebo kdo nemá studu a nectí tě, statného takto.“
@@ -452,7 +452,7 @@ líbil se hovorem svým, vždyť šlechetná byla v něm mysl.
 „Já aspoň, přátelé milí, bych nijak si vládcova syna  
 netroufal sklát — vždyť královský rod jest nadmíru hrozné  
 vraždit. —  
-                   Ze všeho nejdřív se poptejme po vůli boží!  
+             Ze všeho nejdřív se poptejme po vůli boží!  
 Schválí-li veliký Zeus ten skutek výroky svými,  
 sám ho chci života zbavit — ba pobídnu ostatní všecky.  
 Pakli však bohové brání, tu radím raději ustat.“  
@@ -508,7 +508,7 @@ Pallas jiskrných zraků jí libý vložila spánek.
      Večer se k Odysséovi a synovi pastucha vzorný  
 vrátil. Ti oba tam stáli a večeři chystali sobě,  
 ke které roční vepř byl poražen.  
-                                                               Zatím však Pallas  
+             Zatím však Pallas  
 Athéna přistoupla blíže a stanuvši u Odysséa,  
 kouzelným prutem jej šlehla a zas jej změnila v starce,  
 tělo mu oděla v šat již zchátralý, aby ho pastýř  

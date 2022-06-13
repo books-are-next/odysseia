@@ -27,9 +27,9 @@ v její prostorné sluji — vždyť chtěla ho manželem míti.
 ve které věční bozi mu do vlasti určili návrat,  
 Ithaky — také tam jej četné stíhaly strasti,  
 ač byl ve středu svých.  
-                                            S ním cítili bohové soustrast,  
+             S ním cítili bohové soustrast,  
 všichni, jen Poseidon ne. —  
-                                                    Ten prudce se na něho hněval,  
+             Ten prudce se na něho hněval,  
 na reka rovného bohům, než do své země se vrátil.  
      Ten však byl u Aithiopů, již bydlí v končinách dálných,  
 u Aithiopů, jichž lid jest rozdvojen na koncích světa,  
@@ -84,7 +84,7 @@ Avšak hněvá se naň bůh Poseidon chvějící zemí,
 urputně stále a stále, že oslepil rovného bohům  
 Kyklopa Polyféma, jenž vyniká největší silou  
 z druhých Kyklopů všech.  
-                                                   Ten z rozenky Forkýna, vládce  
+                         Ten z rozenky Forkýna, vládce  
 nad mořskou nezmarnou tůní, se narodil z Thoósy nymfy,  
 kteroužto Poseidáón kdys objal v prostorné sluji.  
      Zemětřas Poseidáón mu nijak nechce sic proto  
@@ -214,7 +214,7 @@ na vodách zátoky Rheitru, jež pod Néjem lesnatým leží.
 My pak, s pýchou to pravím, jsme pohostní přátelé spolu  
 od dávných dob, však, chceš-li, jdi Láerta, starého reka,  
 zeptat se na tuto věc!  
-                                          Ten do města nyní už nikdy  
+             Ten do města nyní už nikdy  
 nechodí prý — jest navenku sám, kdež trampoty snáší,  
 se svou stařičkou služkou, jež dává mu jídlo a pití,  
 kdykoli v údech mdlých jest těžkou únavou stísněn,  
@@ -272,7 +272,7 @@ k poctě a velkou slávu by synovi v budoucnu zjednal —
 takhle však vichoru vztek jej beze vší uchvátil slávy.  
 Pryč je — ni vidu, ni slechu — a mně jen stesky a nářky  
 zanechal.  
-                   Nejen však proň, pln žalosti, kvílím a sténám,  
+             Nejen však proň, pln žalosti, kvílím a sténám,  
 nýbrž i jiné ještě mi bohové útrapy dali:  
 Kolik tu šlechticů jest, již na blízkých ostrovech velí,  
 na Samě, na Dúlichiu i Zakynthu porostlém lesy,  
@@ -293,7 +293,7 @@ od Íla Mermerovce se vraceje z Efyry domů,
 neboť na rychlé lodi i tam se byl Odysseus dostal,  
 chtěje si smrtící jed v ní opatřit, aby jím mohl  
 natírat kované šípy!  
-                                       Však Mermerův syn mu ho nedal,  
+                         Však Mermerův syn mu ho nedal,  
 neboť veliký strach měl z bohů žijících věčně.  
 Otec však můj mu ho dal, vždyť z celé ho miloval duše. —  
      Kéž by se Odysseus nyní, jsa takový, s ženichy potkal!  
@@ -301,7 +301,7 @@ Všichni by rázem zašli, a chuť by jim k ženění zhořkla!
      Avšak tahleta věc jest ovšem v pravici boží,  
 zdali se opět vrátí a vykoná nad nimi pomstu  
 ve svém domě či ne. —  
-                                            Však radím ti přemýšlet o tom,  
+             Však radím ti přemýšlet o tom,  
 kterak ženichy ony bys vyhnal ze svého domu.  
      Avšak nyní mě poslyš a vezmi slova má k srdci!  
 Svolej k poradní schůzi, hned po ránu, achajskou šlechtu,  
@@ -358,7 +358,7 @@ vybera obzvlášť krásný, a já dám stejně ti vzácný!“
 ulétla vzhůru jak pták, když velkou sílu a smělost  
 vložila do jeho duše a vznítila více než dříve  
 vzpomínku na otce v něm.  
-                                                   Syn rázem v mysli to poznav,  
+             Syn rázem v mysli to poznav,  
 užasl ve svém nitru, když poznal, že to je božstvo.  
 Hned pak k ženichům šel jak hrdina podobný bohům.  
      Právě jim zpíval pěvec, ten přeslavný — potichu všichni  
@@ -485,7 +485,7 @@ ještě když mladistvá byla, a dvacet za ni dal býků,
 stejnou jí vzdávaje čest, jak ctěné manželce v domě,  
 v styk však s ní nevešel nikdy, by nebudil žárlivost v choti.  
      Žhoucí mu svítila loučí.  
-                                                   Ta ze všech nejvíce služek  
+             Ta ze všech nejvíce služek  
 vždycky ho mívala ráda, i pěstila, dokud byl malý.  
      Otevřel k ložnici vchod, jež důkladně stavěna byla,  
 potom si na lůžko sedl a jemnou svlékl si sukni,  

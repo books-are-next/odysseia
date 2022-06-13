@@ -58,12 +58,12 @@ volal, milý tvůj syn, jejž otec pro mne byl poslal,
 našla jsem Odysséa, jak uprostřed pobitých mužů  
 stojí, a ženichů dav tam leží na tvrdé zemi,  
 na sobě.  
-                 Vidouc to všecko, bys bývala okřála v mysli,  
+             Vidouc to všecko, bys bývala okřála v mysli,  
 kterak je potřísněn krví a pokálen, lvovi jsa roven.  
 Nyní mrtvoly všech jsou u samých nádvorních dveří  
 na sobě, překrásný dům pak čistí vládyka sírou,  
 zanítiv veliký oheň.  
-                                       Mě poslal zavolat tebe.  
+             Mě poslal zavolat tebe.  
 Nuže, už pojď, ať cele se zas své oddáte slasti  
 oba dva milým srdcem, vždyť mnoho jste zkusili zlého!  
 Nyní konečně přec jest dávné vám splněno přání:  
@@ -81,7 +81,7 @@ rozhněván pro jejich pýchu a trapné zločiny jejich.
 Neboť nectili nikdy ni jednoho z pozemských lidí,  
 ať byl dobrý, ať zlý, ať kdokoli mezi ně přišel.  
 Pročež za zpupnost svou teď zhynuli.  
-                                                                         Odysseus pozbyl  
+                  Odysseus pozbyl  
 návratu daleko vlasti a pozbyl i života svého.“  
      Na to zas pěstounka milá jí pravila, Eurykleia:  
 „Jaká to, dítě, ti řeč teď vyklouzla z ohrady zubů,  
@@ -106,7 +106,7 @@ zda snad zpodáli jen má zkoumat milého muže,
      Když pak vstoupila dovnitř a přes práh kamenný přešla,  
 sedla si naproti muži, kde svítily paprsky ohně,  
 opodál, u druhé stěny.  
-                                            On před sloupem vysokým seděl,  
+             On před sloupem vysokým seděl,  
 sklopen maje svůj zrak: bylť zvědav, zdali co řekne  
 statná manželka jeho, až očima pohlédne na něj.  
 Dlouho však seděla mlčky, a úžas jí pronikal srdcem:  
@@ -126,7 +126,7 @@ Tobě však po všechen čas jest tvrdší nad kámen srdce!“
 „Milý synu, můj duch jest plný úžasu v ňadrech.  
 Nemohu vůbec nic teď promluvit, ani se zeptat,  
 ani se tváří v tvář naň podívat.  
-                                                            Pakli to vskutku  
+             Pakli to vskutku  
 Odysseus jest, jenž vrací se k nám — ó jistěže my se  
 poznáme sami a líp, vždyť jistá znamení máme,  
 která také jen nám jsou známa, však jinému tajna.“  
@@ -206,12 +206,12 @@ na místě jiném než ono, jež sám si byl vystavěl kdysi.
 Tamo mu pevné lůžko dej zařídit, položit na ně  
 rouna i pokrývky teplé a k tomu i koberce lesklé.“  
      Řekla to, manžela tím chtíc zkoumati.  
-                                                                              Na to jí pravil  
+             Na to jí pravil  
 Odysseus, nevole pln, své manželce, pečlivé ženě:  
 „Velmi je bolestná věc, již nyní’s, manželko, řekla!  
 Kdože mi postel dal jinam? To každému bylo by těžko,  
 kdyby i dovedný byl!  
-                                          Sám bůh by jen, osobně přijda,  
+             Sám bůh by jen, osobně přijda,  
 mohl ji, kdyby si přál, dát lehounko na jiné místo —  
 živoucí muž však žádný. I kdyby byl ve květu mládí,  
 přec by jí nepohnul lehce, vždyť v úpravné posteli oné  
@@ -230,9 +230,9 @@ zřídil jej za nohu k loži a vrtadlem navrtal všude.
 zdobě je uměle zlatem i slonovou kostí a stříbrem.  
 Uvnitř hovězí řemen jsem napjal, červený, lesklý.  
      Takto ti tajemství své teď vykládám.  
-                                                                             Nevím však ještě,  
+             Nevím však ještě,  
 dosud-li nehnuto jest mou postelí.  
-                                                                  Či by snad jiný  
+                   Či by snad jiný  
 muž ji byl vynesl jinam, a olivu podřízl vespod?“
 
      Řekl, a v okamžik ten jí kolena klesla i srdce,  
@@ -241,7 +241,7 @@ S pláčem přiběhla k němu a padla mu okolo krku,
 vřele mu zlíbala hlavu a takto pak mluvila k němu:  
 „Nezlob se, Odyssée, vždyť býval’s moudrý i jindy,  
 ze všech nejvíce lidí!  
-                                         Nás bohové stíhali trýzní,  
+             Nás bohové stíhali trýzní,  
 kteří nepřáli nám být pospolu u sebe stále,  
 užít mladého věku a dospět ku prahu stáří.  
 Právě se proto ty teď již nezlob a neměj mi za zlé,  
@@ -350,7 +350,7 @@ pro ni, jak velké spousty se čerpaly ze sudů vína,
 on zas, vládyka jasný, jí vyprávěl, jaké kdy strasti  
 jiným způsobil lidem, co zkusil a žalostných útrap  
 podstoupil sám.  
-                                Choť ráda ho slyšela, aniž jí spánek  
+             Choť ráda ho slyšela, aniž jí spánek  
 snášel se na milá víčka, než do konce pověděl všecko:
 
      Začal, jak Kikonů lid byl přemožen od něho nejdřív,  
@@ -393,7 +393,7 @@ Když již domnění měla, že Odysseus v mileném srdci
 na lůžku manželky své již sladkým se nasytil spánkem,  
 Jitřenu z Ókeanu tu pobídla zlatotrůnnou  
 lidem světlo už nést.  
-                                        Vtom slavný Odysseus také  
+             Vtom slavný Odysseus také  
 s lůžka již měkkého povstal a dával manželce rozkaz:  
 „Dost již, manželko moje, jsme všelikých svízelů měli,  
 oba, ty’s pro návrat můj, tak klopotný, plakala stále  

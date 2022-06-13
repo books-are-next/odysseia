@@ -58,7 +58,7 @@ Seirén, k tomu se žena ni malá robátka jeho
 neshluknou radosti plny — vždyť nikdy se nevrátí domů,  
 neboť Seirény lstné, jež sedí na břehu v trávě,  
 jasným jej omámí zpěvem.  
-                                                    Tam velké hromady kostí  
+             Tam velké hromady kostí  
 leží tlejících mužů a na nich zvětrává kůže.  
      Pročež mimo žeň loď — svým druhům však do uší vlípni  
 zhnětený medový vosk! Z tvých druhů nižádný nesmí  
@@ -97,7 +97,7 @@ kdyby i ruk měl dvacet a noh měl tolikéž dvacet,
 neboť je hladká ta skála a jakoby tesaná vůkol.  
 Uprostřed skaliny té jest jeskyně ztemnělá mlhou,  
 směrem k západu hledíc v říš temnoty.  
-                                                                            Podle té skály  
+                         Podle té skály  
 budete dutý koráb as říditi, vládyko jasný.  
      Kdyby snad z duté lodi i bujarý z lučiště mládec  
 vystřelil, v dutou tu sluj přec nikdy by nevzlétla střela.  
@@ -425,7 +425,7 @@ Bez dlení, rozhněván v srdci se ozval k nesmrtným bohům:
 ‚Zéve i ostatní bozi, co žijete věčně a blaze,  
 soudruhy Odysséovy přec přísným stihněte trestem,  
 kteří mi zpupně můj skot teď zabili.  
-                                                                      Nad tímto já jsem  
+             Nad tímto já jsem  
 cítil po každé slast, když k hvězdnému nebi jsem stoupal,  
 i když s oblohy zpět jsem dolů se obracel k zemi.  
 Jestliže náhrady žádné mi nesplatí za moje krávy,  
@@ -502,10 +502,10 @@ neboť tenkráte již bych neušel záhubě náhlé.
 
      Hnán jsem byl po devět dní, až v desátém v noci mě bozi  
 zahnali na Ógygii.  
-                                   Jest ostrov to, na kterém bydlí  
+             Jest ostrov to, na kterém bydlí  
 Kalypsó pletenců krásných a mluvící bohyně mocná,  
 která mě hostila vlídně a pěstila.  
-                                                                Nač bych to dlouze  
+                         Nač bych to dlouze  
 líčil, když včerejší den jsem v paláci vyprávěl o tom  
 tobě i mocné choti — a již se mi opravdu příčí  
 znova to vyprávět zas, když zřejmě to řečeno bylo.“

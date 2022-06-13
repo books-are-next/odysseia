@@ -50,7 +50,7 @@ který mi usoudil Zeus, když z trójské jsem země se vracel.
 
 _Z_ Tróje mě unášel vítr a ku městu Kikonů přihnal,  
 k Ismaru.  
-                   Těm jsem pohubil lid, jich zpustošil město.  
+             Těm jsem pohubil lid, jich zpustošil město.  
 Hojný po městě lup, též ženy jsme rozdali sobě,  
 všecky, by o stejný díl z nás žádný ošizen nebyl.  
 Tehdy jsem zval své druhy, co nejrychlej odtamtud prchnout,  
@@ -204,7 +204,7 @@ veslem zpěněnou tůň pak tepali, sedíce řadou.
      Připluvše k onomu místu, jež nebylo daleko od nás,  
 hned jsme tam spatřili sluj, blíž hladiny, na kraji břehu,  
 vysokou, vavříny krytou.  
-                                                 Tam četná spávala stáda  
+             Tam četná spávala stáda  
 ovcí a koz — kol vysoká zeď k jich bezpečí stála,  
 zdělaná z kamenů velkých a do země vsazených pevně  
 jakož i z vysokých jedlí a z dubů s vysokým listím.
@@ -224,12 +224,12 @@ Marón, kněz Apollóna, jenž Ismaru záštitou býval,
 ježto jsme v ochranu svou jej přijali s pobožnou úctou,  
 syna i choť, vždyť háj, jenž Foibovi zasvěcen býval,  
 stinný, sídlem mu byl.  
-                                              Ten skvostné mi věnoval dary:  
+                         Ten skvostné mi věnoval dary:  
 vzácné ze zlata skvosty, jež vážily talentů sedm.  
 Také mi z ryzího stříbra dal měsidlo, k tomu pak vína  
 libého, nesmíšeného mi v dvanáct dvouuchých džbánů  
 nalíti dal.  
-                   Byl božský to mok — však ze sluhů nikdo  
+             Byl božský to mok — však ze sluhů nikdo  
 ničeho nevěděl o něm ni ze žen služebných v domě —  
 jenom on sám, s ním milená choť, pak klíčnice jedna.  
      Kdykoliv hodlali pít ten sladký ruměný nápoj,  
@@ -260,7 +260,7 @@ Bohužel, neměl se on mým druhům k radosti zjevit.
 sýr jsme si brali a jedli a sedíce čekali na něj  
 vnitř, až vrátí se z pastvy.
 
-                                                  Vtom obrovské přinášel dovnitř  
+             Vtom obrovské přinášel dovnitř  
 břemeno vyschlého dříví, by k večeři svítilo jemu.  
 Dříví v jeskyni shodil a velký způsobil rachot.  
 Hrůzou jsme skočili nazpět a skryli se do kouta sluje.  
@@ -352,7 +352,7 @@ přistavil ke vchodu zpět, jak na toul by přiložil víko.
 K hoře ten tučný brav zas vyháněl, hvízdaje hlasně,  
 Kyklóps.
 
-                  Já tam zůstal a zlou jsem mu záhubu strojil,  
+             Já tam zůstal a zlou jsem mu záhubu strojil,  
 zda bych se nějak pomstil, a dá-li mi Athéna slávu.  
 Konečně záměr tento se jevil mi nejlepším ze všech:  
      Kyklópův veliký kyj tam u jedné ohrady ležel  
@@ -391,7 +391,7 @@ dojat soucitem se mnou — ty řádíš však nesnesitelně!
 Ukrutný! Jakpak by měl též příště tě navštívit někdo  
 jiný z hojného lidstva?! Tys nejednal patřičně se mnou!‘  
      Děl jsem, on chopil ten koflík a vyprázdnil.  
-                                                                                        Hrozně mu chutnal  
+              Hrozně mu chutnal  
 onen lahodný nápoj, a po druhé zase mne žádal:  
 ‚Ještě mi laskavě dej! A též své jméno mi řekni,  
 ihned teď, bych podal ti dar, jenž byl by ti milý!  
@@ -412,7 +412,7 @@ ale ty ostatní dříve — a to ti buď pohostným darem!‘
      Řekl, i zváživ se zpět, kles naznak a mohutnou šíji  
 stranou nakloniv ležel, a vtom ho již ovládal spánek,  
 krotitel všechněch tvorů.  
-                                                  Vtom z jícnu mu vyhrklo víno  
+             Vtom z jícnu mu vyhrklo víno  
 se sousty lidského masa — on dávil, vínem jsa zpitý.
 
      Tehdy jsem onen kyj hned hluboko pod popel strčil,  
@@ -469,7 +469,7 @@ velice krásní a velcí a porostlí brunátnou vlnou.
 Ty jsem svazoval k sobě, však potichu, krouceným proutím,  
 na kterém spával Kyklóps, ten netvor, zločinů strůjce,  
 po třech pokaždé vzav.  
-                                             Z nich střední soudruha nesl,  
+             Z nich střední soudruha nesl,  
 po pravém boku a levém šli druzí dva, kryjíce druha.  
      Neslo vždy beranů tré nám soudruha, ale já sám jsem —  
 byl tam veliký beran a z celého nejlepší stáda,  
@@ -482,7 +482,7 @@ Tak tam, lkajíce žalně, jsme jasné dočkali Zory.
 tenkrát se beraní brav již na pastvu z jeskyně hrnul,  
 ovce však mečely v stájích, vždyť nejsouce dojeny dosud  
 k prasknutí vemena měly.  
-                                                    Však jejich velitel hrozně  
+             Však jejich velitel hrozně  
 trápen bolestí krutou, všem ovcím na hřbety sahal,  
 když tak zpříma tam stály, a neměl bláhový zdání,  
 druzi že připjati jsou těm vlnatým beranům pod hruď.  
@@ -493,7 +493,7 @@ vlnou ztížen a mnou, jenž chytrou jsem mysl měl v duši.
 poslední! — Nechodíš jindy až za všemi ovcemi vzadu,  
 nýbrž ze všech první vždy útlé květiny spásáš,  
 dlouhým kráčeje krokem! —  
-                                                        I k proudům řeky jdeš první.  
+             I k proudům řeky jdeš první.  
 První, když blíží se večer, se vracíš do stáje z pastvy.  
 Avšak nyní jdeš sám, až poslední. — Jistě si stýskáš  
 pro pánův zrak, jejž zlý mu ten muž byl nadobro zničil  
@@ -553,7 +553,7 @@ kterak ti byl tvůj zrak tak potupným způsobem zničen,
 řekni, že bořitel měst byl ten, jenž oka tě zbavil,  
 Odysseus, Láertův syn, jenž bydlí v ithacké zemi!‘  
      Toto jsem děl.  
-                                  Ten zalkal a toto mi v odpověď pravil:  
+                         Ten zalkal a toto mi v odpověď pravil:  
 ‚Aj, již pochyby není, že dávná věštba mě stihla!  
 Byl tu kdys muž, jenž věštiti znal — byl sličný a velký,  
 Télemos, Eurymův syn, jenž vynikal uměním věštným,  
@@ -606,7 +606,7 @@ Mně však samému zvlášť toho berana při dělbě dali
 druhové holení krásných, a toho jsem na břehu zabil  
 Kronovci tmavomrakému, jenž panuje nad celým světem,  
 pále mu ze stehen maso.  
-                                                 Zeus nedbal na moji oběť,  
+             Zeus nedbal na moji oběť,  
 nýbrž rozjímal v mysli, jak všecky by pokryté pevně  
 lodi nám úplně zničil i věrné soudruhy moje.  
      Takto pak po celý den tam tehdy až k západu slunce  

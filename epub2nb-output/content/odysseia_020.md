@@ -111,7 +111,7 @@ Teď však se od jamky oddal a meč svůj broušený odvrať,
 abych se napil krve a neklamnou pravdu ti řekl!‘  
      Takto mi děl, já couvnuv vzad meč stříbrnohřebý  
 vrazil jsem do pochvy zpět.  
-                                                      Když temné krve se napil,  
+             Když temné krve se napil,  
 tehdáž ujal se slova a pravil neklamný věštec:  
 ‚Hledáš, vládyko slavný, svůj přesladký do vlasti návrat,  
 božstvo ti učiní jej však přetěžkým — nemyslímť, že bys  
@@ -205,10 +205,10 @@ dosud je ve tvém domě, a v žalosti plyne jí řada
 strastných nocí a dní, ana hojné prolévá slzy.  
      Nemá nižádný muž tvou důstojnost — užívá klidně  
 korunních statků tvůj syn.  
-                                                    Ten při všech hostinách řádných  
+             Ten při všech hostinách řádných  
 jídá, jako je slušno, by soudce se účastnil hostin,  
 neboť všickni ho zvou.  
-                                             Tvůj otec na venku mešká,  
+             Tvůj otec na venku mešká,  
 nechodě do města nikdy a nemá za lůžko k spánku  
 postel, ni pokrývek nemá a žádných koberců lesklých,  
 nýbrž za doby zimní si lehá s čeledí v domě  
@@ -251,7 +251,7 @@ pamatuj, abys i pak své choti to povědět mohl!‘
 
 ## Slavné ženy starověku
 
-                                                                                 Ejhle, tu přišly  
+                         Ejhle, tu přišly  
 ženy, jež Persefoneia mi poslala, velebná božka,  
 které bývaly kdys buď dcery neb manželky knížat.  
      Všecky kol temné krve se najednou hromadně sešly,  
@@ -304,7 +304,7 @@ kterou syn Amfitryónův měl za ženu, nezmorně silný.
      Sličnou též _Epikastu,_ z níž Oidipús vzešel, jsem spatřil,  
 která strašlivý čin kdys spáchala z nevědomosti:  
 vzalať si za chotě syna.  
-                                             Ten zabiv vlastního otce,  
+             Ten zabiv vlastního otce,  
 za choť ji vzal, však bozi ten čin hned roznesli v lidstvu.  
      Oidipús v rozmilé Thébě, ač veliké útrapy snášel,  
 Kadmovcům vladařil dále dle zhoubné úrady bohů.  
@@ -324,7 +324,7 @@ Každý ji v okolí muž chtěl za ženu — Néleus ji nechtěl
 nikomu dát než tomu, kdo silnému Ífiklu stádo  
 lesklé, širokých čel, zas vezme a z Fylaky nazpět  
 přižene — těžký to čin.  
-                                           Jen věštec bezvadný slíbil  
+                Jen věštec bezvadný slíbil  
 odehnat skot, však božský los jej zadržel krutý:  
 pouta to nadmíru tuhá a venkovští pastýři skotu.  
      Když pak pořadím dnové a měsíce ke konci spěli  
@@ -470,14 +470,14 @@ leželi v hodovní síni, a podlaha od krve vřela.
 Kassandry, kterou lstná tam zabila Klytaiméstra,  
 kleslou přes tělo mé — já k obraně zvedaje ruce,  
 spustil jsem k zemi je zpět, byv proboden.  
-                                                                                  Nestyda ta se  
+                         Nestyda ta se  
 odvrátí, nechtíc ani, ač měl jsem už do Hádu jíti,  
 rukama zavřít mi ústa a naposled zatlačit oči.  
      Pročež hroznějších tvorů ni drzejších nad ženu není,  
 která takové činy by ovšem smýšlela v duši,  
 jakož byla to ona, jež mrzký ten smyslila skutek,  
 zabivši manžela z mládí! — —  
-                                                        Vždyť já jsem vždycky si myslil,  
+             Vždyť já jsem vždycky si myslil,  
 že k svým vlastním dítkám i k čeledi domů se vrátím  
 k radosti všem — však žena, všech krutostí nad jiné znalá,  
 pohanu zjednala sobě, i pro všecky budoucí časy  
@@ -534,7 +534,7 @@ za věštbou Teiresiovou sem přicházím, zda by mi radu
 nějakou dal, jak v ithackou vlast bych skalnatou přišel.  
 Dosud v achajský kraj jsem nepřišel, ani jsem v naší  
 nevkročil zem, než pořád mám strast.  
-                                                                         Však nad tebe, reku,  
+                         Však nad tebe, reku,  
 nebyl šťastnější dříve, ni později, nižádný člověk:  
 neboť dokuďs byl živ, jak boha jsme všichni tě ctili,  
 teď, když v podsvětí dlíš, zas velkým jsi vladařem mrtvých,  

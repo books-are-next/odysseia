@@ -16,7 +16,7 @@ chtěje se do města vydat, a oslovil pastuchu svého:
 spatřila, neboť se bojím, že nenechá, jak si já myslím,  
 lkání hrozného dříve a kvílení plného pláče,  
 nežli mne samého spatří.  
-                                                 Však tobě zas ukládám toto:  
+             Však tobě zas ukládám toto:  
 tohoto nešťastného mi cizince do města zaveď!  
 _Tam_ ať si za jídlo žebrá! Tam podá mu, komu se zachce,  
 koflík vína i chléb. Já nemohu kdejaké lidi  
@@ -119,7 +119,7 @@ moudrá Pénelopeia tu počala mluviti takto:
 lehnout si na lůžko své, jež budí ve mně jen nářek,  
 slzami máčeno stále, co Odysseus k Íliu odplul  
 zároveň s Átreovci.  
-                                      Však ty jsi mi o otci dosud —  
+             Však ty jsi mi o otci dosud —  
 nežli ti ženiši zpupní by opět do domu vešli —  
 nedal podrobnou zvěst stran návratu — slyšel-li’s o něm.“
 
@@ -203,7 +203,7 @@ kláli pak tučné kozy a kláli i berany velké,
 kláli též krmené vepře a k tomu i jalůvku stádní,  
 takto si strojíce kvas.
 
-                                           Tou dobou z venkova právě  
+             Tou dobou z venkova právě  
 Odysseus s pastuchou vzorným již spěchali do města jíti.  
      Eumaios, pastuchů vůdce, tu počal mluviti takto:  
 „Když tedy dychtíš už dnes, jak vidím, milý můj hoste,  
@@ -223,7 +223,7 @@ děravou na četných místech, a provaz mu za popruh sloužil.
 Eumaios podal mu hůl, jež byla mu velice milá.  
 Vyšli. Psi hlídali stáje i ostatní pastýřští muži,  
 kteří zůstali doma.  
-                                     On do města uváděl pána,  
+                   On do města uváděl pána,  
 v podobě sešlého starce a žebráka plného bídy.  
 O hůl se opíral v chůzi a v zchátralé roucho byl oděn.  
 Chodci se kupředu brali, a cestou skalnatou jdouce,  
@@ -263,7 +263,7 @@ Odysseus nehnutě stál, však počal přemýšlet v srdci,
 má-li se na něj vrhnout a holí život mu vzíti,  
 nebo mu zvednout hlavu a potom jí o zemi praštit.  
 Zdržel se však, svůj ukrotiv hněv.  
-                                                                 Však pastucha vepřů  
+             Však pastucha vepřů  
 do očí počal mu lát. Pak modlil se, pozdvihnuv ruce:  
 „Rusalky vod, jichž otec je Zeus, ó jestliže někdy  
 ze stehen maso můj pán vám spálil z jehňat a kůzlat,  
@@ -288,7 +288,7 @@ Bez dlení služebníci část masa mu přinesli k jídlu,
 klíčnice ctná pak přinesla chléb, jejž na stolek dala,  
 k jídlu.
 
-              Vtom Odysseus sám tam přišel s pastuchou vzorným,  
+             Vtom Odysseus sám tam přišel s pastuchou vzorným,  
 avšak stanuli venku. Vtom náhle jim pronikl k sluchu  
 dutého varyta zvuk, když Fémios počínal zpívat.  
      Pastýře za ruku chopil a počal mluviti takto:  
@@ -392,7 +392,7 @@ Dokud Fémiův zpěv zněl komnatou, pojídal stále.
 
      Právě když dojedl všecko, tu pěvec přestával božský.  
 Ženiši v komnatě křik pak spustili.  
-                                                                   Zatím však Pallas  
+             Zatím však Pallas  
 Athéna přistoupla blíže, a stanuvši u Odysséa,  
 zvala ho k ženichům jíti a u všech chleba si sbírat,  
 aby tak poznat mohl, kdo zlý je, a který je slušný.  
@@ -410,7 +410,7 @@ já ho však neznám dobře, ni odkud pyšní se rodem.“
      Zvolal tu Antinoos a plísnil pastuchu vepřů:  
 „Pastucho — vždyť my tě známe — proč přivedl’s člověka toho  
 do města sem?! —  
-                                   Což není tu dost již tuláků jiných,  
+             Což není tu dost již tuláků jiných,  
 žebráků obtížných nám, již zbytečně oškliví hody.  
 Nemáš-li dost, když plno je těch, již pánovo jmění  
 tráví, chodíce sem — tys ještě i tohoto pozval?“  
@@ -448,7 +448,7 @@ o kterou, při hodech sedě, si lesklé opíral nohy.
      Druzí mu dávali všichni, že zakrátko mošnu měl plnou  
 chleba i hojného masa.
 
-                                             A brzy již Odysseus hodlal  
+             A brzy již Odysseus hodlal  
 opět se ku prahu vrátit, by okusil Achaiů dary.  
 Stanul však u Antinoa a těmito slovy se ozval:  
 „Také mi, milený, dej, vždyť nijak se nejhorším nezdáš  
@@ -474,7 +474,7 @@ vraždíce každého muže. — Ryk záhy byl uslyšen v městě.
 Ti tedy slyšíce křik, hned po ránu, s úsvitem Zory,  
 přišli, a celá se pláň jen hemžila mužstvem a koni,  
 leskem se třpytila zbraň.  
-                                                 Vtom Kronovec bleskovládce  
+             Vtom Kronovec bleskovládce  
 seslal na druhy mé zlou zděšenost. Odvahy neměl  
 nikdo se postavit vstříc, vždyť zevšad hrozila zhouba.  
 Tenkrát přemnohý z nás byl břitkým usmrcen kovem,  
@@ -583,7 +583,7 @@ jaký Odysseus býval, by od domu odvrátil zhoubu.
 rázem by se synem svým těch mužů násilí ztrestal!“  
      Pravila. Télemachos vtom hlasitě kýchl, že vůkol  
 bouřlivě zaduněl dům. —  
-                                                 Hned kněžna se usmála tomu,  
+             Hned kněžna se usmála tomu,  
 ke svému pastýři vepřů pak pravila perutná slova:  
 „Jdi tam pro toho hosta a přiveď ho — před oči takto!  
 Neslyšel’s, jak můj syn teď ke všem slovům mým kýchl? —  

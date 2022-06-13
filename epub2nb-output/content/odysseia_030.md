@@ -42,7 +42,7 @@ Ihned zavřít šla síň, jež vhodná k bydlení byla.
      Vládce a slavný syn pak kvapně se vzchopivše s místa,  
 nosili z komnaty přilby a pavézy vypouklé v středu,  
 jakož i ostrá kopí.  
-                                   Šla před nimi bohyně Pallas,  
+             Šla před nimi bohyně Pallas,  
 svícen ze zlata nesouc, a šířila překrásné světlo.
 
      Tenkráte Télemachos se ozval narychlo k otci:  
@@ -71,7 +71,7 @@ Moudrá tu Pénelopeia se blížila z komnaty ženské,
 sličností Artemidě neb zlaté Kypřance rovná.  
      K ohni, kde sedala jindy, jí komorné lenošku daly,  
 zdobenou stříbrem a sloní kol dokola.  
-                                                                           Kdysi ji zrobil  
+             Kdysi ji zrobil  
 umělec Ikmalios a připojil podnožku vespod,  
 k židli ji připevniv ztuha — a navrch se dávalo rouno.  
      Moudrá Pénelopeia si na tuto lenošku sedla.
@@ -133,7 +133,7 @@ kdo by tě pohanět směl — tvá sláva až do nebe sahá.
 Takovou slávu má král, muž bez vady, pobožné mysli,  
 který jsa četných mužů, a silných, v národě vládcem,  
 vždycky je ochráncem práva.  
-                                                         I nese mu ornice černá  
+                         I nese mu ornice černá  
 pšenici hojnou a ječmen, a stromy jsou ovoce plny,  
 brav se mu napořád rodí a ryby mu dodává moře,  
 ježto je šlechetným vládcem a lidem dobře je pod ním.  
@@ -209,7 +209,7 @@ statného Deukalióna to otec, mého to otce,
 neboť tento mě zplodil a vladaře Ídomenéa.  
 Ten však na křivých lodích se vzdálil do země trójské  
 zároveň s Átreovci.  
-                                      Mé slavné jméno je Aithón.  
+             Mé slavné jméno je Aithón.  
 Já byl mladší než bratr — on starší a nade mne lepší.  
      V Knósu jsem také spatřil a pohostil manžela tvého,  
 neboť na Krétu též byl zahnán vichřicí prudkou,  
@@ -237,7 +237,7 @@ Zefyros nasype všude a pak jej rozpustí Euros,
 ale když nastane tání, tu řeky se zvlní a proudí:  
 takto se jí též máčela tvář, když ronila slzy  
 nad mužem svým, jenž přítomen byl.  
-                                                                         Však hrdina sice  
+                      Však hrdina sice  
 se svou plačící chotí měl soucit v hlubinách srdce,  
 přece však oči jak roh neb železo ztuha mu stály  
 nehnutě v očních víčkách — on z úmyslu ukrýval slzy.
@@ -260,7 +260,7 @@ dvojitý, na plášti tom pak ze zlata zrobena byla
 jehlice s rourkami dvěma, a vpředu byl umělý výtvor:  
 v předních pařátech psích byl svírán skvrnitý jelen,  
 pevně, ač vyrvat se dychtil.  
-                                                     I hleděl s podivem každý,  
+             I hleděl s podivem každý,  
 kterak, ač ze zlata jen, ten pes jej zardousit hleděl,  
 jelen pak nohama třepal a hleděl psovi se vymknout.  
 Potom suknici lesklou jsem spatřil na jeho těle:  
@@ -277,7 +277,7 @@ bronzový meč jsem přidal a suknici vroubenou kolem.
 Na lodi pokryté pevně jsem potom ho propustil s úctou.  
      Také provázel jej kýs hérold, o něco starší  
 věkem.  
-               Tohoto též, jak vypadal, popíši tobě:  
+             Tohoto též, jak vypadal, popíši tobě:  
 Okrouhlá ramena měl, byl snědý, kadeří hustých,  
 Eurybatés slul jménem, a Odysseus zvlášť si ho vážil  
 nad jiné soudruhy své. Byl pánovi upřímně oddán.“  
@@ -291,7 +291,7 @@ budeš velice milý a ctěný v paláci našem.
 Šat ten sama mu já kdys poskytla, o kterém mluvíš,  
 z šatnice, složila jej — též přidala jehlici třpytnou,  
 aby mu ozdobou byla.  
-                                            Však jeho už nespatřím více,  
+             Však jeho už nespatřím více,  
 neboť se nevrátí domů a do země otcovské nikdy.  
 Nešťastná hodina ona, kdy odplul na duté lodi  
 spatřit tu kletou Tróju, již bez žalu vyslovit nesmím.“
@@ -304,16 +304,16 @@ Mnohá pro muže lká, jenž jejím chotěm byl z mládí,
 dítky mu zrodivši v lásce — i kdyby tak výtečný nebyl  
 jako byl Odysseus tvůj, jenž bohům roven prý býval.  
 Avšak přestaň už lkát!  
-                                            Teď poslyš, co ti chci říci!  
+                  Teď poslyš, co ti chci říci!  
 Povím ti neklamně všecko a ničeho zatajit nechci:  
 Odysseus _vrátí se_ zas — já sám jsem vyprávět slyšel,  
 blízko že v žírném kraji, kde bydlí thesprótští muži,  
 žije tvůj choť. — Též pokladů dost, prý vzácných, si veze,  
 které po kraji shání.  
-                                        Však pozbyl na moři třpytném  
+             Však pozbyl na moři třpytném  
 všechněch soudruhů věrných a s nimi duté své lodi,  
 plavě se od Thrínakie.  
-                                            Bylť Kronovec rozhněván na něj  
+             Bylť Kronovec rozhněván na něj  
 prudce, a Hélios zvlášť, když druzi mu pobili krávy.  
 Na moři bouřlivých vln zlá záhuba stihla je všecky.  
      On však na trámu lodním byl vlnou vyvržen na břeh  
@@ -321,7 +321,7 @@ ostrova faiéckých mužů, již rodem blízcí jsou bohům.
 Tito jej přijali rádi a poctili, jako by bůh byl,  
 mnohé dary mu dali a chtěli ho vypravit sami  
 bezpečně k domovu zpět.  
-                                                  Již dávno by Odysseus tady  
+             Již dávno by Odysseus tady  
 najisto byl — však mnohem se líp as v mysli mu zdálo  
 chodit po mnohých zemích a sbírat poklady hojné.  
 _Tak_ totiž nad jiné lidi je Odysseus pamětliv toho,  
@@ -365,7 +365,7 @@ aby tak v pěkném teple se dočekal zlatotrůnné
 Jitřeny. Ráno pak časně jej umyjte, natřete mastí,  
 aby pak s Télemachem zde v paláci posnídat mohl,  
 v mužské komnatě sedě.  
-                                                Tím hůře se povede tomu,  
+             Tím hůře se povede tomu,  
 kdo by ho lstí chtěl klamat, a sužovat — potom už tady  
 nesvede docela nic, byť velice nad tím se horšil.  
      Jakpak bys poznal, hoste, že nějak nad jiné ženy  
@@ -403,7 +403,7 @@ odevzdán v náručí její, jak jednou ho zrodila matka.
 Ovšemže jest už slabá — však nohy ti umyje přece.  
      Rozumná Eurykleio, teď povstaň a cizince umyj,  
 který vládyky tvého je vrstevník.  
-                                                                Odysseus možná  
+             Odysseus možná  
 také takové nohy už má, má takové ruce;  
 lidé stárnou záhy, když neštěstí ubohé tiskne!“
 
@@ -425,7 +425,7 @@ moudrá Pénelopeia teď vyzvala — k radosti mojí.
      Proto ti umyju nohy i po vůli královny samé,  
 avšak i po vůli tvé — vždyť hněv se mi v hlubinách srdce  
 vzbouřil.  
-                 Teď výpověď mou však vyslechni, kterou ti řeknu:  
+             Teď výpověď mou však vyslechni, kterou ti řeknu:  
 Přišloť přemnoho k nám již cizinců zkoušených těžce,  
 avšak podoby té, jak myslím, nižádný neměl  
 s vladařem, jako je tvoje, i nohama, vzrůstem i hlasem.“
@@ -440,7 +440,7 @@ jako sis _ty_ též všimla, jak právě’s pravila sama.“
 Řekl, a stará služka se třpytné chopila mísy,  
 na které mývala nohy, a vlila tam studené vody  
 hojně, pak přilila horké.  
-                                               Však Odysseus slavný si sedl  
+                         Však Odysseus slavný si sedl  
 poněkud od krbu dále a rychle se obrátil k přítmí,  
 neboť tušení zlé jej pojalo, až se ho dotkne,  
 ihned že pozná ránu, a všecko že najevo vyjde.  
@@ -463,7 +463,7 @@ milému dceřinu synku, jenž velmi je žádoucí tobě!“
 Poněvadž jsem k vám přišel, jsa rozhněván na mnoho lidí,  
 mnohé muže a ženy, co žijí na zemi žírné,  
 proto mu název Hněvoš buď příjmením.  
-                                                                               Ale až jednou  
+             Ale až jednou  
 věkem dospěje hoch, nechť ve velký mateřský palác  
 zavítá na Parnésos, kde hojné mi poklady leží.  
 Z těchto mu věnuji dar, s nímž v radosti pošlu ho domů.“
@@ -506,10 +506,10 @@ hustý, a hromada listí tam ležela nesmírně velká.
 jak se tam za lovem brali. — Vepř zježiv štětiny šíjní,  
 naproti vyrazil z houští, a ohněm mu svítily oči.  
 Stanul poblíže nich.  
-                                       Svou pravicí Odysseus pádnou  
+                Svou pravicí Odysseus pádnou  
 dlouhé napřáhl kopí a první se rozehnal po něm,  
 dychtiv zabíti jej.  
-                                  Vepř, vyskočiv, hrdinu dříve  
+             Vepř, vyskočiv, hrdinu dříve  
 nad samým kolenem kousl a vyrval mu velký kus masa,  
 vrhnuv se od boku naň, však do kosti nevnikly zuby.  
      On však bodl ho dřevcem a do plece pravého ranil.  
@@ -524,7 +524,7 @@ zdrželi krve mu proud. Pak v otcův se vrátili domov.
 Když pak ho zhojili řádně a skvostné dary mu dali,  
 s chvatem do vlasti zpět jej poslali, šťastného šťastní,  
 do rodné ithacké země.  
-                                              Tu otec a velebná matka  
+             Tu otec a velebná matka  
 plesali z návratu jeho a na všecky věci se ptali,  
 odkud ránu tu má — on všecko jim vyložil správně,  
 jak mu ji bílým klem byl na lovu zasadil kanec,  
@@ -532,7 +532,7 @@ tenkrát, když na Parnésos se vypravil s Autolykovci.
 
      Ránu tu stará služka, když rukama chopila nohu,  
 poznala hned, jak dotkla se jí — —  
-                                                                Hned pustila nohu:  
+             Hned pustila nohu:  
 na mísu dopadlo lýtko a kovový řinkot se ozval;  
 zvrhla se na druhou stranu, a voda se vylila na zem.  
      Stejně ji radost i žal hned naplnil, slzami rázem  
@@ -545,12 +545,12 @@ poněvadž nemohla dřív má ruka tě ohmatat řádně.“ —
 chtějíc jí znamení dáti, že milý manžel je doma.  
      Té však nebylo možná tam pohledět ani nic tušit,  
 ježto jí odvrácen duch byl Palladou.  
-                                                                      Odysseus rychle  
+                   Odysseus rychle  
 rukou jí nahmatal hrdlo, a pravicí pevně ji chopiv,  
 levicí přitáhl k sobě a těmito slovy se ozval:  
 „Pročpak mě zničiti chceš, má matičko? — Sama’s mě přece  
 chovala na těchto ňadrech!  
-                                                     Já mnohé vytrpěv strasti,  
+             Já mnohé vytrpěv strasti,  
 konečně v dvacátý rok teď v otcovskou zemi jsem přišel.  
 Když však’s to poznala již, když bůh ti to do srdce vštípil,  
 mlč mi, ať vůbec nikdo se o tom nedoví v domě!  
@@ -630,7 +630,7 @@ zobaly pšenici zas tam ze žlabu jako vždy jindy!“
 „Nemůže, královno ctná, když sen tvůj kdo vykládá správně,  
 jiný smysl mu dát: sám Odysseus označil tobě,  
 kterak to hodlá provést.  
-                                               Již blíží se ženichům zkáza,  
+                         Již blíží se ženichům zkáza,  
 všechněm, a nikdo se z nich již nevyhne osudu smrti.“
 
      Moudrá Pénelopeia mu na to zas odpověď dala:  
@@ -650,7 +650,7 @@ ač bychom, já i můj syn, jej vítali s radostí velkou.
      Jinou ti věc však povím, ty hleď si ji do mysli vložit!  
 Hleď, již proklaté jitro jest nablízku, které mě navždy  
 vzdálí z mužova domu:  
-                                              Teď hodlám zavésti zápas,  
+             Teď hodlám zavésti zápas,  
 totiž sekyry ony, jež Odysseus stavíval řadou  
 asi jak korábní koly, zde v paláci, dvanácte celkem,  
 potom se daleko vzdáliv, skrz otvory sekyr těch střílel.  

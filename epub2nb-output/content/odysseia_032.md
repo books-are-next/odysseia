@@ -45,7 +45,7 @@ v počátek družného svazku a přátelství, avšak se potom
 nesešli u stolu již — bylť usmrcen Hérákléem  
 Ífitos, Eurytův syn, muž rovný nesmrtným bohům.  
      Ten mu to lučiště dal.  
-                                                Však nikdy ho Odysseus slavný  
+             Však nikdy ho Odysseus slavný  
 nebral, když na lodích černých se plavil do války k boji,  
 nýbrž na témže místě byl na paměť přítele jeho  
 milého uschován v domě. Jen ve své zemi ho nosil.  
@@ -56,9 +56,9 @@ na něm pak vztyčil prahy a lesklé připojil dveře.
      Rychle tam odpletla řemen, jenž na kruhu přivázán visel,  
 potom vsunula klíč, chtíc odstrčit závory dveřní,  
 naproti přímo se oprouc.  
-                                                  I zařvaly, jako když v trávě  
+             I zařvaly, jako když v trávě  
 zabučí na pastvě býk.  
-                                           Tak prudkým nárazem klíče  
+             Tak prudkým nárazem klíče  
 krásné zařvaly dveře a rychle se rozlítly před ní.  
      Na patro vystoupla potom, ač vysoké, na kterém stály  
 truhly, v nichž ležela roucha a libou šířila vůni.  
@@ -102,12 +102,12 @@ v prsou královně srdce?! Vždyť beztoho srdce jí v hrudi
 noří se ve velký žal, když milého ztratila chotě!  
 Buď však seďte tu zticha a hodujte, nebo se kliďte  
 odtud a plačte si venku!  
-                                               Však lučiště zanechte tady  
+             Však lučiště zanechte tady  
 k zápasu neškodnému nám ženichům, neboť si myslím,  
 tento že hlazený luk tak snadno se napnouti nedá,  
 poněvadž takový muž z nás všechněch jistě tu není,  
 jaký Odysseus býval.  
-                                          Já sám jsem kdysi ho viděl.  
+                        Já sám jsem kdysi ho viděl.  
 Dobře ho na mysli mám, ač hoch jsem byl maličký ještě.“  
      Takto mu děl, však ve hrudi duch měl naději jistou,  
 strunu že přec jen napne a prostřelí sekyry šípem.  
@@ -138,7 +138,7 @@ nachový plášť, pak břitký meč s svých ramenou sundav,
 postavil sekyry nejprv, když v podlaze vyhloubil rýhu —  
 dlouhou, společnou všem, již srovnal přímo dle šňůry,  
 kolem pak udupal zemi.  
-                                               To vidouce, užasli všichni,  
+             To vidouce, užasli všichni,  
 kterak je postavil rovně, ač nikdy to neviděl předtím.  
 Šel pak a na prahu stanul a lučiště rukama zkoušel.  
 Třikrát sice jím hnul, jak dychtil přitáhnout konce,  
@@ -170,11 +170,11 @@ Ten tedy rychlou šipku a lučiště uchopil první,
 šel pak a na prahu stanul a lučiště rukama zkoušel,  
 avšak ho nemohl napnout, vždyť dříve mu zemdlely ruce,  
 měkké, neotužené.  
-                                     I pravil k ženichům toto:  
+             I pravil k ženichům toto:  
 „Přátelé, nejsem s to! Nechť jiný lučiště chopí!  
 Neboť tento zde luk tak mnohé ženichy přední  
 života zbaví i duše!  
-                                      Jest opravdu o mnoho lépe  
+             Jest opravdu o mnoho lépe  
 po smrti být než žíti a toho se minouti cíle,  
 za kterým chodíme sem, den ze dne však čekáme marně.  
 Leckdos ještě i teď má naději v srdci a touží  
@@ -182,7 +182,7 @@ za svou ženu si vzít choť vládcovu, Pénelopeiu.
      Kdo však luk ten zkusí a jednou prohlédne dobře,  
 — ó pak raději jinou si Achajku, oděnou krásně,  
 za dary získati hleď!  
-                                        Nechť královna naše si vezme  
+             Nechť královna naše si vezme  
 toho, kdo dá jí nejvíc a osudem určen jí přijde!“  
      Tak jim Leiódés děl. Pak z rukou lučiště složiv,  
 o dveře sklížené pevně a hlazené krásně je opřel,  
@@ -192,7 +192,7 @@ na křeslo, s kterého vstal, hned potom se posadil opět.
      Antinoos jej plísnil a těmito promluvil slovy:  
 „Jaká ti, Leióde, řeč teď vyklouzla z ohrady zubů,  
 hrozná, budící bol!  
-                                     Já slyše to, velmi se horším,  
+             Já slyše to, velmi se horším,  
 vskutku-li tuhleten luk má mnohé šlechtice přední  
 života zbavit a duše — že _ty_ jej nestačíš napnout!  
 Ty ovšem z velebné matky ses nezrodil takovým mužem,  
@@ -260,7 +260,7 @@ kdyby jich Odysseus sám byl nezdržel, takto se ozvav:
 neviděl z komnaty vyjda, a druhým to neřekl dovnitř!  
 Vraťte se! Každý však zvlášť tam půjdeme, nikoli všichni:  
 nejprve já, pak vy!  
-                                    Však toto vám pokynem budiž:  
+             Však toto vám pokynem budiž:  
 ostatní totiž všichni, co tady jsou, ženiši zpupní,  
 nesvolí, aby ten toul též _mně_ byl s lučištěm podán.  
 Ty ale, Eumaie vzorný, to lučiště komnatou nesa,  
@@ -329,20 +329,20 @@ kdo by je hltavě požil a nedbal píti je s mírou.
 Vínem i Eurytión byl omámen, přeslavný Kentaur,  
 v paláci Peirithoově, jenž chrabrým hrdinou býval,  
 tehdy, když k Lapithům přišel.  
-                                                            Ten vínem zmámiv si mysl  
+             Ten vínem zmámiv si mysl  
 z opilství v knížecím domě se špatných dopustil činů.  
 Řeků zmocnil se žal.  
-                                        Hned povstali se svého místa,  
+             Hned povstali se svého místa,  
 vlekli jej předsíní ven, kdež krutým uřízli kovem  
 opilci uši a nos.  
-                              Ten, protože smysly si zmámil,  
+             Ten, protože smysly si zmámil,  
 vlastní vinu si svou pak v zbloudilé odnášel mysli.  
 Z toho se Kentaurů boj pak s Lapithy vyvinul, hrozný.  
 On však nejdřív sám vzal pohromu, opiv se vínem.  
 Také tobě ten zmar teď zvěstuji: Kdybys měl napnout  
 tuhleten luk, pak vlídnosti již bys nenašel nikde  
 v celém národě našem.  
-                                             My na svém korábu černém  
+                        My na svém korábu černém  
 pošlem tě k Echetu králi, všech lidí strašnému zhoubci.  
 Odtamtud nikterak zdráv už nevyjdeš. Raději klidně  
 pij, však s mladšími muži se nechtěj pouštěti v zápas!“
@@ -411,7 +411,7 @@ strachem, vždyť veliký dav naň křičel po celé síni.
      S pohrůžkou Télemachos naň s druhé vykřikl strany:  
 „Tatíčku, nes luk dál, sic pochodíš velice špatně,  
 budeš-li poslouchat všech!  
-                                                    Já kamením poženu tebe  
+             Já kamením poženu tebe  
 na venkov. Jsem sic mladší, však silou nad tebe předčím.  
 Kéž bych vynikal tak, jak nad tebe, silou a rukou  
 nad tyto ženichy všecky, co v našem meškají domě,  
@@ -421,7 +421,7 @@ z našeho paláce ven, vždyť špatné věci tu páší!“
      Vzkřikl, a nad tou hrozbou se od plic rozesmál všechen  
 ženichů sbor — čímž prudký hněv z nich znenáhla mizel —  
 na Télemacha.  
-                             Tu pastucha luk zas komnatou nesa,  
+             Tu pastucha luk zas komnatou nesa,  
 přistoupil k chrabrému vládci a hned mu jej do rukou vložil.
 
      Pěstounku Eurykleiu pak zavolav, toto jí pravil:  
@@ -439,7 +439,7 @@ z byblu. Tím přivázal vrata a potom vrátiv se dovnitř,
 na židli, se které povstal, se potom posadil opět,  
 zíraje na Odysséa.
 
-                                    Ten lučiště obracel v rukou,  
+                 Ten lučiště obracel v rukou,  
 toče jím na všecky strany a zkoumaje semo i tamo,  
 není-li rozžráno červy, když Odysseus z domu byl vzdálen.  
      Takto pak pravil ten onen a na svého pohlédl druha:  
@@ -451,7 +451,7 @@ otáčí semo i tamo — ten poběhlík v špatnostech zběhlý!“
 „Jenom ať takový zdar jej potká v životě jeho,  
 jakože on, ten dědek, kdy takové lučiště napne!“  
      Taková byla jich slova.  
-                                                  Však Odysseus důvtipné mysli,  
+             Však Odysseus důvtipné mysli,  
 hned jak lučiště zdvihl a zevšad prohlédl dobře —  
 jako si pokaždé muž, jenž loutny a zpěvu je znalý,  
 lehounko natáhne strunu a napne ji na nový kolík,  
@@ -462,7 +462,7 @@ krásný vydala tón, jsouc vlaštovce podobna hlasem.
 
      V ženiších veliký žal byl probuzen. Všechněm tu rázem  
 pobledla tvář.  
-                            Dal znamení Zeus svým zahřměním silným.  
+             Dal znamení Zeus svým zahřměním silným.  
      Zaplesal Odysseus slavný, jenž tolik zápasů přestál,  
 že mu syn lstivého Krona tím zahřměním znamení dává.  
 Rychlý tu uchopil šíp, jenž ležel na stole před ním,  
@@ -473,7 +473,7 @@ na židli, na které seděl, a vypustil s lučiště šipku,
 přímo jí před sebe míře. I nechybil sekyry žádné.  
 Naopak, otvorem prvním a všemi pak prolétl veskrz  
 těžký, kovaný šíp.  
-                                   Pak pravil k synovi takto:  
+             Pak pravil k synovi takto:  
 „Télemachu, ten cizák ti nikterak nedělá hanbu,  
 v domě jsa tvém. Já cíle se nechybil. Též jsem se dlouho  
 nepachtil napjetím luku. Mám pevnou doposud sílu,  
@@ -483,7 +483,7 @@ dokud je den, však potom je čas též jinak se bavit,
 zpěvem a varyta hrou, neb tyto jsou okrasou kvasu.“
 
      Řekl a obrvím kývl.  
-                                           Tu ostrým se opásal mečem  
+             Tu ostrým se opásal mečem  
 milený Télemachos, jejž božský Odysseus zplodil,  
 kopí do ruky chopil a potom se postavil otci  
 u samé lenošky po bok, jsa lesklou opatřen zbraní.

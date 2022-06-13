@@ -25,10 +25,10 @@ Rázem pronikl šíp skrz naskrz měkounkým hrdlem.
 Ihned skácel se naznak, byv zasažen, z ruky mu sama  
 na zem vypadla číše, a současně temný proud krve  
 vyrazil jinochu z nozder.  
-                                                Hned odstrčil od sebe stolek,  
+             Hned odstrčil od sebe stolek,  
 udeřiv do něho nohou, a shodil pokrmy na zem.  
 Krví se maso i chléb tím třísnily.  
-                                                               Ženiši všichni  
+             Ženiši všichni  
 po domě ztropili hluk, když klesnout viděli muže.  
 Každý tu, úděsu pln, hned se své vyskočiv židle,  
 po domě, po pevných stěnách se rozhlížel na všechny strany,  
@@ -94,10 +94,10 @@ však by pak tuhleten muž již naposled vystřelil šipku!“
      Takou promluvil řeč. Pak meč svůj vytasiv ostrý,  
 z bronzu, jenž s obou stran byl nabroušen, vrhl se na něj,  
 strašný vyraziv křik.  
-                                         Tou dobou Odysseus slavný  
+                         Tou dobou Odysseus slavný  
 vystřelil šíp, jímž ranil ho v hruď blíž bradavky prsní.  
 Do jater rychlý šíp byl zaražen.  
-                                                             Z pravice rázem  
+             Z pravice rázem  
 na zemi upustil meč — pak překotem přes stůl se skácev,  
 upadl, v půli se prohnuv, a shodil pokrmy na zem,  
 shodil i dvouuchou číši a čelem do země tloukl,  
@@ -183,12 +183,12 @@ dveře a vypátrat hleď, zdaž některá žena to páše!
 
      Opět pastucha koz šel nazpět do zbrojní síně,  
 přinést chtě krásnou zbroj.  
-                                                     Jej zahlédnuv pastucha vzorný,  
+                         Jej zahlédnuv pastucha vzorný,  
 chvatně děl k Odysséovi, jenž stál tam nablízku něho:  
 „Zchytralý Odyssée, ty z Láerta vládyko jasný,  
 zas ten záhubný chlap, jak sami jsme tušili dříve,  
 spěchá do zbrojní síně!  
-                                             Teď pověz mi neklamnou pravdu,  
+             Teď pověz mi neklamnou pravdu,  
 zdali ho zabíti mám, když nad ním zvítězím ovšem,  
 či ti ho mám sem přivést, by za své přestupky pykal,  
 četné, jež ničema ten v tvém paláci zosnoval dosud!“  
@@ -202,7 +202,7 @@ do výše po dlouhém sloupě ho táhněte ke stropním trámům,
 aby byl naživě dlouho a kruté útrapy snášel!“  
      Řekl, i poslechli hned, vždyť velmi to slyšeli rádi.  
 Odešli do zbrojní síně.  
-                                            Jsa uvnitř, netušil jejich  
+             Jsa uvnitř, netušil jejich  
 vstupu a v zákoutí síně se sháněl po zbroji právě.  
 Oni tam stanuli venku a číhali po stranách vchodu.  
 Právě když pastýř koz již vycházel, Melanthios,  
@@ -538,7 +538,7 @@ nestál v komnatě takto — vždyť to by ti dělalo hanbu.“
 „Oheň ze všeho nejdřív mi v komnatě rozdělán budiž!“  
      Poslechla Eurykleia, ta milá pěstounka jeho,  
 ihned síru a oheň mu přinesla.  
-                                                           Odysseus rychle  
+             Odysseus rychle  
 vykouřil komnatu mužskou i ostatní palác a dvorec.  
      Stařenka Eurykleia skrz vládcovu komnatu krásnou  
 ženám šla oznámit rozkaz, by ke svému vladaři přišly.  
@@ -546,7 +546,7 @@ vykouřil komnatu mužskou i ostatní palác a dvorec.
 všecky se skupily kolem a vítaly Odysséa:  
 ihned ruce mu tiskly a líbaly hlavu a plece,  
 vlídně ho pozdravujíce.  
-                                              Tu sladká ho jímala touha,  
+                         Tu sladká ho jímala touha,  
 že až vzlykal a slzel a všecky je poznával v mysli.
 
 </section>

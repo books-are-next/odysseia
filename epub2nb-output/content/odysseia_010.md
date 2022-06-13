@@ -28,7 +28,7 @@ věkem už shrbený stařec a nadmíru zkušený člověk.
 Tohoto milený syn v zem trójskou bohatou koňmi  
 s božským kdys Odysséem se vzdálil na dutých lodích,  
 Antifos, kopiník statný.  
-                                             Jej divý usmrtil Kyklóps,  
+             Jej divý usmrtil Kyklóps,  
 v klenuté jeskyni své, když poslední hody si chystal.  
 Synů ještě měl tré: z nich jeden se s ženichy stýkal,  
 Eurynomos, dva druzí si hleděli otcova statku.  
@@ -43,7 +43,7 @@ Slyšel snad nějakou zprávu, že vojsko již domů se vrací,
 již by nám pravdivě řekl, když dříve se dověděl o ní?  
 Říci chce něco stran obce a promluvit veřejně o tom?  
      Šlechetný zdá se mi být — buď požehnán!  
-                                                                                     Kéž by mu ráčil  
+             Kéž by mu ráčil  
 ke zdaru obrátit Zeus, oč ve svém srdci se snaží!“
 
      Milý syn Odysséův se těšil z té příznivé řeči.  
@@ -70,7 +70,7 @@ nýbrž do domu k nám den ze dne si uvykli chodit,
 dávají porážet krávy i tučné ovce a kozy,  
 strojíce bujné hody a pijíce jiskrné víno,  
 drze — a zásoby mé jsou mrhány.  
-                                                                Neníť tu muže,  
+                         Neníť tu muže,  
 jaký Odysseus býval, by od domu odvrátil zhoubu.  
 My však nemůžem sami ji odvrátit. Avšak i pozdě  
 budem soucitu hodni a nezběhlí v obraně rázné.  
@@ -87,7 +87,7 @@ v samotě nýt! — Což tatíček můj, váš Odysseus dobrý,
 ukřivdil v úmyslu zlém vám Achaiům holení krásných,  
 že mi zas v úmyslu zlém teď příkoří činíte z pomsty,  
 tyto zde podněcujíce?  
-                                           Mně mnohem bylo by lépe,  
+             Mně mnohem bylo by lépe,  
 kdybyste majetek můj, má stáda mi snědli vy sami.  
      Kdybyste _vy_ mi je snědli, pak brzy bych náhradu dostal.  
 Potud po celém městě bych domluvou naléhal na vás,  
@@ -141,7 +141,7 @@ Alkména, neměla Tyró ni Mykéné s čelenkou krásnou.
 neboť potud ti živnost a jmění budeme trávit,  
 pokud setrvá máť v svém smýšlení, které jí nyní  
 bohové vkládají v hruď!  
-                                               Sic velkou sobě tím slávu  
+             Sic velkou sobě tím slávu  
 zjednává, avšak tobě jen velkou po jmění touhu.  
      My však do domů svých dřív nepůjdem, ani kam jinam,  
 dokud si nevezme toho, kdo z Achaiů by se jí líbil.“
@@ -157,7 +157,7 @@ hrozný, z domova jdouc. Též lid by mě pohanou stíhal.
 Já tedy takových slov své rodičce neřeknu nikdy.  
      Váš-li však vlastní duch má do sebe poněkud studu,  
 opusťte již můj dům!  
-                                         Zas jinde si hostiny strojte!  
+             Zas jinde si hostiny strojte!  
 Vlastní jmění si travte a jeden druhého hosťte!  
      Pakliže však se vám zdá být vhodnější toto a lepší,  
 jmění _jednoho_ muže a beze vší náhrady mařit,  
@@ -188,7 +188,7 @@ daleko od milých svých as nebude, nýbrž tu někde
 nablízku jest — ten vraždu a smrt již ženichům všechněm  
 chystá! — I mnohým jiným se pohromou stane, kdo tady,  
 v Ithace patrné z dálky, má obydlí.  
-                                                                   Z příčiny této  
+             Z příčiny této  
 snažme se zkrotiti pych těch ženichů! — Oni však sami  
 dříve by měli se krotit — a lépe to učinit ihned!  
 Nevěštím bez zkušenosti, jsemť věšteb výborně znalý,  
@@ -205,7 +205,7 @@ dětem si svým, ať nějaká strast jich nestihne příště!
 Věci ty o mnoho líp já sám jsem vyložit schopen.  
 Hojnost všelikých ptáků se prohání pod září slunce,  
 není však každý pták přec věštecký! —  
-                                                                           Odysseus jistě  
+                         Odysseus jistě  
 v cizině za své už vzal — však ty’s měl zahynout také,  
 s ním — pak nemoh’ bys nám těch věšteb tolik tu hlásat,  
 drážditi Télemacha, jenž beztoho hněvu je plný —  
@@ -223,7 +223,7 @@ Doma jí vystrojí svatbu a také jí přehojné dary
 dají, které, jak slušno, pak dostane za věno dcera.  
 Neboť dříve, jak myslím, se achajští synové sotva  
 zřeknou těch obtížných námluv.  
-                                                               My z nikoho nemáme strachu,  
+             My z nikoho nemáme strachu,  
 ani ne z Télemacha, ač dar má jazyka velký.  
      Nedbáme docela nic tvých proroctví, která nám, starče,  
 vykládáš, docela planá — a jen se nám zprotivíš více.  
@@ -251,7 +251,7 @@ dám mu tam nasypat hrobku a vzdám mu i pohřební oběť,
 přehojnou, jako je slušno, a matku pak za muže provdám.“  
      Takto děl Télemachos a usedl.
 
-                                                                  V středu jich povstal  
+             V středu jich povstal  
 Mentor, jejž bezvadný král kdys míval důvěrným druhem.  
 Jemu, když odjížděl s loďmi, vše v domě svém svěřil a velel,  
 aby byl poslušen starce a všeho mu bezpečně chránil.  
@@ -299,7 +299,7 @@ Avšak ve všem tomto mi Achajci překážky činí,
 ze všech však ženiši nejvíc, již velké jsou zpupnosti plni.“  
      Těmito prosil slovy.
 
-                                                Vtom Pallas přistoupla zblízka,  
+             Vtom Pallas přistoupla zblízka,  
 Mentoru podobna jsouc jak postavou těla, tak hlasem.  
 Potom se ozvala takto a pravila perutná slova:  
 „Nebudeš, Télemachu, ni později špatný a hloupý,  
@@ -407,12 +407,12 @@ načež, hlasitě štkajíc, mu pravila perutná slova:
 „Proč jen, synáčku můj, ten nápad ti na mysl přišel?  
 Jakpak můžeš jen chtít tak daleko do světa jíti,  
 jediný milený syn?  
-                                     Již zahynul daleko vlasti  
+             Již zahynul daleko vlasti  
 Odysseus vznešený rodem kdes v neznámých končinách světa! —  
      Oni ti nástrahy zlé, jak vyjdeš, vymýšlet budou,  
 abys jich úklady zhynul, a všecko ti pobrali jmění.  
 Zůstaň tu jen, seď v majetku svém!  
-                                                                    Vždyť nemusíš snášet  
+             Vždyť nemusíš snášet  
 na mořské nezmarné pláni zlé útrapy, ani tam bloudit.“  
      Rozumný Télemachos jí na to dal odpověď tuto:  
 „Matičko, neboj se nic, ten záměr bez bohů není.  
@@ -439,7 +439,7 @@ zvouc je, by k rychlé lodi se navečer hromadně sešli.
 když mu již do moře loď dal spustit a náčiní do ní  
 složil, jímž pokrytý pevně vždy ve svém nitru má koráb,  
 na kraji přístavu loď pak zakotvil.  
-                                                                  Druhové zdatní  
+                    Druhové zdatní  
 hromadně sešli se k ní, a každého nutkala Pallas.
 
      Athéna jiskrných zraků zas jiný si smyslila záměr:  
@@ -469,7 +469,7 @@ dali, jak milený syn jim rozkázal Odysséův.
      Sám pak do lodi vstoupil, a Pallas kráčela před ním:  
 Sedla si na záď lodní a současně po jejím boku  
 sedl si Télemachos.  
-                                       I spěchali odvázat lan,  
+             I spěchali odvázat lan,  
 potom vstoupili na loď a k veslovým kolíkům sedli.
 
      Pallas jiskrných zraků jim poslala příznivý vítr,  
