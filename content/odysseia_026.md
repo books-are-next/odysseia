@@ -117,7 +117,7 @@ s ním šel i Megapenthés i Helena, manželka jeho.
 krásný dvouuchý pohár syn Átreův do ruky chopil,  
 synovi Megapenthovi pak velel měsidlo nésti  
 stříbrné.  
-                  K truhlicím svým pak královna Helena přišla,  
+             K truhlicím svým pak královna Helena přišla,  
 v nichž byly pestré řízy, jež Helena zrobila sama.  
 Z těch tam vybrala jednu a nesla ji vznešená paní,  
 tu, jež největší byla a nejkrásněj vyšita ze všech,  
@@ -136,16 +136,16 @@ hrdinský Faidimos dal, jenž pod svou střechu mě přijal,
 když jsem tam, domů jda, přišel — a to teď daruji tobě.“  
      Pravil a dvouuchý pohár mu dával do jeho rukou  
 hrdinský Átreův syn.  
-                                          Tou dobou měsidlo třpytné  
+             Tou dobou měsidlo třpytné  
 udatný Megapenthés mu vložil dopředu vozu,  
 stříbrné.  
-                 Královna též tam přistoupila, Helena sličná,  
+             Královna též tam přistoupila, Helena sličná,  
 v rukou nesoucí roucho a těmito pravila slovy:  
 „Tento ti dar zas podávám já, můj milený synu,  
 rukou to památku mých. — Až v hodině budoucí svatby  
 ať si je vezme tvá choť, však zatím u matky milé  
 v pokladní síni je měj!  
-                                           Však ty se teď radostně navrať  
+                         Však ty se teď radostně navrať  
 ve svůj výstavný palác a do své otcovské země!“  
      Do rukou dala mu roucho, a jinoch je s radostí přijal.  
 Hrdinský Peisistratos pak přijal dary a dal je  
@@ -176,7 +176,7 @@ dokud jsme v Tróadě válku, my synové achajští, vedli!“
      Rozumný Télemachos mu na to dal odpověď tuto:  
 „Ovšem, živený Diem, my rádi mu, jak jsi nám řekl,  
 povíme tohleto všecko, až přijedem.  
-                                                                      Kéž bych i já tak,  
+             Kéž bych i já tak,  
 až se zas v Ithaku vrátím, a stihnu-li v paláci otce,  
 říci mu moh’, jak vracím se již, byv pohoštěn tebou  
 s láskou a pokladů dost, tak vzácných, si od tebe nesu.“  
@@ -184,9 +184,9 @@ s láskou a pokladů dost, tak vzácných, si od tebe nesu.“
 který v pařátech svých měl bílou ohromnou husu,  
 chovanou ve dvoře, krotkou, a s křikem hnali se za ním  
 ženy i mužové z dvorce.  
-                                               Pták přiletěv k povozu zblízka,  
+             Pták přiletěv k povozu zblízka,  
 napravo před koně vzletěl.  
-                                                    Když spatřili tohoto orla  
+             Když spatřili tohoto orla  
 mužové, zplesali v hrudi a všechněm se rozhřálo srdce.
 
      Tehdáž Nestorův syn k nim počal mluviti takto:  
@@ -254,20 +254,20 @@ nakvap vstoupili všichni a k veslovým kolíkům sedli.
 úlitbou bohyni ctil, vtom člověk přistoupil k němu,  
 prchaje z dálných krajů, až z Argolska, usmrtiv muže,  
 věštec.  
-              Melampús slavný byl praděd rodiny jeho,  
+             Melampús slavný byl praděd rodiny jeho,  
 který v Pylu kdys dřív měl bydliště, v otčině bravu,  
 velmi jsa zámožný člověk a v paláci nádherném bydle.  
 Do země jiných lidí pak přišel, prchaje z vlasti,  
 k Néleu chrabrého ducha a slavnému nade vše lidi,  
 jenž měl v držení svém až do konce plného roku  
 násilně majetek jeho.  
-                                         On v paláci Fylaka vládce  
+             On v paláci Fylaka vládce  
 svázán byl do tuhých pout, v nichž kruté útrapy snášel  
 pro dceru Nélea krále a těžkou zmatenost mysli,  
 kterou Erínýs krutá mu vložila do jeho ducha.  
 Přece však unikl smrti a odehnal bučivé krávy  
 z Fylaky v pylský kraj.  
-                                            Tak ztrestal za skutek mrzký  
+             Tak ztrestal za skutek mrzký  
 Nélea rovného bohům a manželku bratrovi svému  
 přivedl do jeho domu. Pak odešel do jiné země,  
 do Arga, pastviště koní, vždyť losem bylo mu dáno  
@@ -401,7 +401,7 @@ nad svou manželkou z mládí, vždy rozumnou, která svou smrtí
 ve velkou vrhla jej žalost a přivedla v předčasné stáří,  
 neboť ji pro syna bol byl zachvátil proslaveného,  
 smrtí žalosti plnou.  
-                                      Tak nikdo ať neumře z lidí  
+             Tak nikdo ať neumře z lidí  
 zdejších, jež miluji v srdci a dobré skutky mi činí!  
 Dokud naživě byla, ač ovšem zármutek majíc,  
 dotud mi bývalo milé se na leccos optat a pátrat,  
@@ -419,7 +419,7 @@ z které jsem jídal i píval i čestným lidem jsem dával.
      Nyní však od paní naší už není slyšeti nikdy  
 vlídného slova ni skutku, co zhouba jí do domu vpadla,  
 muži to nadmíru zpupní.  
-                                                 A přece jen čeládka prahne  
+                         A přece jen čeládka prahne  
 svobodně před paní svou smět hovořit, na vše se zeptat,  
 dostat jídlo a pití, a také ještě si leccos  
 navenek nést, čímž čeládky duch jest potěšen nejvíc.“
@@ -514,7 +514,7 @@ který byl ze zlata zroben a proložen z jantaru články.
      V ženské komnatě služky a s nimi i velebná matka  
 řetěz do rukou braly a, dychtivě hledíce na něj,  
 nabídly kupní cenu.  
-                                       On na dívku potajmu kývl.  
+             On na dívku potajmu kývl.  
 Když pak na ni už kývl a k duté odkvapil lodi,  
 služka mě za ruku vzala a z otcova paláce vedla.  
 Přední komnatou jdouc, tam nalezla stolky a číše  
@@ -546,7 +546,7 @@ Avšak k nehodám těmto ti přec jen i propůjčil štěstí
 Zeus, když, vytrpěv mnoho, ses dostal do domu muže  
 hodného, který ti dá též potřebný pokrm i nápoj,  
 řádně, že možno ti žít s ním příjemně.  
-                                                                         Já ale chudák  
+             Já ale chudák  
 bloudím od města k městu a nyní přicházím k tobě.“  
      Taková byla jich řeč, již navzájem mluvili k sobě.  
      Potom se oddali spánku, ne na dlouho, nýbrž jen krátce:  
@@ -554,7 +554,7 @@ Jitřena zlatotrůnná se zjevila.
 
 ## Télemachos u Eumaia. Setkání s otcem[\[12\]](./resources/undefined)
 
-                                                           Sklonili stožár  
+             Sklonili stožár  
 druhové Télemachovi a snímali u břehu plachty,  
 chvatně, a na stanoviště svůj koráb přihnali vesly.  
 Potom spustili kotvu a vázali ku břehu kormu,  
@@ -588,7 +588,7 @@ zdali snad záhuby den jim nesešle před svatbou ještě.“
 
      Toto když děl, vtom zprava jim pták tam přiletěl, jestřáb,  
 Foibův to rychlý posel.  
-                                             Ten ve vzduchu holuba nesa,  
+                     Ten ve vzduchu holuba nesa,  
 škubal jej ve svých drápech a peří s tohoto ptáka  
 shazoval v střed mezi koráb a samého Télemacha.  
      Rychle tu Theoklymenos jej zavolal opodál druhů,  
@@ -617,7 +617,7 @@ Druhové vstoupili kvapně a k veslovým kolíkům sedli.
      Na nohy Télemachos si krásné opánky připjal,  
 vzal si své silné dřevce, jež ostrým se končilo hrotem,  
 s pokrovu korábu svého.  
-                                                 Ti spěchali odvázat lana,  
+             Ti spěchali odvázat lana,  
 na vodu strčili koráb a do města pluli, jak velel  
 milený Télemachos, jejž božský Odysseus zplodil.  
      Nohy, jak kráčel rychle, jej nesly až do jeho dvorce,  

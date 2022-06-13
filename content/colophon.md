@@ -2,7 +2,6 @@
 title: Tiráž
 ---
 
-<section>  
 **Homéros**  
 **Odysseia**  
 Edice Eposy  
@@ -10,8 +9,11 @@ Překlad Otmar Vaňorný
 Redakce Markéta Teuchnerová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
+
+***
+
+Znění tohoto textu vychází z díla [Odysseia](https://search.mlp.cz/cz/titul/odysseia/2661055/) tak, jak bylo vydáno v Praze nakladatelstvím Petr Rezek v roce 2007. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ***
 

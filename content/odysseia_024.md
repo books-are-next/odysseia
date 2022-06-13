@@ -8,7 +8,7 @@ contentType: prose
 
 ## Odysseus doma
 
-                                         Tu procitl Odysseus slavný  
+                         Tu procitl Odysseus slavný  
 ze spánku na milé půdě své otčiny, aniž ji poznal.  
 Vždyť tak dlouho byl vzdálen, a Pallas, Diova dcera,  
 rozlila hustý vzduch kol hrdiny, chtějíc ho takto  
@@ -43,10 +43,10 @@ zdali mi nevzali něco, než odjeli na duté lodi.“
      Taková promluviv slova, ty překrásné trojnože sčítal,  
 kotly i zlaté šperky, i oděvy půvabně tkané.  
 Ovšem shledal je všecky.  
-                                                 Pak po zemi otcovské tesknil,  
+             Pak po zemi otcovské tesknil,  
 vleka se po břehu mořském, kde hučící šumělo moře,  
 Odysseus, hlasitě lkaje.  
-                                              Vtom zblízka mu Athéna přišla,  
+             Vtom zblízka mu Athéna přišla,  
 mladíku, pastýři ovcí, jsouc podobna postavou těla,  
 velice bujného vzrůstu, jak bývají synové vládců,  
 majíc dvojitý háv kol ramenou, úpravy krásné,  
@@ -86,7 +86,7 @@ neboť ve své hrudi měl chytré zámysly stále:
 „Ovšem jsem o zemi této i v širé krajině trójské  
 daleko za mořem slýchal a nyní s těmito tuhle  
 věcmi jsem přišel i sám.  
-                                               Já, zanechav tolikéž dětem,  
+                Já, zanechav tolikéž dětem,  
 prchám, když Ídomenéu jsem zabil milého syna,  
 rychlého Orsilocha, jenž nad lidi výdělku chtivé  
 vynikal v širé Krétě svým během nadmíru rychlým,  
@@ -126,7 +126,7 @@ v kdejakých úskocích lstných, byť bůh měl s tebou se potkat.
 když se tu ve vlasti své již nacházíš, nevzdáš se klamu,  
 nenecháš šalebných slov, jež z hloubi jsou srdce ti milá.  
      Nyní však o věci té již nemluvme!  
-                                                                      Oba jsme mistři  
+             Oba jsme mistři  
 ve lsti: ty ze smrtných lidí jsi daleko nejlepší ze všech  
 řečmi a důvtipem svým, však já zas nad bohy bystrým  
 umem a lstivostí svou jsem proslulá — nyní však přece  
@@ -204,7 +204,7 @@ složíme, ihned nyní, by bezpečně zde ti byl ukryt,
 sami pak v úvahu vezmem, co zvláště by na prospěch bylo.“  
      Toto mu Pallas řekla a ihned do sluje tmavé  
 vešla a tajnou skrýš tam hledala.  
-                                                                Odysseus všecko  
+             Odysseus všecko  
 přinášel sám, jak nezlomný bronz, tak zrobená krásně  
 roucha i zlaté šperky, jež Faiéci dali mu darem.  
 To tam složila s péčí a ke vchodu vložila balvan  
@@ -236,7 +236,7 @@ s tebou, bohyně mocná, jen budeš-li ochotně se mnou!“
      Pallas jiskrných zraků mu na to zas odvece takto:  
 „Ovšem, budu ti já stát po boku, aniž tě pustím  
 s očí, až tuhleten boj pak počneme.  
-                                                                      Leckterý, myslím,  
+             Leckterý, myslím,  
 potom prostornou zem svou krví skropí a mozkem  
 z ženichů těch, již jmění ti tvé jen mrhají v domě.  
 Avšak způsobím dříve, by nikdo tě nepoznal z lidí:  
@@ -285,7 +285,7 @@ navrch velikou kůži mu z rychlého jelena dala,
 odřenou, do ruky hůl, pak na plece ošklivou mošnu,  
 děravou na mnohých místech, a provaz mu za popruh sloužil.  
      Oba se po radě té zas rozešli.  
-                                                              Athéna potom  
+             Athéna potom  
 pro syna Télemacha se vydala do skvělé Sparty.
 
 </section>

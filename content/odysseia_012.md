@@ -13,13 +13,13 @@ Shledali, kterak v ten čas svých dětí slavil dvě svatby,
 syna a bezvadné dcery, a množství příbuzných hostil.  
      Vladař posílal dceru, by synovi průlomce vojů,  
 Achilla, manželkou byla.  
-                                                Ji zaslíbil, přikývnuv hlavou,  
+             Ji zaslíbil, přikývnuv hlavou,  
 v trójské zemi, a teď jim bohové plnili svatbu.  
      Tam tedy rozenku svou chtěl vyslati s koni a vozy,  
 do města Myrmidonů, vždy slavného, k vladaři jejich.  
      Synovi dával za choť zas Sparťanku Alektorovnu,  
 silnému Megapenthovi.  
-                                              Ten zrodil se, miláček srdce,  
+             Ten zrodil se, miláček srdce,  
 ze služky. — Heleně bůh již žádného potomka nedal,  
 jakmile Hermionu, svou rozmilou zrodila dceru,  
 která se Afrodítě svou krásou rovnala zlaté.  
@@ -27,7 +27,7 @@ která se Afrodítě svou krásou rovnala zlaté.
 přátel a sousedů sbor kol vladaře proslaveného  
 seděl radosti plný, a božský pěvec jim zpíval,  
 na loutnu provodě zpěv.  
-                                                Dvé kejklířů bylo tam také,  
+             Dvé kejklířů bylo tam také,  
 kteří, když počínal zpívat, se točili ve středu jejich.  
      Oni tam u vchodu domu, i sami i koňové jejich,  
 vládyka Télemachos i Nestorův potomek slavný,  
@@ -53,7 +53,7 @@ potom ke koňským žlabům je chvátali uvázat v stáji,
 do žlabů vsypali špaldu a smísili s ječmenem bílým,  
 potom chopili vůz, jejž opřeli o stěnu třpytnou,  
 cizince zavedli v dům ten vznešený.  
-                                                                      Spatřivše palác  
+             Spatřivše palác  
 krále, jenž Diem byl živen, se dívali s podivem na vše. —  
      Jako by ze slunce zář neb z měsíce svítila jasná  
 po domě s vysokým krytem, jenž patřil slavnému králi.  
@@ -122,16 +122,16 @@ vzpomínka naň, vždyť tolika běd z nás nezkusil nikdo,
 kolik jich Odysseus přestál a zakusil. — Jemu se tedy  
 útrap dostati mělo a mně zas stálého žalu  
 nad ním.  
-                  Již dlouhý čas jest v cizině, nevímeť ani,  
+             Již dlouhý čas jest v cizině, nevímeť ani,  
 zdali je mrtev, či živ.  
-                                        Proň jistě se manželka souží,  
+                  Proň jistě se manželka souží,  
 rozumná Pénelopeia i Láertés, vládyka starý,  
 jakož i Télemachos, jejž opouštěl, sotva se zrodil.“  
 Řekl a pro otce tím v něm vznítil po nářku touhu.  
 Uslyšev o otci svém, hned s víček vyronil slzu,  
 když svůj nachový plášť byl dříve si před oči zdvihl  
 oběma rukama svýma.  
-                                            A Meneláos to spatřiv,  
+             A Meneláos to spatřiv,  
 ihned přemýšlet počal i ve svém srdci i v mysli,  
 zdali ho nechati má, až sám by se o otci zmínil,  
 či se ho vyptávat dříve a po všem pátrati zvláště.  
@@ -250,7 +250,7 @@ vraždili ostrým mečem — a na vlastní oči to viděl.
      Takové mocné léky, a účinné, Diova dcera  
 měla. Ty Thónova choť jí svěřila, Polydamna,  
 z Aigypta.  
-                    Živná prsť tam rodí přemnoho bylin,  
+             Živná prsť tam rodí přemnoho bylin,  
 míchaně: mnohé zhoubné a mnohé uzdravující.  
      Tam jest lékařem každý — a nad všecky na světě lidi  
 zkušeni jsou, vždyť Paiéón bůh jest praotcem jejich.
@@ -272,7 +272,7 @@ do města širokých tříd, v němž nepřítel bydlil, se vloudiv,
 jiným se člověkem stavěl a žebráka ze sebe dělal,  
 takého, jakým nikdy se nejevil v achajských lodích.  
      V takovou podobu skryt, šel do Tróje.  
-                                                                              Nikdo tam ani  
+             Nikdo tam ani  
 nemukl. Jedině já jej poznala v přetvářce jeho.  
      Tu jsem mu otázky kladla — on vždy se jim chytrácky vyhnul.  
      Když však jsem dala mu koupel a olej k natření těla,  
@@ -473,7 +473,7 @@ ze čtyř tuleňů kůže mi z mořských vynesla hlubin,
 začerstva stažené všecky, a chystala nástrahu otci.  
 Potom na břehu v písku nám zřídivši ložiska čtyři,  
 na nás čekala sedíc.  
-                                       Když přišli jsme k bohyni samé,  
+             Když přišli jsme k bohyni samé,  
 kázala lehnout si řadou a všecky nás oděla v kůže.  
      Hrozné bylo by nám v nich ležeti: strašlivý zápach  
 z tuleňů živených mořem nás týral záhubně všecky —  
@@ -491,7 +491,7 @@ tučné, obešel všecky a zase je spočítal přesně.
 že by to nástraha byla, a sám pak lehl si k spánku.  
      S křikem jsme na něj se vrhli a starcovi rukama tělo  
 svírali.  
-              Záludných lstí však stařec nepustil s mysli:  
+             Záludných lstí však stařec nepustil s mysli:  
      Ve lva s mohutnou bradou se nejdřív proměnil Próteus,  
 potom hadem se stal, pak pardálem, velikým kancem,  
 ve strom s vysokým listím neb v plynnou vodu se měnil.  
@@ -565,10 +565,10 @@ bůh jim dal příznivý vítr, a šťastně se dostali domů.
 Milenou vlast svou líbal a objímal, s očí mu hojně  
 kanulo vřelých slz, když, blažený, otčinu spatřil.  
      Zvěd, jenž na hlídce byl, jej zahlédl.  
-                                                                         Postavil jej tam  
+             Postavil jej tam  
 Aigisthos, úskočný muž, jenž v odměnu za to mu slíbil  
 dáti dva talenty zlata.  
-                                          On rok tam bedlivě hlídal,  
+             On rok tam bedlivě hlídal,  
 aby mu neprošel tajně a nesáhl k obraně rázné.  
      Zvěd šel do hradu rychle, by řekl to vladaři mužstva.  
      Ihned záludnou lest pak vymyslil Aigisthos na něj:  
@@ -744,7 +744,7 @@ Nikdy mne neměli chtíti — a vůbec se scházeti tady!
 Kéž by ten dnešní den již posledně, posledně jedli!  
      Vy se tu scházíte často a hojné mrháte jmění,  
 statek to rozence mého, tak moudrého!  
-                                                                            Copak jste nikdy  
+             Copak jste nikdy  
 neslechli od otců svých, když ještě jste bývali malí,  
 jaký Odysseus býval, když obcoval s vašimi otci?  
 Nečinilť nikomu křivdy ni slovem nikdy ni skutkem  
@@ -760,7 +760,7 @@ Naopak! Mnohem horší a hroznější úmysl jiný
 ženiši mají v mysli — kéž Kronovec zabrání tomu!  
 Samého Télemacha chtí ostrým zabiti kovem,  
 až by se vracel domů!!  
-                                            Onť odplul po otci pátrat  
+             Onť odplul po otci pátrat  
 do Pylu posvátného a odtud do skvělé Sparty.“  
      Řekl, a v okamžik ten jí kolena klesla i srdce,  
 ztratila na dlouhý čas svůj hlas, slz příval jí zalil  
@@ -913,7 +913,7 @@ zdali je mrtev, či živ — jest nehezké do větru mluvit.“
      Řekl a unikl ven ten přízrak závorou dveřní,  
 mizeje ve vzdušných váncích.
 
-                                                          I procitla ze spánku náhle  
+                         I procitla ze spánku náhle  
 rozenka Ikariova, a milé jí okřálo srdce,  
 že tak významný sen k ní přikvačil v temnotě noční.
 
@@ -924,6 +924,6 @@ myslíce na kvapnou smrt, již chystali Télemachovi.
 mezi skalnatým Samem a Ithakou, uprostřed obou,  
 Asteris, nevelký sic, však po obou ostrova stranách  
 ochranné zátoky jsou.  
-                                           Tam Danajci číhali na něj.
+             Tam Danajci číhali na něj.
 
 </section>

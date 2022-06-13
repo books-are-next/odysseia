@@ -26,7 +26,7 @@ nemáť korábů s vesly ni soudruhů, kteří by cestou
 po širém mořském hřbetě mu jistými průvodci byli.  
      Teď zas ženiši dychtí, by milého syna mu skláli,  
 až by se vracel domů.  
-                                          Ten odplul po otci pátrat  
+             Ten odplul po otci pátrat  
 do Pylu posvátného a odtud do skvělé Sparty.“
 
      Kronovec, sběratel mraků, jí odvětil těmito slovy:  
@@ -90,7 +90,7 @@ vida tu veškerou krásu, a ve své duši by zplesal.
      Stanuv tam, velice žasl vrah Argův, průvodce Hermés.  
 Když pak všemu se dost již ve své nadivil mysli,  
 vkročil v prostornou sluj bůh Hermeiás.  
-                                                                              Na první pohled  
+                         Na první pohled  
 Kalypsó, bohyně jasná, jej poznala, sotva ho zhlédla,  
 neboť bohové věční si navzájem neznámí nejsou,  
 nikdy, byť některý z nich měl daleko obydlí svoje.  
@@ -308,7 +308,7 @@ Jakoby nějaký štít tam spatřil na mlžném moři.
      Vtom jej Zemětřas mocný, když vracel se od Aithiopů,  
 s vrchů solymských spatřil, už zdaleka. Zhlédl jej totiž,  
 právě když po moři plul.  
-                                                Bůh vzkypěl prudčeji v duši,  
+             Bůh vzkypěl prudčeji v duši,  
 zakýval božskou hlavou a pravil ke svému srdci:  
 „Aj — již pochyby není, že jinak se rozhodli bozi  
 o něm, zatím co já jsem prodléval u Aithiopů.  
@@ -404,7 +404,7 @@ svlékl však se sebe roucho, jež dala mu Kalypsó jasná,
 hned pak pod svá prsa si vespod rozestřev roušku,  
 roztáhl obě své ruce a pustil se prsoma do vln,  
 snaže se vlnami plout.  
-                                            Vtom zhlédl jej Zemětřas mocný,  
+             Vtom zhlédl jej Zemětřas mocný,  
 ihned zakýval hlavou a pravil ke svému srdci:  
 „Tak, když mnoho jsi běd již vytrpěl, bluď si tu mořem,  
 nežli se dostaneš v zem, v níž lid jest živený Diem.  
@@ -491,7 +491,7 @@ Proto se slituj, pane, vždyť s prosbou k tobě se hlásím!“
      Řekl, a bůh hned zastavil proud, své zadržel vlny,  
 před ním tišinu vod pak způsobiv, hrdinu ústím  
 zachránil na břeh řeky.  
-                                              Když vystoupil, klesly mu nohy,  
+             Když vystoupil, klesly mu nohy,  
 klesly i silné ruce. Byl duch též vysílen mořem.  
 Na celém těle byl zpuchlý, a mořská voda mu proudem  
 crčela z nozder i úst. Byl bez dechu, nemohl mluvit,  
@@ -532,7 +532,7 @@ lehl si do jejich středu a nahrnul na sebe listí.
 u hranic území svého, kde není již sousedů žádných,  
 chráně si zárodků ohně, by nemusil rozžehat jinde,  
 takto se Odysseus skryl v tom lupení.  
-                                                                        Pallas mu rychle  
+             Pallas mu rychle  
 na oči rozlila spánek, by v době co nejkratší možná  
 milá víčka mu zastřel a zbavil ho únavy trudné.
 

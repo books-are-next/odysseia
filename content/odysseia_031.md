@@ -11,7 +11,7 @@ množství roun dal z ovcí, jež Achajci napořád kláli,
 pokrývku, když byl už v lůžku, mu přidala Eurynoma.  
 Tam tedy Odysseus ležel a vymýšlel ženichům zhoubu  
 v duchu a nemohl spát.  
-                                              Vtom ze ženské komnaty služky,  
+             Vtom ze ženské komnaty služky,  
 které, jak často už dříve, se stýkaly s ženichy v lásce,  
 kvapily, hlučně se smály a budily veselou mysl.
 
@@ -40,7 +40,7 @@ stejně se, starosti pln, tam zmítal vpravo i vlevo,
 kterak by pravici svou na ty nestoudné ženichy vztáhl,  
 jediný na taký dav.
 
-                                      Vtom zblízka tam Athéna přišla,  
+             Vtom zblízka tam Athéna přišla,  
 sestoupši s nebeských výšin, jsouc postavou podobna ženě.  
 Stanula nad jeho hlavou a tato mu pravila slova:  
 „Copakže zas již bdíš, ó nejvíc ubohý z mužů?  
@@ -178,7 +178,7 @@ druhé zůstaly doma a obratně konaly práci.
 štípali dobře a zručně. A zároveň služebné ženy  
 s vodou od zdroje přišly.
 
-                                                 Též přišel tam pastucha vepřů,  
+             Též přišel tam pastucha vepřů,  
 tři tam vháněje vepře, již ze všech nejlepší byli.  
 Ty tam prozatím nechal, ať běhají po pěkném dvoře,  
 potom promluvil k pánu a řekl mu vlídnými slovy:  
@@ -233,7 +233,7 @@ Teď, když množí se tolik, že nijak by nemohl nikde
 dobytek širokých čel být množen člověku více,  
 jiní lidé mi velí, bych pořád jen přiháněl krávy  
 k hodům.  
-                   Docela nic tam na syna nedbají v domě.  
+             Docela nic tam na syna nedbají v domě.  
 Obavy božský trest v nich nebudí — ano již pánův  
 statek si rozdělit chtí, když vladař dlouho je vzdálen.  
      Avšak v milených prsou mi přečasto přemýšlí srdce:  
@@ -264,7 +264,7 @@ Taková byla jich řeč, již navzájem mluvili k sobě.
 
      Ženiši zhoubu a smrt však zatím Télemachovi  
 chystali.  
-                 Vtom však pták tam přiletěl od levé strany,  
+             Vtom však pták tam přiletěl od levé strany,  
 orel vysokoletý a holuba plachého držel.  
      Tenkráte Amfinomos se ujal slova a pravil:  
 „Nikterak úmysl náš, ó přátelé, nedojde cíle,  
@@ -299,7 +299,7 @@ s podivem hledíce naň, jak směle tam před nimi mluvil.
      Potom k nim Antinoos, syn Eupeithův, promluvil toto:  
 „Ačkoli drsná to řeč, přec chceme ji od Télemacha,  
 Danajci, snést. —  
-                                 Jak naproti nám teď s pohrůžkou vyjel!  
+             Jak naproti nám teď s pohrůžkou vyjel!  
 Nedal nám Kronovec Zeus své svolení — sic bychom dávno  
 v domě mu zavřeli ústa, byť sebe byl ráznější řečník.“  
      Takto děl Antinoos — on nedbal na jeho slova.  
@@ -376,7 +376,7 @@ koho si zvolí, si vzíti, a přidat chci nesmírné dary.
 Mne však zdržuje stud, bych máteř násilnou řečí  
 vyháněl, nechce-li sama — to nerač dopustit, bože!“  
      Domluvil Télemachos.  
-                                                 Vtom vznítila Athénská Pallas  
+                     Vtom vznítila Athénská Pallas  
 v ženiších bezuzdný smích, vždyť rozum jim nadobro zmátla:  
 Čelisti, jak se tam smáli, jim všechněm pitvorně zkřivly,  
 při čemž hltali maso, ač dosud krvavé bylo,  

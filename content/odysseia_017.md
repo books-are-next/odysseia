@@ -13,7 +13,7 @@ Faiéků na sněmoviště, jež u lodí zřízeno bylo.
 Když pak na místo přišli, hned na hladká sedadla k sobě  
 usedli.
 
-              Bohyně Pallas pak celým chodila městem,  
+             Bohyně Pallas pak celým chodila městem,  
 héroldu moudrého krále jsouc úplně podobou rovna,  
 neboť na péči měla, by chrabrý se Odysseus vrátil.  
      Ke všem chodila mužům a s každým mluvila zvláště:  
@@ -25,7 +25,7 @@ po moři zahnán byv k nám — jest bohům postavou roven!“
 
      Zakrátko sedadla všecka i sněm byl přeplněn lidmi,  
 když se tam občané sešli.  
-                                                  Ti spatřivše statného reka,  
+             Ti spatřivše statného reka,  
 s podivem hleděli naň, vždyť bohyně, Athénská Pallas,  
 mužský mu rozlila vděk kol hlavy a okolo plecí,  
 větší na pohled vzrůst, též plnost těla mu davši,  
@@ -53,13 +53,13 @@ knížata vládnoucí žezlem se do mého sejděte domu,
 krásného, bychom hosta v mém paláci hostili s láskou!  
 Nikdo se nezdráhej z vás! Též pro pěvce božského hleďte  
 poslat, pro Démodoka! —  
-                                                Dar zpěvu mu poskytlo božstvo,  
+             Dar zpěvu mu poskytlo božstvo,  
 štědře, by veselil lid, jak duch jej ke zpěvu pudí.“  
 Vladař skončiv tu řeč, šel v popředí, ostatní za ním,  
 knížata vládnoucí žezlem, a pro pěvce božského kráčel  
 hérold.
 
-               K nezmorné pláni se dva pak a padesát plavců  
+             K nezmorné pláni se dva pak a padesát plavců  
 vydalo, vybraných zvlášť, jak vladařem veleno bylo.  
      Ale když k rychlé lodi a k hladině mořské už sešli,  
 nejdřív na mořskou hloub svůj koráb s pobřeží stáhli,  
@@ -91,7 +91,7 @@ píseň, jejížto sláva až k nebesům sahala tehdáž,
 Odysséův to rozbroj i Achilla Péléovce,  
 kterak se dostali v spor kdys na skvělé hostině bohů,  
 mluvíce výhružná slova.  
-                                                Syn Átreův, velitel mužů,  
+             Syn Átreův, velitel mužů,  
 v srdci se radoval svém, když danajská šlechta se přela:  
 Takto mu prohlásil kdys bůh Apollón, hlásaje věštbu,  
 na půdě posvátné Pýthy, když přes práh kamenný přešel,  
@@ -216,9 +216,9 @@ Tím tedy zakroužil kolem a mrštil pravicí pádnou.
 Zasvištěl vzduchem kámen — a rychle se skrčili k zemi  
 Faiéci s dlouhými vesly a mořskou proslulí plavbou  
 pod vrhem kamene toho. —  
-                                                     I přeletěl veškery znaky,  
+             I přeletěl veškery znaky,  
 střelhbitě vyletěv z ruky.  
-                                                 Ty znaky tam Athéna dala,  
+             Ty znaky tam Athéna dala,  
 postavou rovná muži, a tato mu pravila slova:  
 „Hoste, i slepý muž tvůj znak by tu rozeznat mohl,  
 rukou hmataje kol, vždyť není nablízku druhých,  
@@ -291,10 +291,10 @@ kteří v závodních hrách jim pořádně řídili všecko,
 srovnali rejiště k tanci a krásný zvětšili okruh.  
      Zatím se přiblížil hérold a zvučnou přinášel loutnu  
 pěvcovi Démodoku.  
-                                        Ten do středu kráčel a jaří  
+             Ten do středu kráčel a jaří  
 mládci se stavěli kol, již v tancích obratni byli.  
 Dupotem božský rej pak provedli.  
-                                                                   Odysseus vida  
+             Odysseus vida  
 kmitavé pohyby noh, pln podivu na to se díval.
 
      Pěvec krásně se jal pak zpívati, na loutnu hraje,  
@@ -323,7 +323,7 @@ Do domu slavného boha si ihned pospíšil Arés,
 Kypřanky s čelenkou krásnou jsa dychtiv se oblažit láskou.  
 Bohyně před malou chvílí se od otce, silného Dia,  
 vrátivši, usedla právě.  
-                                            On vstoupiv do nitra domu  
+                   On vstoupiv do nitra domu  
 pravici vřele jí stiskl a tato k ní promluvil slova:  
 „Sem pojď na lůžko, milá, ať spočinem v náručí lásky!  
 Neníť Héfaistos doma, teď odešel, před chvílí právě,  
@@ -346,7 +346,7 @@ Vizte, jak Afrodíté mě chromého — Diova dcera —
 znectívá po všechen čas — jak drzého Aréa kochá,  
 ježto je silných nohou a krasavec — zato však já jsem  
 mrzák se narodil na svět. —  
-                                                     Však nikdo mi není tím vinen,  
+             Však nikdo mi není tím vinen,  
 než jen rodiče oba — ti nikdy mne neměli zrodit!  
      Pohleďte jen, jak tuhleten pár jest v objetí lásky,  
 vystoupiv na mé lůžko — a já na to hledím pln smutku!  
@@ -477,7 +477,7 @@ z hodů v duši se těšil a poslouchal nápěvy písní!
 aby si po každé vzpomněl i ve svém paláci na mne,  
 až bude Diovi oběť a bohům ostatním vzdávat.“  
      Tak k nim promluvil král.  
-                                                        Hned kázala Aréta služkám  
+             Hned kázala Aréta služkám  
 trojnohý velký kotel co nejrychlej na oheň dáti.  
      Služky tu lázeňský kotel šly postavit na oheň žhoucí,  
 nalily do něho vody a pod ním topily dřívím.  
@@ -504,7 +504,7 @@ Tenkrát jak nějaký bůh byl pěstěn trvale u ní.
 a když krásným pláštěm a také jej oděly sukní,  
 Odysseus vystoupil z vany a k mužům pijícím víno  
 kráčel.  
-              Tu Nausikaá, již bohové dařili krásou,  
+             Tu Nausikaá, již bohové dařili krásou,  
 stanula u dveří síně, jež důkladně stavěna byla,  
 žasnouc, když s údivem v očích se dívala na Odysséa.  
 Potom se ozvala takto a pravila perutná slova:  
@@ -521,7 +521,7 @@ pořád modlitbou svou — ty’s, dívko, mi spasila život.“
      Oni již dělili jídlo a mísili v měsidle víno.  
      Zatím se přiblížil hérold a přiváděl milého pěvce,  
 Démodoka, jenž v lidu byl ctěn.  
-                                                             Hned stavěl mu křeslo  
+             Hned stavěl mu křeslo  
 do středu hodovníkův a o sloup je vysoký opřel.  
      Důvtipný Láertův syn tou dobou héroldu pravil —  
 ukrojiv ze hřbetu kus, však větší zbyla tam částka,  

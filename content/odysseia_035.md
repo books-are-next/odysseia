@@ -48,7 +48,7 @@ Takhle ti souzeno jest, bys žalostnou zahynul smrtí.“
 zemřel’s od Arga vzdálen, až v Tróadě! Okolo tebe  
 nejlepší synové trójští i achajští padali vesměs,  
 o tebe vedouce boj.  
-                                       Ty’s v hustém kotouči prachu  
+                         Ty’s v hustém kotouči prachu  
 ležel, velikán velký, a neměl’s už na mysli jízdu.  
 My, ač celý jsme den tam válčili, nebyli bychom  
 vůbec skončili zápas, až Zeus jej vichřicí skončil.  
@@ -59,7 +59,7 @@ vřelé ronili slzy a všichni si stříhali vlasy.
 
      Z moře tu vystoupla matka a nesmrtné rusalky mořské,  
 slyšíce o tom zvěst.  
-                                      Hned mořem se rozlehlo širým  
+             Hned mořem se rozlehlo širým  
 nesmírné kvílení vůkol, až Achajce pojala hrůza.  
 Povstavše byli by prchli a vstoupili do dutých lodí,  
 kdyby jich nezdržel muž, jenž stár byl a nad jiné zkušen,  
@@ -79,11 +79,11 @@ spatřil: takový žal tam zvučná vznítila Músa.
      Sedmnáct napořád dní tam pro tebe, ve dne i v noci,  
 plakali nesmrtní bozi i lidé smrtelní s nimi,  
 pak jsme v den osmnáctý tě spálili.  
-                                                                    Okolo tebe  
+             Okolo tebe  
 přemnohé tučné ovce a lesklé jsme zabili krávy.  
      V božském rouše jsi plál, kol stály tam ve džbánech hojných  
 balsám a sladký med.  
-                                          V své výzbroji rekové četní  
+             V své výzbroji rekové četní  
 konali slavnostní průvod kol hranice, na které’s hořel,  
 pěšky i na svých vozích, a velký se ozýval lomoz.  
      Když pak tě Héfaistův žár již konečně nadobro strávil,  
@@ -175,7 +175,7 @@ Přišel i milený syn, jejž božský Odysseus zplodil,
 z Pylu již písečného se vraceje na lodi černé.  
 Ti tam strašlivou smrt nám ženichům smluvili spolu,  
 načež šli k slavnému městu.  
-                                                      Pak vládyka Odysseus přišel,  
+             Pak vládyka Odysseus přišel,  
 později, ale syn vládcův se dostavil o něco dříve.  
 Byl tam pastuchou veden a špatné měl na sobě roucho.  
 Také byl podoben starci a žebráku plnému bídy,  
@@ -203,7 +203,7 @@ Chopil je Odysseus slavný, jenž tolik zápasů přestál,
 napjal je docela snadno a prostřelil sekyry šípem.  
 Šel pak a na prahu stanul a rychlé vysypal šípy  
 hrozivě zíraje kol.  
-                                    Pak zastřelil Antinoa,  
+             Pak zastřelil Antinoa,  
 načež ty žalné šípy zas po jiných z lučiště střílel,  
 naproti po nich míře, a jeden po druhém padal.  
 Bylo tu znát, jak nějaký bůh jest pomocník jeho.  
@@ -211,7 +211,7 @@ Ihned v komnatě oné se na svou spolehše statnost,
 napořád vůkol nás kláli, a hrozný se ozýval sténot,  
 jak nám rubali hlavy, až podlaha od krve vřela.  
      Takto jsme, Átreův synu, tam zhynuli.  
-                                                                               Ještě i nyní  
+                         Ještě i nyní  
 v paláci Odysséově jsou bez pohřbu mrtvoly naše,  
 poněvadž v našich domech to příbuzní nevědí dosud,  
 kteří by temnou krev nám smyli a nad námi lkali,  
@@ -227,7 +227,7 @@ pověst o jejích ctnostech, a bohové vzněcovat budou
 o moudré Pénelopeii vždy u lidí líbezné písně.  
 Ne jak Tyndareovna, jež špatné si smyslila skutky,  
 zabivši manžela z mládí!  
-                                                 I budou ošklivé písně  
+             I budou ošklivé písně  
 o ní u lidí znít, vždyť těžkou zjednala hanbu  
 útlým ženštinám všem, též takové, která je čestná.“  
      Taková byla jich řeč, již navzájem mluvili k sobě,  
@@ -252,7 +252,7 @@ zdali mě pozná ještě, až očima pohlédne na mne,
 či snad mne nepozná už, když dlouhá jsem léta byl vzdálen.“  
      Takto jim děl, pak válečnou zbraň své čeledi vydal.  
 Tito pak v pánův dům s ní kvapili.  
-                                                                  Odysseus slavný  
+             Odysseus slavný  
 k úrodné vinici kráčel a po otci bedlivě pátral.  
 Nenašel Dolia nikde, když do sadu velkého vcházel,  
 nenašel žádného z rabů ni ze synů, nýbrž ti právě  
@@ -260,7 +260,7 @@ odešli sbírat trní, by vinici ohradou bylo,
 při čemž Dolios kmet jim na té cestě byl vůdcem.  
 Jedině vlastního otce tam našel v úpravném sadě,  
 jak tam zarýval štěp.  
-                                         Měl na sobě ohyzdný kaftan,  
+                         Měl na sobě ohyzdný kaftan,  
 slátaný, plný špíny, kol lýtek slátané bídně  
 holínky z hovězí kůže, by unikl škrábnutí trní.  
 Rukávce na obou rukou ho chránily naproti ostnům,  
@@ -330,7 +330,7 @@ ten tvůj nešťastný host, můj potomek — ačli kdy býval?
 Chudák! On od svých přátel a od své otcovské země  
 vzdálen, buď od mořských ryb byl pohlcen, nebo snad někde  
 na souši šelmám a ptákům byl kořistí!  
-                                                                          Nemohla matka  
+             Nemohla matka  
 s otcem jej obléci v rubáš, ni oželet — rodného syna,  
 nemohla Pénelopeia, ta rozumná zámožná žena,  
 na lůžku, jako je slušno, se nad svým vyplakat mužem,  
@@ -389,7 +389,7 @@ kdykoli Diův čas nám příznivě připadne s nebes.“
      Řekl a v okamžik tento mu kolena klesla i srdce,  
 jakmile uslyšel znaky, jež přesně mu Odysseus popsal.  
      Objal milého syna — a omdléval. — —  
-                                                                          Stařečka na hruď  
+             Stařečka na hruď  
 přitiskl Odysseus slavný, jenž tolik zápasů přestál.
 
      Když však přišel zas k sobě a v hruď se mu sebrala síla,  
@@ -413,7 +413,7 @@ hojné krájeti maso a mísit jiskrné víno.
      Zatím sikelská služka jej umyla v obydlí jeho,  
 Láerta, chrabrého reka, a olejem natřevši tělo,  
 v krásný jej oděla háv.  
-                                            Vtom bohyně, Athénská Pallas,  
+             Vtom bohyně, Athénská Pallas,  
 přistoupla k vladaři mužstva a údům dodala síly,  
 postavu větší než dříve a silnější tělo mu davši.  
      Láertés vystoupil z vany, a Odysseus užasl nad ním,  
@@ -436,13 +436,13 @@ ihned pořadem všichni si na křesla sedli a židle.
 Po jídle rukama svýma již sahali všichni, když dovnitř  
 vstoupil Dolios stařec a synové tohoto starce,  
 od práce na poli mdlí.  
-                                           Teď vyšla je zavolat matka,  
+                     Teď vyšla je zavolat matka,  
 stařenka, sikelská služka, jež pěstila všecky a starce  
 bedlivě na péči měla, když pozdní stihlo ho stáří.
 
      Ti když vládyku zhlédli a ve své poznali mysli,  
 stanuli v komnatě mlčky — a trnuli.  
-                                                                    Odysseus tedy  
+             Odysseus tedy  
 honem se obrátil k starci a vlídnou promluvil řečí:  
 „Staroušku, posaď se k jídlu! Teď úžas vypusťte z mysli,  
 neboť po dlouhý čas již dychtíce po jídle sáhnout,  

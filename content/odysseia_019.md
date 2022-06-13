@@ -35,7 +35,7 @@ Potom na duté lodi jej stříbrnou tkanicí vázal,
 třpytnou, by ani dost málo mu nemohlo uniknout z měchu.  
 Jedině Zefyrův vánek mi dopředu poslal, by vanul,  
 chtěje, by lodi i nás hnal kupředu.  
-                                                                  Takto se arci  
+                         Takto se arci  
 nemělo stát, vždyť nerozum náš nám způsobil zkázu.
 
      Devět napořád dní, jak ve dne, tak v noci, jsme pluli,  
@@ -61,7 +61,7 @@ kolik zlata a stříbra se skrývá v tomto zde měchu!‘
 Rozvážou měch — vtom větrové v ráz jim vyrazí z měchu.  
 Rázem je popadla bouře a od země otcovské hnala,  
 plačící na mořskou pláň.  
-                                                Vtom ze svého procitnuv spánku,  
+             Vtom ze svého procitnuv spánku,  
 ve své statečné mysli jsem počal přemýšlet o tom,  
 měl-li bych vyskočit z lodi a život ve vlnách pohřbít,  
 či snad klidně to snésti a zůstat naživu ještě.  
@@ -74,11 +74,11 @@ načež při lodích rychlých se druhové najedli kvapně.
      Když pak jsme pokrmu dost již pojedli, jakož i pití,  
 tenkrát jednoho druha a hérolda přidruživ k sobě,  
 v Aiolův skvostný jsme dům zas vstoupili.  
-                                                                                 Jeho jsme našli  
+             Jeho jsme našli  
 hodovat u své choti a u svých milených dítek.  
 My pak vešli jsme dovnitř a na prahu, u samých dveří,  
 sedli. —  
-               Ti na mysli žasli a těmito slovy se ptali:  
+             Ti na mysli žasli a těmito slovy se ptali:  
 ‚Copakže, Odyssée, sem jdeš? — Ký zloboh tě stihl?  
 Vždyť jsme tě vyslali přec tak pečlivě, aby ses dostal  
 do své vlasti a domu, a kam by se zlíbilo tobě!‘  
@@ -136,7 +136,7 @@ Dívka jim udala hned dům otcův s vysokým krytem.
 velkou jak vrchol hory — i pojala hrůza je před ní.  
 Ihned ze sněmu lidu jim manžela zavolat dala,  
 statného Antifatéa.  
-                                      Ten krutou jim připravil zhoubu:  
+             Ten krutou jim připravil zhoubu:  
 popadl jednoho z druhův a hned si ho připravil k jídlu.  
 Druzí dva vylítli z domu a úprkem přiběhli k lodím.  
      Po městě řev však pozdvihl král — hned na jeho pokřik  
@@ -311,12 +311,12 @@ Já však půjdu tam sám, vždyť silná mi nastala nutnost.‘
 přijít měl v prostorný dům, jenž náležel kouzelné Kirce,  
 tenkrát přišel mi vstříc bůh Hermés se zlatým prutem,  
 jak jsem k tomu šel domu.  
-                                                    Byl podoben mladému muži  
+             Byl podoben mladému muži  
 s prvním na bradě chmýřím, když v nejkrásnějším je mládí.  
 Hermés ruku mi stiskl, a těmito promluvil slovy:  
 ‚Kam to jen, nešťastníče, tu po kopcích ostrova kráčíš,  
 samoten, neznalý kraje?  
-                                                Jsou druzi tu v Kirčině domě  
+               Jsou druzi tu v Kirčině domě  
 zavřeni v podobě vepřů a v chlívech stavěných pevně.  
 Či snad je vyprostit jdeš? — Však nemyslím, že by ses vrátil  
 také ty sám — spíš v místě, kde druhové, uvázneš také.  
@@ -327,7 +327,7 @@ které ti od hlavy tvé den jisté odvrátí zhouby!
 Připraví smíšený nápoj a přilije kouzelnou šťávu.  
 Tenkrát kouzlo se jí však nezdaří: zamezí čáry  
 bejlí, které ti dávám.  
-                                         Však nyní povím ti všecko:  
+             Však nyní povím ti všecko:  
      Jakmile kouzelným prutem tě Kirké po těle šlehne,  
 ihned broušený meč spěš vytasit od boku svého,  
 prudce se na Kirku vrhni, jak chtěl bys ji na místě zabít.  
@@ -432,7 +432,7 @@ kouzla je zbav, bych spatřil tu sám své soudruhy věrné.‘
      Děl jsem, a ihned Kirké se vzdálila z komnaty oné,  
 majíc v pravici prut. Pak vyhnala, odemkši chlívek,  
 druhy.  
-              Ti devítiletým svou postavou podobni vepřům,  
+             Ti devítiletým svou postavou podobni vepřům,  
 shlukli se naproti sobě, a Kirké sama jich středem  
 chodíc, každého z nich zas kouzlem jinačím třela.  
      Hned z nich štětiny spadly, jež dříve jim na těle vzrostly  
@@ -627,7 +627,7 @@ kráčíme, truchliví v srdci a hojné roníce slzy,
 odejde také i Kirké a k černé přiváže lodi  
 černého berana pevně a spolu i ovečku černou,  
 úplně tiše nás minouc.  
-                                             Kdo mohl by někoho z bohů  
+             Kdo mohl by někoho z bohů  
 uzřít bez jeho vůle, když sem neb jinam se béře?
 
 </section>

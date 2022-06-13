@@ -12,7 +12,7 @@ krajem lesnatým vzhůru, kde Pallas mu udala sídlo
 vzorného pastýře vepřů, jenž nejvíc o jeho jmění  
 pečoval ze všech sluhů, jež Odysseus slavný si získal.  
      Shledal, jak v předsíni sedí.  
-                                                          Kol dokola celého dvorce  
+             Kol dokola celého dvorce  
 vysoká ohrada stála, a zevšad bylo ji vidět,  
 velice krásná a velká, kol dokola, kteroužto vepřům  
 pastýř o sobě sám, když pán byl v cizině vzdálen,  
@@ -32,7 +32,7 @@ Na tři sta šedesát vepřů mu tenkrát zbývalo ještě.
 psové, jež pastucha sám byl vychoval, pastuchů vůdce.  
      Hovězí řezal kůži, jež úhledně barvena byla,  
 robě si na nohy své z ní opánky.  
-                                                               Pastýři druzí  
+             Pastýři druzí  
 každý na pastvu jinam se vzdálili se stády vepřů,  
 tři, však čtvrtého z nich dnes do města, donucen, poslal,  
 aby tam zahnal vepře a ženichům nadmíru zpupným  
@@ -46,7 +46,7 @@ Pastýř však chvatným krokem se mžikem rozehnal za psy,
 vyběhnuv z předsíně v dvůr, až kůže mu vypadla z ruky.  
 Hlasitě vykřikl na psy a zahnal je na všecky strany,  
 házeje kamením četným.  
-                                                 Pak pravil k pánovi toto:  
+                 Pak pravil k pánovi toto:  
      „Starochu, bezmála již bys býval rozsápán od psů,  
 náhle, a pak bys jistě mě hojnou zasypal hanou!  
 Dost již bolů a stenů mi bohové nebeští dali!  
@@ -63,7 +63,7 @@ jakmile jídlem a vínem se ve své občerstvíš duši,
 uvnitř pak sednout ho zval, když husté mu podestřel chrastí,  
 z divého huňáče kozla pak prostřel na chrastí kůži,  
 vlastní to pokrývku svou.  
-                                                  Měl radost Odysseus z toho,  
+             Měl radost Odysseus z toho,  
 že jej přijal tak vlídně, a takto pak promluvil k němu:  
 „Zeus ti dej, hostiteli, i druzí nesmrtní bozi,  
 čeho si nejvíc přeješ, že s takou’s mě ochotou přijal!“
@@ -82,14 +82,14 @@ když jim pracují pilně a bůh jich konání žehná,
 jakož i konání mému je žehnáno, jemuž jsem oddán.  
 Proto mně zestárlému můj pán by dal odměnu hojnou.  
 Zhynul však už.  
-                               Nechť náhlý pád rod Helenin stihne,  
+             Nechť náhlý pád rod Helenin stihne,  
 rod to, jenž mnohým mužům už dávno byl podkosil údy:  
 Odplulť Agamemnonu též Odysseus urážku pomstít  
 do Tróje s krásnými koňmi, by válčil s národem trójským.“
 
      Toto mu Eumaios pravil a pásem rychle si sukni  
 sepjal a do chlévů šel.  
-                                           Tam selat měl zavřena stáda.  
+             Tam selat měl zavřena stáda.  
 Dvě tam selata vybral a k jídlu je zařízl obě,  
 ožehl, na drobno zkrájel a na rožně nabodl kusy,  
 potom je opekl všecky a předložil hostovi svému,  
@@ -116,7 +116,7 @@ víno pak čerpají stále a pořád jím plýtvají zpupně.
 šlechtic nemá ho tolik, co na tmavé pevnině bydlí,  
 žádný v Ithace samé — ni dvacet souhrnem pánů  
 nemá takého jmění.  
-                                       Nuž já ti je vyložím řádně:  
+             Nuž já ti je vyložím řádně:  
 Dvanáct hovězích stád má na souši, tolikéž ovčích,  
 tolikéž vepřů a koz, jež všecky mu porůznu pasou  
 na souši hlídači cizí i vlastní pastýři jeho.  
@@ -190,18 +190,18 @@ kdo mu tu manželku jeho i statného znectívá syna.“_
      Eumaie, pastucho vepřů, zas takto’s mu odvětil na to:  
 „Nedám ti tedy ni já tvou odměnu za dobrou zprávu.  
 Nikdy se Odysseus k nám již nevrátí! —  
-                                                                            Raději klidně  
+             Raději klidně  
 pij! — Teď na jinou věc zas mysleme! Nikdy už o tom  
 nemluv!  
-                 Ve hrudi mé jest nadmíru sklíčeno srdce,  
+             Ve hrudi mé jest nadmíru sklíčeno srdce,  
 kdykoliv o drahém vládci kdo učiní nějakou zmínku.  
 Stranou však přísahu tvou teď nechejme!  
-                                                                                Kéž by se vrátil  
+              Kéž by se vrátil  
 Odysseus náš, jak přeji si já, choť Pénelopeia,  
 Láertés věkem starý i syn jeho podobný bohům!  
      Nyní zas pro Télemacha, jejž vládyka Odysseus zplodil,  
 trvale lkám. —  
-                           Když bozi mu vzrůst jak stromečku dali,  
+             Když bozi mu vzrůst jak stromečku dali,  
 když jsem už naději míval, že nebude v národě menší,  
 než byl milený otec, jsa vzrůstem i krásou mu roven,  
 tehdy mu některý bůh zas pomátl rozvážnou mysl,  
@@ -236,7 +236,7 @@ který v lidu jak bůh byl tenkrát na Krétě vážen
 pro svůj blahobyt, jmění, a pro své proslulé syny.  
 Avšak konečně přec jej zavlekly sudičky smrti  
 v Hádův pochmurný dům.  
-                                                   Pak statek si rozvrhli v díly  
+             Pak statek si rozvrhli v díly  
 zpupní synové jeho a losem se dělili o něj.  
 Mně však dali jen málo a obydlí přidali k tomu.  
      Já však pojal jsem choť, jež z lidí zámožných pošla,  
@@ -246,7 +246,7 @@ také ne zbabělý v boji — teď ovšem zbaven jsem všeho.
 vlastnosti mé — teď množství běd jsem velikým svírán.  
      Ovšemže odvahu velkou mi Arés i Athéna dali,  
 sílu, jež rozráží voj.  
-                                      Když někdy jsem v zálohu vybral  
+                         Když někdy jsem v zálohu vybral  
 výkvět šlechtických mužů a strojil jsem odpůrcům zkázu,  
 nikdy můj mužný duch v těch bojích mi nehleděl na smrt,  
 nýbrž první z všech jsem s ostrým vybíhal kopím,  
@@ -264,7 +264,7 @@ devětkrát velel jsem mužstvu a korábům rychlým v plavbě
 na muže v cizích zemích a hojnou kořist jsem míval.  
 Já jsem si po vůli své z ní vybíral, pozděj jsem hojný  
 dostával díl — můj bohatl dům.  
-                                                           Z té příčiny brzy  
+             Z té příčiny brzy  
 velké moci a úcty jsem nabyl v národě krétském.  
      Když mi tu výpravu trpkou syn Kronův vidoucí v dálku  
 určil, v níž přemnohý muž byl zbaven života svého,  
@@ -300,11 +300,11 @@ Oni však podlehli pýše a na svou se spolehše statnost,
 ihned překrásná pole šli mužům aigyptským plenit.  
 Také brali jim ženy a malá robátka jejich,  
 vraždíce každého muže.  
-                                               Ryk záhy byl uslyšen v městě.  
+             Ryk záhy byl uslyšen v městě.  
      Ti tedy slyšíce křik, hned po ránu, s úsvitem Zory,  
 přišli a celá se pláň jen hemžila mužstvem a vozy,  
 leskem se třpytila zbraň.  
-                                                 Vtom Kronovec bleskovládce  
+                         Vtom Kronovec bleskovládce  
 poslal na druhy mé zlou zděšenost. — Odvahy neměl  
 nikdo se postavit vstříc, vždyť zevšad nastala zhouba.  
 Tenkrát přemnohý z nás byl břitkým usmrcen kopím,  
@@ -316,7 +316,7 @@ Přilbici kovanou krásně jsem nakvap s hlavy si strhl,
 také s ramene štít, též kopí jsem odhodil z ruky,  
 sám pak před králův vůz jsem přímo se naproti vrhnuv,  
 zlíbal jsem kolena králi.  
-                                               On vyrval mě smrti a spasil,  
+             On vyrval mě smrti a spasil,  
 na svůj mě posadil povoz a odvážel — plného pláče.  
      Ovšem přemnozí z nich svým kopím se vrhali na mne,  
 chtíce mě sklát, vždyť náramný hněv jim naplnil srdce.  
@@ -394,18 +394,18 @@ na lodi pokryté pevně, pak ze svého korábu sami
 vystoupli na mořský břeh, kdež večeři narychlo snědli.  
 Mne však zbavili pout těch provazů bohové sami,  
 snadno.  
-                Tu v bídný ten šat jsem honem si zahalil hlavu,  
+             Tu v bídný ten šat jsem honem si zahalil hlavu,  
 kormidlem kvapně jsem slezl a k mořské hladině zticha  
 přiložil hruď, pak hned jsem plul, svou obojí paží  
 vesluje.  
-               Za krátký čas jsem vystoupil daleko od nich.  
+             Za krátký čas jsem vystoupil daleko od nich.  
 Tam jsem vykročil na břeh, kde houšť jest listnatých stromů.  
 V ní jsem, schouliv se, ležel.  
-                                                      Ti velmi mě proklínajíce,  
+                       Ti velmi mě proklínajíce,  
 běhali kol, však ježto se přec jim neradno zdálo,  
 ještě mne hledati dál, zas raděj kvapili nazpět  
 k dutému korábu svému.  
-                                                 Mě ukryli bohové sami  
+             Mě ukryli bohové sami  
 snadno a přivedli k chatě, v níž má své obydlí nyní  
 zkušený muž, vždyť ještě mi žít jest patrně dáno.“
 
@@ -415,7 +415,7 @@ tohleto všecko mi líče, jak’s trpěl a štván jsi byl světem!
 To však nebylo, mním, co’s vyprávěl o Odysséu  
 správné, nevěřím tomu. — Nač třeba ti, když jsi tak bídný,  
 lháti tak nazdařbůh?  
-                                         Stran návratu Odysséova  
+             Stran návratu Odysséova  
 dobře to vím já sám: on všechněm se zprotivil bohům,  
 zcela, že v krajině trójské mu zhynout nedali v boji,  
 aneb v náručí přátel, když ke konci přivedl válku.  
@@ -423,7 +423,7 @@ Byl by mu vysoký rov lid veškerých Danaů zřídil
 k poctě, a velkou slávu by synovi v budoucnu zjednal.  
 Takto však vichoru vztek jej beze vší uchvátil slávy.  
      Já však při vepřích žiju zde samoten.  
-                                                                            Do města nikdy  
+             Do města nikdy  
 nechodím, ledaže někdy mi paní rozkáže přijít,  
 moudrá Pénelopeia, když poselství odněkud přijde.  
      Přisedne k nám pak domácí lid, jenž na vše se táže,  
@@ -462,7 +462,7 @@ kdybych tě do chýše pozval a ve všem tě pohostil řádně,
 potom však v chýši tě zabil a milý život ti odňal —  
 pak se však — jakoby nic — chtěl k Diovi Kronovci modlit!  
      Teď však je k večeři čas. —  
-                                                        Než měli by doma už býti  
+             Než měli by doma už býti  
 druhové, abychom chutné zde v chýši si zřídili jídlo.“  
 Taková byla jich řeč, již navzájem mluvili k sobě.
 
@@ -478,7 +478,7 @@ cizí pak z mozolů našich — a beze vší náhrady — tyjí.“
      Pravil, vzal sekyru tvrdou a naštípal k topení dříví.  
 Vepře tu pěti už let tam přihnali, tučného velmi,  
 do chýše, k samému krbu.  
-                                                   A ovšem nespustil pastýř  
+             A ovšem nespustil pastýř  
 bohů s paměti své, vždyť šlechetná byla v něm mysl.  
 Stříhal mu na hlavě srst, již v oběť do ohně házel,  
 kancovi bělostných zubů, a ke všem bohům se modlil,  
@@ -486,13 +486,13 @@ aby se ve svůj dům již chytrý Odysseus vrátil.
 Vepře pak polenem praštil, jež, štípaje, odložil celé.  
 Zhynul — hned podřízli jej, pak přižehli, ale pak rychle  
 v drobné jej dělili části.  
-                                              Pak v tučné poručil sádlo  
+             Pak v tučné poručil sádlo  
 syrové odřezky klást, jež ze všech vykrojil údů.  
 Ty tedy do ohně házel, když ječnou je posypal moukou.  
      Zkrájeli ostatní maso a na rožně nabodše kusy,  
 pozorně upekli všecko a potom, stáhše je s rožňů,  
 hromadně na stoly kladli.  
-                                                    Tu vstával pastucha vepřů,  
+                         Tu vstával pastucha vepřů,  
 aby je krájel v díly — onť uměl to vykonat správně.  
 Nejdřív rozkrájel všecko a rozdělil na sedm dílů.  
 Nymfám nejprve jeden a Hermovi, Maiinu synu,  
@@ -510,7 +510,7 @@ jak je to v mysli mu vhod, vždyť bohům všecko je možno.“
      Bohům žijícím věčně pak spálil z prvotin kusy,  
 zkropiv je jiskrným vínem. Pak pohár ten do ruky podal  
 hostovi, záhubci měst.  
-                                            Ten při svém poháru seděl.  
+             Ten při svém poháru seděl.  
 Mesaulios pak chléb jim roznesl. Tohoto sluhu  
 pastýř o sobě sám, když pán byl v cizině vzdálen,  
 koupil si bez své paní i Láerta, starého krále:  
@@ -552,7 +552,7 @@ loktem do něho šťouchnuv — on ihned popřál mi sluchu:
 ‚Zchytralý Odyssée, ty z Láerta vládyko jasný,  
 nemožno jest, bych zůstal tu živ, vždyť velká mě zima  
 kruší, nemámť tu plášť. —  
-                                                  Toť běs mi as omámil mysl,  
+             Toť běs mi as omámil mysl,  
 že tu jen v suknici jsem — teď vyváznout není už možno!‘  
      Děl jsem, a nápad tento si onen vymyslil v duši,  
 jaký vždycky byl on jak v boji, tak v společné radě.  
@@ -566,7 +566,7 @@ zdali by od lodi chtěl nám víc sem poslati mužů?‘
      Řekl, i zvedl se Thoás, syn vládyky Andraimona.  
 Ve spěchu vstal, svůj nachový plášť pak s ramenou shodiv,  
 k lodím narychlo spěl.  
-                                            Pln radosti ležel jsem v jeho  
+             Pln radosti ležel jsem v jeho  
 plášti, až zlatotrůnná se zjevila konečně Zora.  
      Kéž jsem nyní tak mlád, ó kéž mám sílu tak pevnou!  
 Pak by tu v stáji mi plášť dal některý z pastuchů vepřů,  
@@ -587,15 +587,15 @@ potom tě vypraví tam, kam volá tě srdce a duše.“
 Takto mu pravil a vstal. Pak při ohni lůžko mu zřídiv,  
 kozí a ovčí kůže mu ke spánku položil na ně.  
 Na to si Odysseus lehl.  
-                                            Však potom ještě mu přidal  
+             Však potom ještě mu přidal  
 huňatý velký plášť, jenž k ruce mu k převleku býval,  
 kdykoli venku by bouř snad povstala obzvláště hrozná.  
 Tak se tam Odysseus tehdy šel uložit. Po boku jeho  
 lehli si mužové mladí.  
-                                           Než Eumaios, pastucha vepřů,  
+             Než Eumaios, pastucha vepřů,  
 nechtěl lůžka tam míti a lehnout si, vepřů jsa vzdálen,  
 nýbrž chystal se ven zas vyjíti.  
-                                                           Těšil se vládce,  
+             Těšil se vládce,  
 ježto, ač sám byl vzdálen, mu pečoval o jeho živnost.  
      Nejdřív si ostrý meč dal na své mohutné plece,  
 pak si vzal huňatý plášť, jenž od větru tělo by chránil,  

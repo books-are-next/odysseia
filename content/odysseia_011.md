@@ -13,13 +13,13 @@ jakož i smrtným lidem, již žijí na zemi žírné.
 
      Do města Nélea vládce tu připluli výstavného,  
 do Pylu.  
-                Právě v ten čas tam Zemětřas kadeří tmavých  
+             Právě v ten čas tam Zemětřas kadeří tmavých  
 obětí černých býků byl uctíván na břehu mořském.  
 Seděli v devíti řadách, pět set jich na každé řadě  
 bylo, a každý ten díl měl devět před sebou býků.  
 Právě už pojedli droby a pálili ze stehen maso,  
 když vtom vjížděli hosté.  
-                                                 Ti plachtoví souměrné lodi  
+             Ti plachtoví souměrné lodi  
 shrnuli, spustili kotvy a potom vystoupli na břeh.
 
      Vystoupil Télemachos, a Pallas kráčela před ním.  
@@ -325,7 +325,7 @@ na samém Gortýny konci a zvedá se v mlhavém moři.
 Notos přívaly vln tam k levému pohání mysu,  
 k Faistu, a nevelký tes tam velké odráží vlny.  
      Tam tedy připluly lodi.  
-                                                  Jen stěží unikli zkáze  
+                         Jen stěží unikli zkáze  
 mužové, avšak loďstvo mu o skály rozbily vlny.  
 Zbylých korábů pět, jež modravé průčelí měly,  
 vítr a příval vln jim přihnaly k Aigypta proudům.  
@@ -408,7 +408,7 @@ které nejlepší máš jak v bujaré síle, tak v běhu.“
 
      Pallas jiskrných zraků jim zmizela po těchto slovech,  
 majíc podobu orla.  
-                                     To vidouce, užasli všichni.  
+             To vidouce, užasli všichni.  
 Stejně se divil i kmet, když na své oči to spatřil.  
 Jinocha za ruku chopil a těmito promluvil slovy:  
 „Doufám, příteli milý, že nebudeš bázliv a slabý,  
@@ -448,7 +448,7 @@ Nestor, gerénský jezdec, se zvednuv se svého lůžka,
 ze své ložnice vyšel a na hladké kameny sedl,  
 které zřízeny měl blíž vysokých paláce dveří,  
 bílé, a jasný lesk plál z nátěru.  
-                                                          Sedával na nich  
+             Sedával na nich  
 Néleus vládyka dřív, jenž věhlasen roven byl bohům.  
 Ten však už podlehl smrti a sešel v Hádovo sídlo.  
      Teď zas gerénský Nestor tam sedával, Achaiů strážce,  
@@ -473,15 +473,15 @@ služkám, by přeslavný hod byl chystán bohyni v domě,
 dále ať sedadla snesou a třpytnou vodu a dříví.“  
      Řekl — ti kvapili hned, jak rozkázal.
 
-                                                                          Kráva vtom přišla  
+             Kráva vtom přišla  
 s pláně, a od lodi rychlé a souměrné přišli i druzi  
 chrabrého Télemacha, a také se dostavil zlatník.  
 Kovářské náčiní měl v své pravici, nástroje díla,  
 kovadlo, měl též perlík a dovedně zrobené kleště,  
 kterými zlatý ten kov znal zpracovat.  
-                                                                         Athéna přišla,  
+                         Athéna přišla,  
 hodů se účastnit chtíc.  
-                                             Vtom Nestor, stařičký jezdec,  
+             Vtom Nestor, stařičký jezdec,  
 zlatníku podal zlato, by krávě té ozlatil rohy,  
 aby tu ozdobu zříc, v svém srdci se těšila Pallas.  
      Stratios, Echefrón slavný, tu jalůvku za rohy vedli,  
@@ -496,7 +496,7 @@ stříhal jalůvce srst, již v oběť do ohně házel.
 ihned tu Thrasymédés, syn vládyky Nestora chrabrý,  
 přistoupiv, jalůvku ťal. Hned sekyra přeťala krční  
 svazy, a jalůvka sil jest zbavena.  
-                                                               Zavýskly hlasně  
+             Zavýskly hlasně  
 veškery dcery a snachy, i manželka Nestora vládce,  
 ctihodná Eurydika, jíž nejdřív dal Klymenos život.  
      Nad zemi širokých cest pak jalůvce nadzdvihše hlavu  
