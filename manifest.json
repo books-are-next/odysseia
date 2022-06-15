@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "homeros-odysseia-e0e82ec",
-  "revision": "e0e82ec",
+  "identifier": "homeros-odysseia-2ac6a64",
+  "revision": "2ac6a64",
   "readingOrder": [
     "promo.html",
     "odysseia_005.html",
@@ -47,8 +47,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:56:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157397293
+    "date": "Wed Jun 15 2022 05:53:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272434376
   },
   "documents": [
     {
@@ -1143,9 +1143,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 99,
-      "chars": 657,
-      "ideas": 14,
+      "words": 118,
+      "chars": 792,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "odysseia_036.html",
@@ -1163,9 +1163,9 @@
   ],
   "totals": {
     "all": {
-      "words": 116124,
-      "chars": 645741,
-      "ideas": 12709
+      "words": 116143,
+      "chars": 645876,
+      "ideas": 12710
     },
     "chapters": {
       "words": 116021,
