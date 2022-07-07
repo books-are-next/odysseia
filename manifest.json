@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "homeros-odysseia-a2a2e6e",
-  "revision": "a2a2e6e",
+  "identifier": "homeros-odysseia-d74f365",
+  "revision": "d74f365",
   "readingOrder": [
     "promo.html",
     "odysseia_005.html",
@@ -47,8 +47,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 08:34:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657182899210
+    "date": "Thu Jul 07 2022 10:03:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657188225876
   },
   "documents": [
     {
