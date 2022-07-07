@@ -47,7 +47,7 @@ readingOrder:
   - odysseia_034.html
   - odysseia_035.html
   - odysseia_036.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
