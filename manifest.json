@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "homeros-odysseia-1bd8dd0",
-  "revision": "1bd8dd0",
+  "identifier": "homeros-odysseia-a2a2e6e",
+  "revision": "a2a2e6e",
   "readingOrder": [
     "promo.html",
     "odysseia_005.html",
@@ -44,11 +44,11 @@
     "odysseia_034.html",
     "odysseia_035.html",
     "odysseia_036.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:17:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979475497
+    "date": "Thu Jul 07 2022 08:34:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182899210
   },
   "documents": [
     {
@@ -117,7 +117,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ÚVOD K PRVNÍMU VYDÁNÍ",
+          "name": "ÚVOD K PRVNÍMU VYDÁNÍ",
           "id": null,
           "children": [
             {
@@ -1129,7 +1129,7 @@
       "role": "chapter",
       "order": 32,
       "prev": "odysseia_035.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1142,11 +1142,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 118,
-      "chars": 792,
+      "chars": 791,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "odysseia_036.html",
       "next": null,
@@ -1164,7 +1164,7 @@
   "totals": {
     "all": {
       "words": 116143,
-      "chars": 645876,
+      "chars": 645875,
       "ideas": 12710
     },
     "chapters": {
