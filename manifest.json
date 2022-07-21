@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "homeros-odysseia-d74f365",
-  "revision": "d74f365",
+  "identifier": "homeros-odysseia-60cabac",
+  "revision": "60cabac",
   "readingOrder": [
     "promo.html",
     "odysseia_005.html",
@@ -47,8 +47,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:03:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188225876
+    "date": "Thu Jul 21 2022 14:36:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414200833
   },
   "documents": [
     {
@@ -1144,7 +1144,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 118,
-      "chars": 791,
+      "chars": 792,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -1164,7 +1164,7 @@
   "totals": {
     "all": {
       "words": 116143,
-      "chars": 645875,
+      "chars": 645876,
       "ideas": 12710
     },
     "chapters": {
