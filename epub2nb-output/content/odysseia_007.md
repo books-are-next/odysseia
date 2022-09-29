@@ -61,7 +61,7 @@ Osoby vystupují před námi _dramaticky živě_ jako v divadle na jevišti. Bá
 
 Dramatický ráz básně zvyšují _řeči._ Jsou logicky jasné, přirozené a výrazné, přiléhají k situaci a povaze osob, trefně vystihujíce charaktery, myšlenky a city. Vypravování básníkovo jest jimi vhodně a hojně proloženo.
 
-V buzení _iluze_ nemá soka. Vykouzluje před námi zdání pravdy a života i tam, kde idealizuje, ano i tam, kde jsme si vědomi pravděnepodobnosti a nemožnosti jeho údajů. Ale básník to podá tak, že se nám to zdá skutečností. Snad můžeme použít slov, kterých Bjørnstjerne Bjørnson užil jiným smyslem: „Skutečnost a báseň, kde báseň je stejně skutečná jako skutečnost.“[\[1\]](./resources/undefined)
+V buzení _iluze_ nemá soka. Vykouzluje před námi zdání pravdy a života i tam, kde idealizuje, ano i tam, kde jsme si vědomi pravděnepodobnosti a nemožnosti jeho údajů. Ale básník to podá tak, že se nám to zdá skutečností. Snad můžeme použít slov, kterých Bjørnstjerne Bjørnson užil jiným smyslem: „Skutečnost a báseň, kde báseň je stejně skutečná jako skutečnost.“[^1]
 
 _Charakteristiky_ jsou mistrné a důsledné. Nedějí se rozbory a úvahami básníkovými, nýbrž skutky a řečmi osob charakterizovaných. Jak mistrně charakterizoval povahu otročí ústy pastýře Eumaia, který byl syn královský, ale unesen byl zrádnou služkou a pak od Foiníčanů prodán do otroctví:
 
@@ -106,7 +106,7 @@ V Odysseii je sice střediskem básně také _král,_ Odysseus, ale nejlepší l
 
 Je-li v Íliadě pravou mravní perlou Hektór, královský princ trójský, v Odysseii je to Eumaios, venkovský pastýř vepřů, sluha Odysséův, a Eurykleia, domácí služka Pénelopeiina.
 
-Básník má v lidu zjevné zalíbení, a je mu nakloněn.[\[2\]](./resources/undefined)
+Básník má v lidu zjevné zalíbení, a je mu nakloněn.[^2]
 
 Posluchači Odysseie nebyli již mocní páni na pevných hradech, nýbrž pracující lid – chudý, jako byl básník sám. Ani Odysseus není pyšným králem, nýbrž laskavým otcem – jak si lid krále představuje. Odysseus udělal si postel, vystavěl si člun. Otec jeho Laértés pracuje na zahradě v dělnických šatech.
 
@@ -142,7 +142,7 @@ Historik Hérodotos spojoval a vysvětloval historické události svých _Dějin
 
 1\. _Zločin musí být potrestán a odčiněn._
 
-Tuto ideu básník prováděl na zpupných ženiších. Kde jen může, vypisuje zpupnost a zvrhlost ženichů a líčí je jako lidi zlé a nešlechetné. Pomstu nad nimi má neustále na mysli a často k ní poukazuje. K ní směřuje všecko, co se v básni líčí, pro ni všecko se děje.[\[3\]](./resources/undefined)
+Tuto ideu básník prováděl na zpupných ženiších. Kde jen může, vypisuje zpupnost a zvrhlost ženichů a líčí je jako lidi zlé a nešlechetné. Pomstu nad nimi má neustále na mysli a často k ní poukazuje. K ní směřuje všecko, co se v básni líčí, pro ni všecko se děje.[^3]
 
 2\. Ale E. Belzner vidí v Odysseii ještě také myšlenku státní (v _Homerische Probleme_ 1912).
 
@@ -152,7 +152,7 @@ Tuto ideu provedl básník ve státě ithackém.
 
 Postavil proti sobě dvě strany: ohroženou rodinu královskou a zpupné vetřelce šlechtické, kteří spoléhajíce se na to, že král nepřijde, dopouštěli se pustého násilí, sahajícího až k úmyslu vraždy vlastního krále a jeho syna – za tím sobeckým účelem, aby jeden z nich stal se králem ithackým. Toto nebezpečí a bezradnost královské rodiny líčí často a s oblibou.
 
-Je-li tento výklad správný, pak by ovšem Odysseia nebyla pouhým vyprávěním událostí, nýbrž dílem uměleckým velikého významu, založeným na ideách, zasahujících hluboko do života lidského. Je tu líčen boj práva a státního pořádku, zastoupeného legitimním králem, s bezprávím a zdivočilostí vzešlou z dlouhé jeho nepřítomnosti, boj, který skončil vítězstvím práva a státního pořádku.[\[4\]](./resources/undefined)
+Je-li tento výklad správný, pak by ovšem Odysseia nebyla pouhým vyprávěním událostí, nýbrž dílem uměleckým velikého významu, založeným na ideách, zasahujících hluboko do života lidského. Je tu líčen boj práva a státního pořádku, zastoupeného legitimním králem, s bezprávím a zdivočilostí vzešlou z dlouhé jeho nepřítomnosti, boj, který skončil vítězstvím práva a státního pořádku.[^4]
 
 Pak jest ovšem Odysseia báseň hlubokého mravního a státního názoru, básník sám jest hluboký myslitel. Před našima očima zvedá se básník velikán, muž filosof, který nejen shrnul ve svých arcidílech veškeru kulturu všeho světa hellénského, nýbrž uměl ze spleti lidského života vybrat vznešenou ideu mravní, spojil ji s ideou státní a založil na ní veliké své dílo.
 
@@ -188,7 +188,7 @@ Ale i část I, Télemachie, je těsně spojena s částí II a III.
 
 Toho máme neklamná svědectví. Uvádím hlavně slova ithackého věštce Halithersa na sněmě ithackém (II). Varuje tam ženichy a napomíná je, aby se krotili, připomínaje jim starou věštbu, že se Odysseus vrátí dvacátého roku, nejsa od nikoho poznán – že je už nablízku a chystá jim smrt a záhubu. Toto místo je neklamným důkazem, že Télemachie je těsně spojena s ostatními dvěma částmi, Návratem Odysséovým (II) a Pomstou nad ženichy (III). Halithersés věští tu i návrat Odysséův i jeho pomstu nad ženichy.
 
-K tomu připojujeme ještě tyto úvahy:[\[5\]](./resources/undefined)
+K tomu připojujeme ještě tyto úvahy:[^5]
 
 Čtenář by nepochopil, proč hned po návratu Odysséově dály se takové přípravy k pobití těch mladých lidí, kdyby mu jejich řádění nebylo dříve předvedeno, a to se stalo v I. části, v Télemachii. Již proto je tedy Télemachie nutná. Bez Télemachie není Odysseie.
 
@@ -251,3 +251,75 @@ Jak malicherné proti těmto vývodům jsou snahy oněch kritiků, kteří z nep
 Posudky kritiků bývají subjektivní. Části, které jsou od jedněch naprosto zavrhovány, jiní vychvalují, přičítajíce jim všecky možné krásy a dokonalosti. Kritických spisů o Homérovi je veliké množství, ale cena jejich je celkem malá. Studium jich bývá trapné i samým klasickým filologům – neodborníkům by zkazily veškeren požitek z četby. Škoda času! Komu jde jen o požitek z četby, nekaz si ho četbou kritiků! Ponech je odborným badatelům! Čti báseň jako báseň, a oddej se jejímu kouzlu, a snad ani neshledáš nedostatků tak často vytýkaných!
 
 </section>
+
+[^1]: Laichterova sbírka krásného písemnictví XI. _Povídky_ Bjørnstjerna Bjørnsona. Řada II. Str. 171.
+
+[^2]: A. Roemer v _Homerische Aufsatze_ 1913 dovozuje, že Odysseia má ráz demokratický a dělnický a že byla určena drobnému lidu, nikoli šlechtě.
+
+[^3]: Dojem tento mění se v jistotu, jestliže uvážíme některá místa v Odysseii:
+
+Když služka Eurykleia spatřila pobité ženichy, chtěla jásat, ale Odysseus ji zakřikl těmito slovy (XXII):
+
+„V duši jen, stařenko, plesej, buď zticha a nejásej hlasně!  
+Nebyl by pobožný čin chtít jásat nad smrtí mužů!  
+_Tyto zde božská vůle a hrozné zhubily činy_,  
+neboť nectili nikdy ni jednoho z pozemských lidí,  
+ať byl dobrý, ať zlý, ať kdokoliv mezi ně přišel.  
+_Proto teď za svou zpupnost jsou stiženi hanebnou smrtí!_“
+
+Odysseus to zřejmě prohlašuje, že ne on, nýbrž bohové potrestali ženichy za jejich hrozné činy. Sebe pokládá za nástroj vyšší vůle božské.
+
+Kdo by si nevzpomněl vznešených slov, která Svatopluk Čech vkládá do úst Janu Žižkovi po vítězné bitvě na hoře Vítkově: „Milí bratří! Nechvaltež mne, ale chvalte toho, jehož jsme my všichni pouhými nehodnými nástroji. Milostivý Bůh povalil slabou rukou naší nepřátele své i naše, protivníky pravdy svaté a našeho jazyka českého i slovenského. Pán všemohoucí, svatá naše záštita, porazil a zetřel mrzkou pýchu jejich. Jemu buď proto čest a chvála na věky věkův amen!“ (Sebrané spisy Sv. Čecha, IX. Výlety, str. 325).
+
+Když byli všichni ženichové pobiti, tu hérold Medón prosil Odysséa za slitování. Odysseus mu dal milost a pravil (XXII):
+
+„Neboj se nic! Můj syn již zachránil tebe a spasil,  
+abys v duši to poznal a také jiným to řekl,  
+_kterak šlechetný čin jest mnohem lepší než špatný,_“
+
+tj. za špatné činy lidé bývají stiženi trestem, za dobré odměnou.
+
+K Athéně pravil bůh Zeus (XXIV):
+
+„Nebyl-li úmysl ten kdys _vymyšlen od tebe samé_,  
+jednou že Odysseus přijde a všecky ty ženichy ztrestá.“
+
+Slova ta dokazují zřejmě, že pomsta stala se řízením božím.
+
+Tato místa jsou důkazem, že básník podložil své básni ideu o vině a trestu a provedl ji na konkrétním případě, tj. na zpupných ženiších.
+
+[^4]: Vizme, co praví starý král Láertés cizinci (Odysséovi), když se ho tázal, zdali tato země jest Ithaké (XXIV):
+
+„Ovšem, jest to ta země, ó cizinče, po níž se tážeš,  
+_avšak násilný lid, pln zpupnosti, nad ní teď vládne._“
+
+Slovy těmi zřejmě jest naznačena anarchie, která za nepřítomnosti královy v zemi nastala.
+
+Na sněmu ithackém starý šlechtic Aigyptios si stěžuje (II), že
+
+„dosud tu nebylo sněmu ni porady občanů starších
+
+_od dob, co Odysseus slavný se vzdálil na dutých lodích_“  
+a žehná tomu, kdo sněm svolal.
+
+I národ tedy cítil, že státní život Ithačanů vyšinul se po odchodu Odysséově z obvyklých kolejí.
+
+Z těchto míst je vidět, že básník měl na mysli též ideu státní.
+
+[^5]: Píšeme obšírněji o Télemachii nejen proto, že bývá vyhlašována za část později přidanou od cizího básníka, nýbrž i proto, že pochopením této části lze pochopit celek.
+
+[^6]: Zpěv II, III a IV.
+
+[^7]: Zpěv VII, VIII a IX.
+
+[^8]: Zpěv IX, X, XI a XII.
+
+[^9]: Zpěv X, XI.
+
+[^10]: Zpěv XI.
+
+[^11]: Zpěv XI, XII.
+
+[^12]: Zpěv XV, XVI.
+
+[^13]: Zpěv XVII–XXIII.

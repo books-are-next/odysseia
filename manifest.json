@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "homeros-odysseia-60cabac",
-  "revision": "60cabac",
+  "identifier": "homeros-odysseia-4b930c3",
+  "revision": "4b930c3",
   "readingOrder": [
     "promo.html",
     "odysseia_005.html",
@@ -47,8 +47,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:36:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414200833
+    "date": "Thu Sep 29 2022 21:29:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486996663
   },
   "documents": [
     {
@@ -66,9 +66,9 @@
     {
       "title": "Odysseia",
       "file": "odysseia_005.html",
-      "words": 20,
-      "chars": 113,
-      "ideas": 6,
+      "words": 404,
+      "chars": 2382,
+      "ideas": 34,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -86,9 +86,9 @@
     {
       "title": "Odysseia",
       "file": "odysseia_006.html",
-      "words": 16,
-      "chars": 84,
-      "ideas": 3,
+      "words": 400,
+      "chars": 2353,
+      "ideas": 31,
       "role": "chapter",
       "order": 2,
       "prev": "odysseia_005.html",
@@ -106,9 +106,9 @@
     {
       "title": "ÚVOD K PRVNÍMU VYDÁNÍ",
       "file": "odysseia_007.html",
-      "words": 5663,
-      "chars": 35436,
-      "ideas": 125,
+      "words": 6142,
+      "chars": 38289,
+      "ideas": 158,
       "role": "chapter",
       "order": 3,
       "prev": "odysseia_006.html",
@@ -170,9 +170,9 @@
     {
       "title": "TÉLEMACHOS",
       "file": "odysseia_008.html",
-      "words": 1,
-      "chars": 10,
-      "ideas": 1,
+      "words": 385,
+      "chars": 2279,
+      "ideas": 29,
       "role": "chapter",
       "order": 4,
       "prev": "odysseia_007.html",
@@ -190,9 +190,9 @@
     {
       "title": "ZPĚV I",
       "file": "odysseia_009.html",
-      "words": 4081,
-      "chars": 22237,
-      "ideas": 456,
+      "words": 4465,
+      "chars": 24506,
+      "ideas": 484,
       "role": "chapter",
       "order": 5,
       "prev": "odysseia_008.html",
@@ -218,9 +218,9 @@
     {
       "title": "ZPĚV II",
       "file": "odysseia_010.html",
-      "words": 3946,
-      "chars": 21680,
-      "ideas": 452,
+      "words": 4336,
+      "chars": 23968,
+      "ideas": 481,
       "role": "chapter",
       "order": 6,
       "prev": "odysseia_009.html",
@@ -242,8 +242,8 @@
             {
               "index": 2,
               "level": 2,
-              "name": "Télemachova cesta[6]",
-              "id": "télemachova-cesta6resourcesundefined",
+              "name": "Télemachova cesta1",
+              "id": "télemachova-cesta6",
               "children": []
             }
           ]
@@ -253,9 +253,9 @@
     {
       "title": "ZPĚV III",
       "file": "odysseia_011.html",
-      "words": 4429,
-      "chars": 24757,
-      "ideas": 508,
+      "words": 4813,
+      "chars": 27026,
+      "ideas": 536,
       "role": "chapter",
       "order": 7,
       "prev": "odysseia_010.html",
@@ -281,9 +281,9 @@
     {
       "title": "ZPĚV IV",
       "file": "odysseia_012.html",
-      "words": 7725,
-      "chars": 42528,
-      "ideas": 868,
+      "words": 8109,
+      "chars": 44797,
+      "ideas": 896,
       "role": "chapter",
       "order": 8,
       "prev": "odysseia_011.html",
@@ -316,9 +316,9 @@
     {
       "title": "NÁVRAT ODYSSÉŮV",
       "file": "odysseia_013.html",
-      "words": 2,
-      "chars": 15,
-      "ideas": 1,
+      "words": 386,
+      "chars": 2284,
+      "ideas": 29,
       "role": "chapter",
       "order": 9,
       "prev": "odysseia_012.html",
@@ -336,9 +336,9 @@
     {
       "title": "ZPĚV V",
       "file": "odysseia_014.html",
-      "words": 4465,
-      "chars": 24488,
-      "ideas": 499,
+      "words": 4849,
+      "chars": 26757,
+      "ideas": 527,
       "role": "chapter",
       "order": 10,
       "prev": "odysseia_013.html",
@@ -364,9 +364,9 @@
     {
       "title": "ZPĚV VI",
       "file": "odysseia_015.html",
-      "words": 3022,
-      "chars": 16577,
-      "ideas": 343,
+      "words": 3406,
+      "chars": 18846,
+      "ideas": 371,
       "role": "chapter",
       "order": 11,
       "prev": "odysseia_014.html",
@@ -392,9 +392,9 @@
     {
       "title": "ZPĚV VII",
       "file": "odysseia_016.html",
-      "words": 3081,
-      "chars": 17316,
-      "ideas": 354,
+      "words": 3471,
+      "chars": 19606,
+      "ideas": 383,
       "role": "chapter",
       "order": 12,
       "prev": "odysseia_015.html",
@@ -409,8 +409,8 @@
             {
               "index": 1,
               "level": 2,
-              "name": "Odysseus hostem krále Alkinoa[7]",
-              "id": "_odysseus-hostem-krále-alkinoa_7resourcesundefined",
+              "name": "Odysseus hostem krále Alkinoa1",
+              "id": "_odysseus-hostem-krále-alkinoa_7",
               "children": []
             }
           ]
@@ -420,9 +420,9 @@
     {
       "title": "ZPĚV VIII",
       "file": "odysseia_017.html",
-      "words": 5217,
-      "chars": 29111,
-      "ideas": 601,
+      "words": 5601,
+      "chars": 31380,
+      "ideas": 629,
       "role": "chapter",
       "order": 13,
       "prev": "odysseia_016.html",
@@ -440,9 +440,9 @@
     {
       "title": "ZPĚV IX",
       "file": "odysseia_018.html",
-      "words": 5218,
-      "chars": 28641,
-      "ideas": 585,
+      "words": 5609,
+      "chars": 30932,
+      "ideas": 614,
       "role": "chapter",
       "order": 14,
       "prev": "odysseia_017.html",
@@ -457,8 +457,8 @@
             {
               "index": 1,
               "level": 2,
-              "name": "Příhody Odysséovy[8]",
-              "id": "příhody-odysséovy8resourcesundefined",
+              "name": "Příhody Odysséovy1",
+              "id": "příhody-odysséovy8",
               "children": []
             },
             {
@@ -489,9 +489,9 @@
     {
       "title": "ZPĚV X",
       "file": "odysseia_019.html",
-      "words": 5291,
-      "chars": 28939,
-      "ideas": 589,
+      "words": 5679,
+      "chars": 31220,
+      "ideas": 618,
       "role": "chapter",
       "order": 15,
       "prev": "odysseia_018.html",
@@ -527,8 +527,8 @@
             {
               "index": 4,
               "level": 2,
-              "name": "Odysseus v podsvětí[9]",
-              "id": "odysseus-vnbsppodsvětí9resourcesundefined",
+              "name": "Odysseus v podsvětí1",
+              "id": "odysseus-vnbsppodsvětí9",
               "children": []
             }
           ]
@@ -538,9 +538,9 @@
     {
       "title": "ZPĚV XI",
       "file": "odysseia_020.html",
-      "words": 5774,
-      "chars": 32150,
-      "ideas": 663,
+      "words": 6165,
+      "chars": 34440,
+      "ideas": 693,
       "role": "chapter",
       "order": 16,
       "prev": "odysseia_019.html",
@@ -555,8 +555,8 @@
             {
               "index": 1,
               "level": 2,
-              "name": "Rozmluvy Odysséovy s dušemi mrtvých v podsvětí.[10]Elpénór",
-              "id": "rozmluvy-odysséovy-snbspdušemi-mrtvých-vnbsppodsvětí10resourcesundefinedelpénór",
+              "name": "Rozmluvy Odysséovy s dušemi mrtvých v podsvětí.1Elpénór",
+              "id": "rozmluvy-odysséovy-snbspdušemi-mrtvých-vnbsppodsvětí10elpénór",
               "children": []
             },
             {
@@ -639,8 +639,8 @@
             {
               "index": 13,
               "level": 2,
-              "name": "Návrat. Pohřeb Elpénorův[11]",
-              "id": "návrat-pohřeb-elpénorův11resourcesundefined",
+              "name": "Návrat. Pohřeb Elpénorův2",
+              "id": "návrat-pohřeb-elpénorův11",
               "children": []
             }
           ]
@@ -650,9 +650,9 @@
     {
       "title": "ZPĚV XII",
       "file": "odysseia_021.html",
-      "words": 4093,
-      "chars": 22729,
-      "ideas": 466,
+      "words": 4477,
+      "chars": 24998,
+      "ideas": 494,
       "role": "chapter",
       "order": 17,
       "prev": "odysseia_020.html",
@@ -713,9 +713,9 @@
     {
       "title": "ZPĚV XIII",
       "file": "odysseia_022.html",
-      "words": 1675,
-      "chars": 9348,
-      "ideas": 197,
+      "words": 2059,
+      "chars": 11617,
+      "ideas": 225,
       "role": "chapter",
       "order": 18,
       "prev": "odysseia_021.html",
@@ -741,9 +741,9 @@
     {
       "title": "POMSTA NAD ŽENICHY",
       "file": "odysseia_023.html",
-      "words": 3,
-      "chars": 18,
-      "ideas": 1,
+      "words": 387,
+      "chars": 2287,
+      "ideas": 29,
       "role": "chapter",
       "order": 19,
       "prev": "odysseia_022.html",
@@ -761,9 +761,9 @@
     {
       "title": "Odysseia",
       "file": "odysseia_024.html",
-      "words": 2312,
-      "chars": 12737,
-      "ideas": 262,
+      "words": 2696,
+      "chars": 15006,
+      "ideas": 290,
       "role": "chapter",
       "order": 20,
       "prev": "odysseia_023.html",
@@ -789,9 +789,9 @@
     {
       "title": "ZPĚV XIV",
       "file": "odysseia_025.html",
-      "words": 4967,
-      "chars": 26942,
-      "ideas": 568,
+      "words": 5351,
+      "chars": 29211,
+      "ideas": 596,
       "role": "chapter",
       "order": 21,
       "prev": "odysseia_024.html",
@@ -817,9 +817,9 @@
     {
       "title": "ZPĚV XV",
       "file": "odysseia_026.html",
-      "words": 5095,
-      "chars": 27884,
-      "ideas": 578,
+      "words": 5483,
+      "chars": 30166,
+      "ideas": 607,
       "role": "chapter",
       "order": 22,
       "prev": "odysseia_025.html",
@@ -848,8 +848,8 @@
             {
               "index": 3,
               "level": 2,
-              "name": "Télemachos u Eumaia. Setkání s otcem[12]",
-              "id": "télemachos-unbspeumaia-setkání-snbspotcem12resourcesundefined",
+              "name": "Télemachos u Eumaia. Setkání s otcem1",
+              "id": "télemachos-unbspeumaia-setkání-snbspotcem12",
               "children": []
             }
           ]
@@ -859,9 +859,9 @@
     {
       "title": "ZPĚV XVI",
       "file": "odysseia_027.html",
-      "words": 4381,
-      "chars": 24048,
-      "ideas": 500,
+      "words": 4765,
+      "chars": 26317,
+      "ideas": 528,
       "role": "chapter",
       "order": 23,
       "prev": "odysseia_026.html",
@@ -887,9 +887,9 @@
     {
       "title": "ZPĚV XVII",
       "file": "odysseia_028.html",
-      "words": 5531,
-      "chars": 30466,
-      "ideas": 619,
+      "words": 5918,
+      "chars": 32751,
+      "ideas": 648,
       "role": "chapter",
       "order": 24,
       "prev": "odysseia_027.html",
@@ -904,8 +904,8 @@
             {
               "index": 1,
               "level": 2,
-              "name": "Odysseus ve svém domě.[13]Řádění ženichů",
-              "id": "odysseus-venbspsvém-domě13resourcesundefinedřádění-ženichů",
+              "name": "Odysseus ve svém domě.1Řádění ženichů",
+              "id": "odysseus-venbspsvém-domě13řádění-ženichů",
               "children": []
             }
           ]
@@ -915,9 +915,9 @@
     {
       "title": "ZPĚV XVIII",
       "file": "odysseia_029.html",
-      "words": 3885,
-      "chars": 21404,
-      "ideas": 439,
+      "words": 4269,
+      "chars": 23673,
+      "ideas": 467,
       "role": "chapter",
       "order": 25,
       "prev": "odysseia_028.html",
@@ -943,9 +943,9 @@
     {
       "title": "ZPĚV XIX",
       "file": "odysseia_030.html",
-      "words": 5527,
-      "chars": 30265,
-      "ideas": 635,
+      "words": 5911,
+      "chars": 32534,
+      "ideas": 663,
       "role": "chapter",
       "order": 26,
       "prev": "odysseia_029.html",
@@ -978,9 +978,9 @@
     {
       "title": "ZPĚV XX",
       "file": "odysseia_031.html",
-      "words": 3498,
-      "chars": 19486,
-      "ideas": 404,
+      "words": 3882,
+      "chars": 21755,
+      "ideas": 432,
       "role": "chapter",
       "order": 27,
       "prev": "odysseia_030.html",
@@ -998,9 +998,9 @@
     {
       "title": "ZPĚV XXI",
       "file": "odysseia_032.html",
-      "words": 3909,
-      "chars": 21705,
-      "ideas": 459,
+      "words": 4293,
+      "chars": 23974,
+      "ideas": 487,
       "role": "chapter",
       "order": 28,
       "prev": "odysseia_031.html",
@@ -1033,9 +1033,9 @@
     {
       "title": "ZPĚV XXII",
       "file": "odysseia_033.html",
-      "words": 4427,
-      "chars": 24913,
-      "ideas": 511,
+      "words": 4811,
+      "chars": 27182,
+      "ideas": 539,
       "role": "chapter",
       "order": 29,
       "prev": "odysseia_032.html",
@@ -1053,9 +1053,9 @@
     {
       "title": "ZPĚV XXIII",
       "file": "odysseia_034.html",
-      "words": 3340,
-      "chars": 18511,
-      "ideas": 387,
+      "words": 3724,
+      "chars": 20780,
+      "ideas": 415,
       "role": "chapter",
       "order": 30,
       "prev": "odysseia_033.html",
@@ -1081,9 +1081,9 @@
     {
       "title": "ZPĚV XXIV",
       "file": "odysseia_035.html",
-      "words": 4908,
-      "chars": 27478,
-      "ideas": 569,
+      "words": 5292,
+      "chars": 29747,
+      "ideas": 597,
       "role": "chapter",
       "order": 31,
       "prev": "odysseia_034.html",
@@ -1123,9 +1123,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "odysseia_036.html",
-      "words": 519,
-      "chars": 3042,
-      "ideas": 42,
+      "words": 1035,
+      "chars": 6023,
+      "ideas": 83,
       "role": "chapter",
       "order": 32,
       "prev": "odysseia_035.html",
@@ -1143,9 +1143,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 118,
-      "chars": 792,
-      "ideas": 15,
+      "words": 109,
+      "chars": 749,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "odysseia_036.html",
@@ -1163,14 +1163,14 @@
   ],
   "totals": {
     "all": {
-      "words": 116143,
-      "chars": 645876,
-      "ideas": 12710
+      "words": 128686,
+      "chars": 719861,
+      "ideas": 13631
     },
     "chapters": {
-      "words": 116021,
-      "chars": 645058,
-      "ideas": 12691
+      "words": 128573,
+      "chars": 719086,
+      "ideas": 13613
     }
   }
 }
