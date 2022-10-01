@@ -50,7 +50,7 @@ Z těchto míst je vidět, že básník měl na mysli též ideu státní.
 [^11]: Zpěv XI, XII.  
 [^12]: Zpěv XV, XVI.  
 [^13]: Zpěv XVII–XXIII.  
-V MKP 2. elektronické vydání z 29. 9. 2022.
+V MKP 2. elektronické vydání z 1. 10. 2022.
 
 ***
 
